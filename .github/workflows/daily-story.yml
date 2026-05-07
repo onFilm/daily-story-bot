@@ -1,0 +1,63 @@
+name: Daily Story Bot
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # Runs daily at 07:00 UTC
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write # Needed to push the stories.json commit
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Daily Story Bot
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: npm start
+
+      - name: Commit and push stories.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stories.json
+          git commit -m "docs: add daily story about ${{ env.theme }}" || echo "No changes to commit"
+          git push
+
+      - name: send mail
+        uses: dawidd6/action-send-mail@v2
+        with:
+          # mail server settings
+          server_address: smtp.gmail.com
+          server_port: 465
+          # user credentials
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          # email subject
+          subject: Here is your daily story about ${{ env.theme }}
+          # email body as text
+          body: Hello, <br><br> ${{ env.story }} <br><br> Thanks, <br> Prajwal
+          # comma-separated string, send email to
+          to: mail2prajwal12@gmail.com, gurusworkout@gmail.com, nistharadinesh@gmail.com
+          bcc: abhi03989@gmail.com
+          # Optional converting Markdown to HTML (set content_type to text/html too):
+          convert_markdown: true
+          # set content_type to text/html:
+          content_type: text/html
+          # from email name
+          from: Prajwal Acharya

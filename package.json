@@ -1,0 +1,28 @@
+{
+  "name": "daily-story-bot",
+  "version": "1.0.0",
+  "description": "A GitHub Actions based automation system that generates a daily inspirational story using Google's Gemini API and sends it via email.",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "gemini",
+    "automation",
+    "story",
+    "github-actions"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.11.1",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
