@@ -3,15 +3,17 @@
 A GitHub Actions based automation system that generates a daily inspirational story using Google's Gemini API and sends it via email.
 
 ## Features
-- **AI Story Generation:** Uses Google's Gemini 1.5 Flash model to create emotional, uplifting stories under 400 words.
-- **Dynamic Themes:** Rotates between themes like discipline, hope, consistency, etc.
-- **Automated Delivery:** Automatically emailed daily via GitHub Actions.
-- **Robust Architecture:** Implements retry mechanisms for both API calls and email sending.
-- **Modern Stack:** Built with TypeScript and Node.js.
+- **Kids-Focused AI Stories:** Uses Google's Gemini 3.1 Flash Lite model to create highly engaging, funny, and uplifting stories targeted at kids aged 6-12.
+- **Rich Structured Data:** Automatically extracts the story, a clear moral lesson, and an age-appropriate vocabulary list (with meanings) using strict JSON parsing.
+- **Emoji Support:** Stories and morals are sprinkled with fun emojis to keep children entertained.
+- **Dynamic Themes:** Rotates between 22 child-friendly themes like "discovering your passion", "teamwork and cooperation", "standing up to bullies", etc.
+- **Beautiful HTML Emails:** Formats the generated content into a beautifully styled, responsive HTML email with a dedicated moral section and vocabulary list.
+- **Automated Delivery & Storage:** Commits the raw JSON data to a local `stories.json` file for your database, and automatically emails the formatted story daily via GitHub Actions.
+- **Robust Architecture:** Implements a built-in retry mechanism to gracefully handle temporary API rate limits or outages (e.g., 503 errors).
 
 ## Architecture Overview
-- `src/generateStory.ts`: Interacts with the Gemini API to craft the daily story.
-- `src/index.ts`: The main entry point that orchestrates generation, appends the story to `stories.json`, and exports variables for GitHub Actions.
+- `src/generateStory.ts`: Interacts with the Gemini API using structured JSON schemas to craft the daily story, extract the moral, and build the vocabulary list.
+- `src/index.ts`: The main entry point that orchestrates generation, saves the structured data to `stories.json`, and crafts the responsive HTML email for GitHub Actions.
 - `.github/workflows/daily-story.yml`: Configures the daily cron job (07:00 UTC), commits `stories.json` to the repo, and sends the email using `dawidd6/action-send-mail@v2`.
 
 ## Local Setup

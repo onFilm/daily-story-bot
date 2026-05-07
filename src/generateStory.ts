@@ -49,19 +49,20 @@ export async function generateStory(): Promise<{ theme: string; story: string; m
 
   const randomTheme = THEMES[Math.floor(Math.random() * THEMES.length)];
 
-  const prompt = `Write a daily inspirational story about "${randomTheme}" targeted towards kids aged 10 to 15. 
-  The story should be written in simple, easy-to-understand English, be engaging, uplifting, and under 400 words. 
-  Include a clear "moral" of the story. 
-  Also, intentionally use 2-3 slightly advanced English words in the story, and then provide a vocabulary list highlighting these new words and their meanings.
+  const prompt = `Write a daily inspirational but FUNNY story about "${randomTheme}" targeted towards kids aged 6 to 12. 
+  The story should be written in very simple, easy-to-understand English, be highly engaging, funny, uplifting, and under 400 words. 
+  Make sure to sprinkle fun emojis throughout the story to keep kids entertained!
+  Include a clear "moral" of the story at the end. 
+  Also, intentionally use 2-3 slightly advanced (but age-appropriate) English words in the story, and then provide a vocabulary list highlighting these new words and their meanings.
   
   Return the response strictly as a JSON object with the following schema:
   {
-    "story": "The text of the story",
-    "moral": "The moral lesson of the story",
+    "story": "The text of the story (with emojis)",
+    "moral": "The moral lesson of the story (with emojis)",
     "vocabulary": [
       {
         "word": "word1",
-        "meaning": "meaning of word1"
+        "meaning": "simple meaning of word1"
       }
     ]
   }`;

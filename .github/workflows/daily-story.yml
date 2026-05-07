@@ -54,9 +54,9 @@ jobs:
           # email subject
           subject: Here is your daily story about ${{ env.theme }}
           # email body as text
-          body: Hello, <br><br> ${{ env.story }} <br><br> Thanks, <br> Prajwal
+          body: ${{ env.story }}
           # comma-separated string, send email to
-          to: mail2prajwal12@gmail.com
+          to: mail2prajwal12@gmail.com, nistharadinesh@gmail.com
           bcc: abhi03989@gmail.com
           # Optional converting Markdown to HTML (set content_type to text/html too):
           convert_markdown: true
