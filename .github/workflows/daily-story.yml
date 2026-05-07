@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '0 7 * * *' # Runs daily at 07:00 UTC
   workflow_dispatch: # Allows manual trigger
+    inputs:
+      test_mode:
+        description: 'Run in Test Mode (Only sends email to Prajwal, skips DB update)'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write # Needed to push the stories.json commit
@@ -32,9 +38,11 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          TEST_MODE: ${{ github.event.inputs.test_mode || 'false' }}
         run: npm start
 
       - name: Commit and push stories.json
+        if: github.event.inputs.test_mode != 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -52,12 +60,12 @@ jobs:
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_PASSWORD }}
           # email subject
-          subject: Here is your daily story about ${{ env.theme }}
+          subject: Here is your daily story about "${{ env.theme }}"
           # email body as text
           body: ${{ env.story }}
           # comma-separated string, send email to
-          to: mail2prajwal12@gmail.com, nistharadinesh@gmail.com
-          bcc: abhi03989@gmail.com
+          to: ${{ github.event.inputs.test_mode == 'true' && 'mail2prajwal12@gmail.com' || 'mail2prajwal12@gmail.com, nistharadinesh@gmail.com' }}
+          bcc: ${{ github.event.inputs.test_mode == 'true' && '' || 'abhi03989@gmail.com' }}
           # Optional converting Markdown to HTML (set content_type to text/html too):
           convert_markdown: true
           # set content_type to text/html:

@@ -1,4 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
+import * as fs from "fs";
+import * as path from "path";
 
 const THEMES = [
   "friendship and loyalty",
@@ -32,7 +34,15 @@ function sleep(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-export async function generateStory(): Promise<{ theme: string; story: string; moral: string; vocabulary: Array<{word: string, meaning: string}> }> {
+export async function generateStory(yesterdayRiddle: string = "None", yesterdayAnswer: string = "None"): Promise<{ 
+  theme: string; 
+  story: string; 
+  moral: string; 
+  vocabulary: Array<{word: string, meaning: string}>;
+  yesterday_puzzle: { question: string; answer: string; explanation: string };
+  today_puzzle: { type: string; question: string };
+  today_puzzle_answer: { answer: string; explanation: string };
+}> {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
     throw new Error("GEMINI_API_KEY is not set in environment variables");
@@ -49,23 +59,13 @@ export async function generateStory(): Promise<{ theme: string; story: string; m
 
   const randomTheme = THEMES[Math.floor(Math.random() * THEMES.length)];
 
-  const prompt = `Write a daily inspirational but FUNNY story about "${randomTheme}" targeted towards kids aged 6 to 12. 
-  The story should be written in very simple, easy-to-understand English, be highly engaging, funny, uplifting, and under 400 words. 
-  Make sure to sprinkle fun emojis throughout the story to keep kids entertained!
-  Include a clear "moral" of the story at the end. 
-  Also, intentionally use 2-3 slightly advanced (but age-appropriate) English words in the story, and then provide a vocabulary list highlighting these new words and their meanings.
+  const promptTemplatePath = path.join(__dirname, "prompt.txt");
+  const promptTemplate = fs.readFileSync(promptTemplatePath, "utf-8");
   
-  Return the response strictly as a JSON object with the following schema:
-  {
-    "story": "The text of the story (with emojis)",
-    "moral": "The moral lesson of the story (with emojis)",
-    "vocabulary": [
-      {
-        "word": "word1",
-        "meaning": "simple meaning of word1"
-      }
-    ]
-  }`;
+  // Replace the placeholders in the new prompt format
+  let prompt = promptTemplate.replace("${randomTheme}", randomTheme);
+  prompt = prompt.replace("${yesterdayRiddle}", yesterdayRiddle);
+  prompt = prompt.replace("${yesterdayAnswer}", yesterdayAnswer);
 
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
@@ -83,7 +83,10 @@ export async function generateStory(): Promise<{ theme: string; story: string; m
         theme: randomTheme, 
         story: parsed.story,
         moral: parsed.moral,
-        vocabulary: parsed.vocabulary || []
+        vocabulary: parsed.vocabulary || [],
+        yesterday_puzzle: parsed.yesterday_puzzle,
+        today_puzzle: parsed.today_puzzle,
+        today_puzzle_answer: parsed.today_puzzle_answer
       };
     } catch (error) {
       console.error(`Attempt ${attempt} failed:`, error);

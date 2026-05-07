@@ -5,15 +5,19 @@ A GitHub Actions based automation system that generates a daily inspirational st
 ## Features
 - **Kids-Focused AI Stories:** Uses Google's Gemini 3.1 Flash Lite model to create highly engaging, funny, and uplifting stories targeted at kids aged 6-12.
 - **Rich Structured Data:** Automatically extracts the story, a clear moral lesson, and an age-appropriate vocabulary list (with meanings) using strict JSON parsing.
+- **Daily Brain Teasers:** Includes a "Yesterday's Reveal" and "Today's Puzzle" system (riddles, logic, etc.) to keep kids thinking and engaged.
 - **Emoji Support:** Stories and morals are sprinkled with fun emojis to keep children entertained.
 - **Dynamic Themes:** Rotates between 22 child-friendly themes like "discovering your passion", "teamwork and cooperation", "standing up to bullies", etc.
-- **Beautiful HTML Emails:** Formats the generated content into a beautifully styled, responsive HTML email with a dedicated moral section and vocabulary list.
+- **Beautiful HTML Emails:** Formats the generated content into a beautifully styled, responsive HTML email with color-coded sections for stories, puzzles, and vocabulary.
+- **Test Mode Support:** Manual workflow trigger includes a "Test Mode" option to send emails only to yourself without updating the database.
+- **Prompt Management:** Prompts are stored in `src/prompt.txt` for easy editing without touching the core logic.
 - **Automated Delivery & Storage:** Commits the raw JSON data to a local `stories.json` file for your database, and automatically emails the formatted story daily via GitHub Actions.
-- **Robust Architecture:** Implements a built-in retry mechanism to gracefully handle temporary API rate limits or outages (e.g., 503 errors).
 
 ## Architecture Overview
-- `src/generateStory.ts`: Interacts with the Gemini API using structured JSON schemas to craft the daily story, extract the moral, and build the vocabulary list.
-- `src/index.ts`: The main entry point that orchestrates generation, saves the structured data to `stories.json`, and crafts the responsive HTML email for GitHub Actions.
+- `src/prompt.txt`: The externalized prompt template for the AI storyteller.
+- `src/generateStory.ts`: Orchestrates the Gemini API using the prompt template and handles context for daily puzzles.
+- `src/index.ts`: The main entry point that manages database persistence, handles the `TEST_MODE` flag, and crafts the responsive HTML email layout.
+
 - `.github/workflows/daily-story.yml`: Configures the daily cron job (07:00 UTC), commits `stories.json` to the repo, and sends the email using `dawidd6/action-send-mail@v2`.
 
 ## Local Setup
