@@ -94,5 +94,29 @@
         "meaning": "feeling very happy and proud because you won or did something well."
       }
     ]
+  },
+  {
+    "date": "2026-05-08T08:20:55.217Z",
+    "theme": "dealing with peer pressure",
+    "story": "Barnaby the Bear loved his fuzzy green hat. It made him feel like a forest king! 🐻 One day, his friends were wearing silly upside-down buckets on their heads. 'Come on, Barnaby!' cheered Benny the Bunny. 'Everyone is wearing buckets now! It is the latest trend!' Barnaby looked at his cozy green hat, then at the heavy, clunky buckets. 'I think I will stick to my hat,' Barnaby said with a giggle. Suddenly, it started to rain. While Benny and his friends were busy trying to keep their buckets from sliding off their ears into their eyes, Barnaby stayed dry and comfortable under his hat. ☔ Benny laughed and said, 'Maybe your hat is cooler than a bucket after all!' Barnaby felt proud that he chose what he liked best, not just what everyone else was doing. 🌟",
+    "moral": "It is always cool to be yourself, even if you are the only one doing it! Be proud of your unique style! ✨😊",
+    "vocabulary": [
+      {
+        "word": "Trend",
+        "meaning": "A style or activity that many people are doing for a short time."
+      },
+      {
+        "word": "Unique",
+        "meaning": "Being one of a kind and special."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a face but no eyes, and I have hands but no arms. I am always moving but I stay in one place. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A clock",
+      "explanation": "A clock has a 'face' (the front part), 'hands' (the pointers that show the time), and it constantly moves to tell us the time without ever leaving your wall or desk!"
+    }
   }
 ]
