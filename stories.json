@@ -118,5 +118,29 @@
       "answer": "A clock",
       "explanation": "A clock has a 'face' (the front part), 'hands' (the pointers that show the time), and it constantly moves to tell us the time without ever leaving your wall or desk!"
     }
+  },
+  {
+    "date": "2026-05-09T08:26:45.984Z",
+    "theme": "taking responsibility",
+    "story": "Barnaby the Bear cub wanted to bake a surprise birthday cake for his Mama. 🐻 He gathered flour, eggs, and a mountain of glittery sprinkles! But while mixing, Barnaby accidentally knocked the bowl over. Flour went *poof* into the air, covering the kitchen like a snowy day! ❄️ Barnaby felt like hiding, but he knew he had to be accountable. He took a deep breath, grabbed a big broom, and started cleaning. When Mama walked in, she saw the messy floor and Barnaby scrubbing away. She didn't mind the mess at all because she was so proud of how he cleaned it up himself! They spent the afternoon baking a new cake together, laughing about the 'snowy kitchen' disaster. 🎂✨ Being honest and fixing your own mistakes is a superpower! 🦸‍♂️",
+    "moral": "Taking responsibility means owning your mistakes and making them right with a smile! 🌟",
+    "vocabulary": [
+      {
+        "word": "Accountable",
+        "meaning": "Willing to accept responsibility for your actions."
+      },
+      {
+        "word": "Disaster",
+        "meaning": "A sudden accident that causes a lot of trouble or mess."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have many keys, but I cannot open a single door. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A piano",
+      "explanation": "A piano has many white and black 'keys' that you press to make beautiful music, even though they don't lock or unlock any doors!"
+    }
   }
 ]
