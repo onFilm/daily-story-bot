@@ -142,5 +142,29 @@
       "answer": "A piano",
       "explanation": "A piano has many white and black 'keys' that you press to make beautiful music, even though they don't lock or unlock any doors!"
     }
+  },
+  {
+    "date": "2026-05-10T08:52:34.064Z",
+    "theme": "taking responsibility",
+    "story": "Barnaby the Bear had a very important job: he was the official Jam Inspector for the Forest Picnic! 🍯 One sunny morning, he accidentally knocked over a big jar of strawberry jam. SPLAT! It went all over the forest floor. 🍓 Barnaby felt nervous. He could have blamed the wind, or even a squirrel, but he knew that wouldn't be honest. So, he took a deep breath and grabbed a bucket of water and a big leaf mop. He worked hard to scrub the sticky mess until the grass was sparkly clean again! 🧼 When his friend Pip the Rabbit arrived, Barnaby said, 'I made a mess, but I fixed it!' Pip gave him a high-five for being so reliable. Barnaby learned that owning his mistake made him feel much lighter than hiding it ever could. Taking responsibility turned a sticky situation into a super sunny day! ☀️🐻",
+    "moral": "When you make a mistake, fixing it shows you are brave, honest, and truly growing! 🌟💪",
+    "vocabulary": [
+      {
+        "word": "Inspector",
+        "meaning": "A person whose job is to check that things are done correctly."
+      },
+      {
+        "word": "Reliable",
+        "meaning": "Being a person others can trust to do what they say they will do."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a thin part called a neck and a lid that we call a cap!"
+    }
   }
 ]
