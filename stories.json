@@ -190,5 +190,37 @@
       "answer": "A candle",
       "explanation": "A candle starts out long, but as it burns down to give us light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-05-12T09:37:17.408Z",
+    "theme": "friendship and loyalty",
+    "story": "Barnaby the Bear and Pip the Penguin were the best of friends, even though they lived in very different places. Barnaby loved the forest, and Pip loved the chilly ice. One sunny afternoon, Barnaby decided to visit Pip with a special surprise: a giant, fuzzy hat! 🎩 When Barnaby arrived, he slipped on a patch of ice and started sliding like a furry bowling ball! 🐻💨 'Look out!' he yelled, giggling. Pip saw his friend spinning toward a snowdrift and quickly slid over to catch him. 'I’ve got you, buddy!' Pip cheered as he used his tummy to stop Barnaby’s slide. They landed in a heap of soft snow, laughing until their bellies ached. ❄️😂 Barnaby realized that even when things get a bit wobbly, a loyal friend is always there to help you stay upright. They spent the rest of the day building a snow-bear that looked suspiciously like Barnaby wearing his new hat! 🌟",
+    "moral": "True friendship means being there for each other, through every silly slide and bumpy ride! 🤝✨",
+    "vocabulary": [
+      {
+        "word": "Loyal",
+        "meaning": "Always standing by your friend's side and being supportive."
+      },
+      {
+        "word": "Suspiciously",
+        "meaning": "When something looks like it might have a secret or a funny reason behind it."
+      },
+      {
+        "word": "Wobbly",
+        "meaning": "Moving from side to side in an unsteady way."
+      },
+      {
+        "word": "Upright",
+        "meaning": "Standing straight up on your feet."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to type letters, a space bar for empty spaces, and an 'Enter' key, but it's not a door you can walk through!"
+    }
   }
 ]
