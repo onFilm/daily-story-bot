@@ -14,11 +14,11 @@ Write a daily inspirational but FUNNY story about "${randomTheme}" targeted towa
 
 The story must:
 - Use very simple, easy-to-understand English.
-- Be highly engaging, playful, uplifting, imaginative, and under 400 words.
+- Be highly engaging, playful, uplifting, imaginative, and under 1000 words.
 - Sprinkle fun emojis naturally throughout the story.
 - Include lovable characters, playful situations, and a happy emotional tone.
 - End with a clear positive moral lesson.
-- Include 2–3 slightly advanced but age-appropriate English words.
+- Include 4–5 slightly advanced but age-appropriate English words.
 - Provide simple meanings for those words.
 
 ========================
