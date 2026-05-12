@@ -64,7 +64,7 @@ jobs:
           # email body as text
           body: ${{ env.story }}
           # comma-separated string, send email to
-          to: ${{ github.event.inputs.test_mode == 'true' && 'mail2prajwal12@gmail.com' || 'mail2prajwal12@gmail.com, nistharadinesh@gmail.com' }}
+          to: ${{ github.event.inputs.test_mode == 'true' && 'mail2prajwal12@gmail.com' || 'mail2prajwal12@gmail.com, nistharadinesh@gmail.com, dr.dineshsaralaya@gmail.com, sangeethabk99@gmail.com' }}
           bcc: ${{ github.event.inputs.test_mode == 'true' && '' || 'abhi03989@gmail.com' }}
           # Optional converting Markdown to HTML (set content_type to text/html too):
           convert_markdown: true
