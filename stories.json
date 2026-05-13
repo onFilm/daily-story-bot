@@ -222,5 +222,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to type letters, a space bar for empty spaces, and an 'Enter' key, but it's not a door you can walk through!"
     }
+  },
+  {
+    "date": "2026-05-13T09:49:06.805Z",
+    "theme": "teamwork and cooperation",
+    "story": "Barnaby the Bear and Squeaky the Squirrel decided to bake a giant blueberry pancake for the forest picnic! 🥞 Barnaby was very strong and could carry the heavy flour sack, but he was a bit clumsy. Squeaky was very fast and good at measuring, but he wasn't tall enough to reach the mixing bowl on the high counter. 'Oh dear!' said Barnaby, accidentally bumping into the sugar jar. *Poof!* A white cloud of sugar covered his nose. Squeaky giggled, 'Don't worry, big friend! If you lift me up to reach the bowl, I can stir while you add the berries.' Together, they worked like a team! Barnaby lifted Squeaky high, and Squeaky stirred the batter until it was perfectly smooth. They poured it onto the griddle, and it sizzled with a happy sound. When the pancake was ready, it was the biggest, fluffiest, and most delicious treat the forest had ever seen! Everyone cheered, and the two friends realized that even the silliest mistakes become tiny bumps in the road when you have a friend to help you. 🐻🐿️✨",
+    "moral": "When we work together, we can achieve wonderful things and have much more fun! 🤝🌟",
+    "vocabulary": [
+      {
+        "word": "Clumsy",
+        "meaning": "When someone accidentally drops or bumps into things."
+      },
+      {
+        "word": "Cooperation",
+        "meaning": "Working together with others to get a job done."
+      },
+      {
+        "word": "Fluffy",
+        "meaning": "Soft, light, and airy, like a cloud."
+      },
+      {
+        "word": "Griddle",
+        "meaning": "A flat surface or pan used for cooking food like pancakes."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has to be broken before you can use it?"
+    },
+    "today_puzzle_answer": {
+      "answer": "An egg",
+      "explanation": "You have to crack the shell to get the delicious part inside to make breakfast!"
+    }
   }
 ]
