@@ -254,5 +254,37 @@
       "answer": "An egg",
       "explanation": "You have to crack the shell to get the delicious part inside to make breakfast!"
     }
+  },
+  {
+    "date": "2026-05-14T09:33:36.238Z",
+    "theme": "dealing with peer pressure",
+    "story": "Barnaby the Bear was a very talented dancer! 🐻💃 He could do the shimmy, the shake, and even the 'Fluffy Wiggle.' But one day, all the cool squirrels in the forest decided to hop on one foot everywhere they went. They told Barnaby, 'Come on, Barnaby! If you want to be cool, you have to stop dancing and start hopping! Hopping is the trend!' Barnaby tried to hop, but he bumped into a tree. Thump! Then he tripped over a mushroom. Boing! He felt silly. He realized he didn't like hopping; he liked dancing! So, Barnaby put on his favorite music and started his best spin. The squirrels stopped to watch, and soon, they realized dancing was much more fun than hopping on one foot! They all joined in for a big forest dance party. 🎶✨ Barnaby learned that being himself was the best way to be a leader, not a follower!",
+    "moral": "Always be true to yourself, even if everyone else is doing something different! You are special just the way you are! 🌟💖",
+    "vocabulary": [
+      {
+        "word": "Trend",
+        "meaning": "Something popular that everyone is doing for a short time."
+      },
+      {
+        "word": "Talented",
+        "meaning": "Being naturally very good at doing something."
+      },
+      {
+        "word": "Leader",
+        "meaning": "Someone who guides others or chooses to do their own thing bravely."
+      },
+      {
+        "word": "Follower",
+        "meaning": "Someone who just copies what other people do."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys, a space bar, and an Enter button, but it isn't a room you can walk into!"
+    }
   }
 ]
