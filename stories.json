@@ -286,5 +286,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys, a space bar, and an Enter button, but it isn't a room you can walk into!"
     }
+  },
+  {
+    "date": "2026-05-15T09:47:06.750Z",
+    "theme": "resilience after a setback",
+    "story": "Barnaby the Bear had one dream: to become the world’s greatest pancake flipper! 🥞 One sunny morning, he put on his polka-dot apron and grabbed his favorite pan. He mixed the batter with a big, happy smile. 'This is the day!' he cheered. 🐻 He tossed his first pancake high into the air, but—oops!—it landed right on his fuzzy head like a hat! 🎩 The next one hit the kitchen wall with a loud 'splat.' Even his dog, Buster, looked a little confused. Barnaby felt a bit silly, but he didn't give up. He remembered that even the best chefs make mistakes. He took a deep breath, giggled at the sticky mess, and tried again. He started small, flipping tiny pancakes with a flick of his wrist. Suddenly—swish!—a perfect golden pancake landed right in the center of his plate! 🍽️ Barnaby cheered, and he and Buster enjoyed a delicious, bouncy breakfast together. He learned that trying again is the secret ingredient to success! ✨",
+    "moral": "Even when things don't go as planned, keep trying with a smile! You are capable of amazing things when you don't give up. 🌟💪",
+    "vocabulary": [
+      {
+        "word": "Resilience",
+        "meaning": "The ability to keep trying even when things are difficult."
+      },
+      {
+        "word": "Batter",
+        "meaning": "A mixture of flour, eggs, and milk used to make pancakes."
+      },
+      {
+        "word": "Chef",
+        "meaning": "A person who loves to cook delicious food."
+      },
+      {
+        "word": "Capable",
+        "meaning": "Having the power or skill to do something well."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life, but I have no breath. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "A candle is long when you first light it, but as the wax melts away to give you light, it gets shorter and shorter!"
+    }
   }
 ]
