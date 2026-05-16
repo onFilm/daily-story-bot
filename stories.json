@@ -318,5 +318,37 @@
       "answer": "A candle",
       "explanation": "A candle is long when you first light it, but as the wax melts away to give you light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-05-16T08:47:13.513Z",
+    "theme": "embracing your uniqueness",
+    "story": "Barnaby the Bear was not like the other bears in the Whispering Woods. While his friends liked to fish for salmon, Barnaby loved to paint portraits of pinecones! 🎨 Every morning, he would carefully pick up a blueberry bush branch, dip it in colorful mud, and turn a simple cone into a masterpiece. 'Barnaby,' the other bears would giggle, 'bears don't paint! Bears climb trees!' Barnaby would just chuckle and add a sparkle of gold dust to his artwork. ✨ One day, the Great Forest Festival arrived. The squirrels needed someone to decorate the giant stage. The other bears tried to help, but they kept bumping into things with their big paws! 🐻 Barnaby stepped up with his tiny brushes. He turned the boring stage into a beautiful forest mural that made everyone cheer! The other bears realized that being different wasn't just okay—it was wonderful. Barnaby proved that when you embrace your own talents, you bring something special to the world! 🌟",
+    "moral": "Being yourself is your greatest superpower! Don't be afraid to show the world what makes you unique. 🌈",
+    "vocabulary": [
+      {
+        "word": "Masterpiece",
+        "meaning": "A work of art made with great skill."
+      },
+      {
+        "word": "Mural",
+        "meaning": "A large painting done directly on a wall or a very big surface."
+      },
+      {
+        "word": "Unique",
+        "meaning": "One of a kind; special and different from everyone else."
+      },
+      {
+        "word": "Embrace",
+        "meaning": "To accept something happily and welcome it."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to press, a space bar for spaces, and an 'Enter' key, but you aren't actually going into a room!"
+    }
   }
 ]
