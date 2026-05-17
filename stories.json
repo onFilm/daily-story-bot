@@ -350,5 +350,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to press, a space bar for spaces, and an 'Enter' key, but you aren't actually going into a room!"
     }
+  },
+  {
+    "date": "2026-05-17T09:04:14.314Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a very big problem. He accidentally sat on his sister Bella’s prize-winning blueberry pie! 🥧 It was squashed flat, looking like a giant blue pancake. Barnaby panicked. He thought, 'Maybe I can fix it with some glitter and glue?' But he knew that wouldn't make it taste like a pie again. 🐻 Barnaby felt his tummy do a nervous flip-flop. He knew he had to tell the truth, even if it was scary. He walked into the kitchen, his paws shaking just a little. 'Bella,' he squeaked, 'I am so sorry, but I accidentally sat on your beautiful pie.' 🐾 Bella looked at the mess and then at her brother. She sighed, but then she smiled. 'Thank you for telling me, Barnaby,' she said. 'It is much better to have an honest brother than a perfect pie!' They spent the rest of the afternoon baking a new, even bigger pie together. They added extra sprinkles because everything is better with sprinkles! 🧁✨ Being honest felt much better than hiding a sticky secret.",
+    "moral": "Telling the truth is the bravest and best thing you can do, even when you make a mistake! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens without you planning for it to happen."
+      },
+      {
+        "word": "Honest",
+        "meaning": "Always telling the truth and not lying."
+      },
+      {
+        "word": "Panicked",
+        "meaning": "Feeling very worried or scared for a short time."
+      },
+      {
+        "word": "Prize-winning",
+        "meaning": "Something so good that it deserves an award or trophy."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a narrow top called a neck, and it is closed with a cap!"
+    }
   }
 ]
