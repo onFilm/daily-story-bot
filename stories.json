@@ -382,5 +382,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a narrow top called a neck, and it is closed with a cap!"
     }
+  },
+  {
+    "date": "2026-05-18T11:06:32.587Z",
+    "theme": "discovering your passion",
+    "story": "Barnaby the Bear was a very busy fellow. One day, he decided to become a baker! 🧁 He put on a giant chef's hat that kept sliding over his eyes. Oops! He tried to make a blueberry pie, but he accidentally used salt instead of sugar. When he tasted it, his face did a funny wiggle, and he gave a silly sneeze: 'ACHOO!' 🐻 Suddenly, flour was everywhere, making him look like a fluffy white marshmallow. Barnaby didn't give up. He tried painting, but he ended up with more paint on his nose than on the canvas. 🎨 He tried dancing, but he tripped over his own paws and did a graceful somersault! Everyone laughed, including Barnaby. Finally, he sat down to read a book, and he felt a spark. He realized his true passion wasn't just doing one thing; it was being curious and trying new adventures with a big smile! ✨ He was a 'Jack-of-all-trades' and proud of it. He felt truly magnificent. 🎈",
+    "moral": "It is okay to try new things and make funny mistakes! Your passion is hidden in the things that make you smile. 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Magnificent",
+        "meaning": "Something that is very beautiful, impressive, or great."
+      },
+      {
+        "word": "Curious",
+        "meaning": "When you really want to learn or know about something."
+      },
+      {
+        "word": "Somersault",
+        "meaning": "A move where you roll your body over, head-first."
+      },
+      {
+        "word": "Jack-of-all-trades",
+        "meaning": "A person who is good at or likes trying many different things."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys, a space bar, and an 'Enter' key, but you cannot walk inside it!"
+    }
   }
 ]
