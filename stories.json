@@ -414,5 +414,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys, a space bar, and an 'Enter' key, but you cannot walk inside it!"
     }
+  },
+  {
+    "date": "2026-05-19T10:36:56.243Z",
+    "theme": "discovering your passion",
+    "story": "Barnaby the Bear was a very busy fellow. He tried being a baker, but he accidentally used salt instead of sugar in his cupcakes! 🧁 The cupcakes were so salty that the birds refused to eat them. Then, he tried to be a painter, but he got more blue paint on his nose than on the canvas! 🎨 'Oh dear,' Barnaby sighed, 'I just don't know what I am good at!' One afternoon, Barnaby was walking through the forest when he saw a group of squirrels trying to build a bridge across a small puddle. They were confused and dropping their sticks. Barnaby knelt down and started showing them how to balance the twigs carefully. He was so patient and had such clever ideas! 💡 The bridge was finished in no time, and the squirrels cheered! Barnaby realized that helping others and building things made his heart feel warm and happy. He had finally discovered his passion for being a forest engineer! 🪵✨ He wasn't a baker or a painter, but he was the best bridge-maker the woods had ever seen! 🐻",
+    "moral": "It is okay to try many new things until you find what makes your heart shine! Never stop exploring! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Passion",
+        "meaning": "Something you love doing so much that it makes you very happy."
+      },
+      {
+        "word": "Engineer",
+        "meaning": "Someone who likes to build, design, or figure out how things work."
+      },
+      {
+        "word": "Patient",
+        "meaning": "Being calm and not getting upset when things take a long time."
+      },
+      {
+        "word": "Canvas",
+        "meaning": "The special cloth that artists use to paint their pictures on."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am full of holes, but I can still hold water. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A sponge",
+      "explanation": "A sponge has many little holes in it, but because of the material it is made of, it soaks up water and holds it inside!"
+    }
   }
 ]
