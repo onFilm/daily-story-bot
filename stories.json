@@ -446,5 +446,37 @@
       "answer": "A sponge",
       "explanation": "A sponge has many little holes in it, but because of the material it is made of, it soaks up water and holds it inside!"
     }
+  },
+  {
+    "date": "2026-05-20T10:24:08.588Z",
+    "theme": "the importance of listening",
+    "story": "Barnaby the Bear was a very friendly fellow, but he had one tiny, silly problem: he was always too busy humming songs to actually listen to his friends! 🐻🎶 One sunny Tuesday, his friend Pip the Squirrel came rushing over. 'Barnaby! Please don't go to the river today! The beavers are painting the bridge, and it is very slippery!' Pip squeaked. Barnaby was busy practicing his operatic 'La-la-la-Loo!' and only heard the part about the river. He thought Pip said, 'Go to the river for a bouncy-ball treat!' 🎾 So, Barnaby skipped to the river, humming loudly. He saw the wet paint, but he was too busy dancing to notice the sign that said 'Wet Paint! Danger!' Splash! He slid right onto the bridge and turned his fur a bright, neon polka-dot blue! 🎨 Luckily, he landed on a soft pile of moss. When the beavers helped him up, Barnaby finally stopped humming. He realized he had missed the most important part of the conversation! From that day on, Barnaby decided to be a 'Super Listener.' He learned that when you pay attention, you stay dry, safe, and polka-dot free! 🌈✨",
+    "moral": "Listening carefully is like having a superpower—it keeps you safe and helps you understand the world around you! 👂🌟",
+    "vocabulary": [
+      {
+        "word": "Operatic",
+        "meaning": "Singing in a big, loud, and dramatic way, like in an opera."
+      },
+      {
+        "word": "Slippery",
+        "meaning": "Smooth or wet, making it easy to slide or fall."
+      },
+      {
+        "word": "Neon",
+        "meaning": "Very bright and glowing colors."
+      },
+      {
+        "word": "Conversation",
+        "meaning": "A friendly talk between two or more people."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to type with, a space bar for putting spaces between words, and an 'Enter' key to start a new line!"
+    }
   }
 ]
