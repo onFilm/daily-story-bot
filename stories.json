@@ -478,5 +478,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to type with, a space bar for putting spaces between words, and an 'Enter' key to start a new line!"
     }
+  },
+  {
+    "date": "2026-05-21T10:39:35.553Z",
+    "theme": "dealing with peer pressure",
+    "story": "Barnaby the Bear was famous for his fancy polka-dot bowtie. 🎀 One sunny Tuesday, Barnaby’s friends decided they wanted to be 'cool' by wearing giant, clunky cardboard boxes on their heads. 'Come on, Barnaby!' chirped Pip the Penguin. 'It’s the latest fashion! Everyone is doing it!' Barnaby tried to put on a box, but it was wobbly, it smelled like old crackers, and he couldn't see his favorite butterfly bush. 🦋 He bumped into a tree and accidentally did a silly wiggle-dance. The other animals started to giggle, but Barnaby felt ridiculous. He decided to take his box off. 'I like my bowtie better,' he declared with a grin. 'And honestly, I prefer seeing where I’m walking!' Suddenly, the other animals noticed how funny they looked in their boxes too. They all took them off, started laughing, and had a great time playing tag instead! Barnaby learned that being himself was much more fun than trying to be a cardboard-box-head. 🎈",
+    "moral": "It is always better to be yourself than to just follow what everyone else is doing! Shine bright being you! 🌟",
+    "vocabulary": [
+      {
+        "word": "Ridiculous",
+        "meaning": "Something that is very silly or funny."
+      },
+      {
+        "word": "Fashion",
+        "meaning": "The style of clothes or accessories that are popular at the time."
+      },
+      {
+        "word": "Declare",
+        "meaning": "To say something clearly and firmly."
+      },
+      {
+        "word": "Honestly",
+        "meaning": "To tell the truth about what you really think."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has to be broken before you can use it?"
+    },
+    "today_puzzle_answer": {
+      "answer": "An egg",
+      "explanation": "You have to crack the shell of an egg to cook it or eat what is inside!"
+    }
   }
 ]
