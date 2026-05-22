@@ -510,5 +510,37 @@
       "answer": "An egg",
       "explanation": "You have to crack the shell of an egg to cook it or eat what is inside!"
     }
+  },
+  {
+    "date": "2026-05-22T10:24:12.450Z",
+    "theme": "dealing with jealousy",
+    "story": "Barnaby the Bear was a very talented baker. He made the fluffiest blueberry muffins in the whole forest! 🐻🧁 But one day, his friend Pip the Rabbit arrived with a shiny, bright red super-bouncing pogo stick. Everyone gathered around to watch Pip jump high into the air. Boing! Boing! Barnaby looked at his tray of muffins. Suddenly, he felt a funny, itchy feeling in his tummy. It was jealousy! He thought, 'Why is Pip having all the fun?' He tried to balance a muffin on his nose to get attention, but—splat!—the muffin landed right on his own fuzzy ear. 🧁👂 Pip hopped over and giggled, 'Barnaby, that looks delicious!' Then, Barnaby had a brilliant idea. He invited everyone to have a 'Muffin-Jumping Party.' They ate his treats and took turns on the pogo stick. Barnaby realized that being happy for his friend made his own day twice as fun! 🎈✨",
+    "moral": "When you share in the joy of others, your own happiness grows even bigger! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Talented",
+        "meaning": "Being very good at doing something special."
+      },
+      {
+        "word": "Jealousy",
+        "meaning": "A feeling you get when you wish you had what someone else has."
+      },
+      {
+        "word": "Brilliant",
+        "meaning": "Very smart, clever, or bright."
+      },
+      {
+        "word": "Gathered",
+        "meaning": "When people or animals come together in one place."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has letter keys, a space bar, and an enter key, but you don't use them like doors!"
+    }
   }
 ]
