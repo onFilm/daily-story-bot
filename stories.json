@@ -542,5 +542,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has letter keys, a space bar, and an enter key, but you don't use them like doors!"
     }
+  },
+  {
+    "date": "2026-05-23T09:01:06.261Z",
+    "theme": "empathy and kindness",
+    "story": "Barnaby the Bear had a big problem. He tried to bake a blueberry pie, but he accidentally used salt instead of sugar! 🥧 When his friend Pip the Squirrel came over for a treat, Barnaby felt embarrassed. He hid the pie behind his back. But Pip noticed Barnaby looked sad. Instead of asking about the pie, Pip brought out some shiny acorns and started telling a silly joke about a dancing toad! 🐸 Barnaby started to giggle. He realized that Pip was being very perceptive. Pip knew Barnaby needed a smile more than anything. Barnaby finally laughed and showed Pip the salty pie. Together, they decided to turn the mistake into a funny 'Salty Surprise' competition for all their friends! Barnaby felt relieved. Kindness wasn't just about sharing food; it was about being compassionate when a friend was feeling a bit blue. 💙",
+    "moral": "True kindness means understanding how others feel and being there for them, even when things go a little bit silly! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Embarrassed",
+        "meaning": "Feeling a little shy or silly because of a mistake."
+      },
+      {
+        "word": "Perceptive",
+        "meaning": "Being good at noticing how others are feeling."
+      },
+      {
+        "word": "Compassionate",
+        "meaning": "Showing care and kindness to someone who needs it."
+      },
+      {
+        "word": "Relieved",
+        "meaning": "Feeling happy because a worry has gone away."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has many teeth but cannot bite?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A comb",
+      "explanation": "A comb has many little 'teeth' for brushing hair, but it doesn't have a mouth to eat or bite anything!"
+    }
   }
 ]
