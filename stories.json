@@ -574,5 +574,37 @@
       "answer": "A comb",
       "explanation": "A comb has many little 'teeth' for brushing hair, but it doesn't have a mouth to eat or bite anything!"
     }
+  },
+  {
+    "date": "2026-05-24T09:21:04.556Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a very important job: he was the Chief Honey Taster for the Forest Festival! 🍯 One afternoon, Barnaby accidentally knocked over the giant jar of golden honey. Splash! It went all over the floor. Panicked, Barnaby quickly wiped it up and put the lid back on, but there was much less honey than before. 🐻 When the Mayor asked why the jar was low, Barnaby felt a little wiggle in his tummy. He could have blamed a sneaky squirrel, but he remembered his grandpa’s words: 'Honesty is the best coat you can wear.' So, Barnaby took a deep breath and said, 'I tripped, Mr. Mayor. It was my clumsy paws. I am so sorry!' 🐾 The Mayor didn't get mad at all. Instead, he laughed and said, 'Thank you for being sincere, Barnaby! Accidents happen to everyone, but telling the truth shows you have real character.' The rest of the animals cheered, and they all worked together to make a fresh batch of berry honey for the party! 🍓✨",
+    "moral": "Being honest makes you feel light and brave, and it helps everyone trust you more! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Chief",
+        "meaning": "The leader or the person in charge."
+      },
+      {
+        "word": "Sincere",
+        "meaning": "Saying exactly what you truly feel or believe; being honest."
+      },
+      {
+        "word": "Character",
+        "meaning": "The qualities that make you a good, kind, and reliable person."
+      },
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens by mistake and you didn't mean to do it."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a face but no eyes, and I have hands but no arms. I keep moving, but I never go anywhere. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A clock",
+      "explanation": "A clock has a face with numbers, two hands that move to tell time, but it stays in one spot on the wall or shelf!"
+    }
   }
 ]
