@@ -606,5 +606,37 @@
       "answer": "A clock",
       "explanation": "A clock has a face with numbers, two hands that move to tell time, but it stays in one spot on the wall or shelf!"
     }
+  },
+  {
+    "date": "2026-05-25T11:10:01.635Z",
+    "theme": "embracing your uniqueness",
+    "story": "Barnaby the Bear was not like the other bears in the Whispering Woods. 🐻 While other bears loved to catch fish, Barnaby loved to bake blueberry muffins! 🧁 One sunny morning, he decided to host a picnic. He wore a giant, polka-dot apron that made him look like a very fluffy cupcake himself. 🎀 When his friends arrived, they were surprised. 'Barnaby,' said his friend Pip the Squirrel, 'bears are supposed to be fierce and fishy, not floury!' Barnaby giggled and handed them warm muffins. 'I think being a chef-bear is much more fun than being a fish-bear!' he chirped. Suddenly, a grumpy storm cloud hovered overhead, but it turned into a gentle mist because the delicious smell of Barnaby’s baking made it too happy to rain! 🌈 The forest animals all cheered, and Barnaby realized that by being his unique, muffin-loving self, he had made everyone’s day a little bit sweeter. 🌟",
+    "moral": "Your unique talents are like a superpower—always be proud of what makes you, YOU! ✨💖",
+    "vocabulary": [
+      {
+        "word": "Unique",
+        "meaning": "Being the only one of its kind; special."
+      },
+      {
+        "word": "Fierce",
+        "meaning": "Strong, powerful, or having a wild energy."
+      },
+      {
+        "word": "Hovered",
+        "meaning": "Staying in one place in the air."
+      },
+      {
+        "word": "Delicious",
+        "meaning": "Something that tastes very good."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A map",
+      "explanation": "A map shows you all the places in the world on paper or a screen, but you can't actually live inside a map drawing!"
+    }
   }
 ]
