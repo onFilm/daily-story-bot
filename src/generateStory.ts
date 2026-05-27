@@ -49,7 +49,7 @@ export async function generateStory(yesterdayRiddle: string = "None", yesterdayA
   }
 
   const genAI = new GoogleGenerativeAI(apiKey);
-  const modelName = process.env.GEMINI_MODEL || "gemini-3.1-flash-lite-preview";
+  const modelName = process.env.GEMINI_MODEL || "gemini-3.1-flash-lite";
   const model = genAI.getGenerativeModel({ 
     model: modelName,
     generationConfig: {
