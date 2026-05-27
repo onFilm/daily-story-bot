@@ -638,5 +638,37 @@
       "answer": "A map",
       "explanation": "A map shows you all the places in the world on paper or a screen, but you can't actually live inside a map drawing!"
     }
+  },
+  {
+    "date": "2026-05-27T11:41:24.689Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a big problem. He was supposed to bring honey to the Forest Picnic, but he accidentally ate it all while napping! 🍯🐻 He felt very guilty. He thought about telling everyone he dropped it, but his tummy felt like it was doing somersaults. Instead, Barnaby walked up to his friends with his head hanging low. 'I have a confession,' he squeaked. 'I ate the picnic honey because it smelled too delicious!' 🐝 Everyone went quiet. Then, his friend Pip the Rabbit giggled. 'Barnaby, you always do that! We brought extra carrots and berries, so it is okay!' They all laughed and cheered because Barnaby was brave enough to tell the truth. 🍓✨ Telling the truth made his heart feel light as a feather!",
+    "moral": "Being honest shows that you are brave and kind, and it always makes you feel better inside! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Confession",
+        "meaning": "To tell the truth about something you did."
+      },
+      {
+        "word": "Guilty",
+        "meaning": "Feeling bad because you did something wrong."
+      },
+      {
+        "word": "Delicious",
+        "meaning": "Something that tastes very good."
+      },
+      {
+        "word": "Brave",
+        "meaning": "Showing courage when doing something hard."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys like 'space' and 'enter', but it is not a real room you can walk into!"
+    }
   }
 ]
