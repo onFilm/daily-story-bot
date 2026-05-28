@@ -670,5 +670,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys like 'space' and 'enter', but it is not a real room you can walk into!"
     }
+  },
+  {
+    "date": "2026-05-28T10:55:25.439Z",
+    "theme": "navigating middle school drama",
+    "story": "Barnaby the Bear was very excited for his first day at Middle School Forest Academy! 🐻 But soon, he faced a 'drama' emergency. His friend, Pip the Squirrel, accidentally tripped and dropped a giant pile of shiny acorns all over the cafeteria floor! 🐿️ Everyone stopped to look, and Pip turned bright red. Barnaby knew he had to act fast to help his friend. He didn't make a joke or point fingers. Instead, he did a silly 'acorn dance' and started scooping them up, pretending he was a squirrel treasure hunter! 🎶 Soon, other classmates joined in, turning the messy accident into a fun game of 'Acorn Rescue.' By the time the floor was clean, Pip wasn't embarrassed anymore; he was laughing! Barnaby realized that helping others feel comfortable is the coolest move you can make in middle school. ✨",
+    "moral": "When things go wrong, kindness is the best way to turn a frown into a smile! 🌟 Helping others makes you a true hero in any classroom. 🤝",
+    "vocabulary": [
+      {
+        "word": "Drama",
+        "meaning": "An exciting or busy situation, often involving feelings."
+      },
+      {
+        "word": "Emergency",
+        "meaning": "A sudden situation that needs quick attention."
+      },
+      {
+        "word": "Embarrassed",
+        "meaning": "Feeling shy or silly because of a mistake."
+      },
+      {
+        "word": "Classmates",
+        "meaning": "The people who go to school in the same grade or room as you."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life, but I have no breath. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "When a candle is brand new, it is tall. As it burns and melts down over time, it gets shorter and shorter!"
+    }
   }
 ]
