@@ -702,5 +702,37 @@
       "answer": "A candle",
       "explanation": "When a candle is brand new, it is tall. As it burns and melts down over time, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-05-29T10:45:00.536Z",
+    "theme": "overcoming fear of failure",
+    "story": "Barnaby the Bear had a very big dream: he wanted to be the first bear to juggle pinecones! 🐻🌲 Every time he tried, the pinecones went 'boing' and bounced off his nose. 'Oops!' Barnaby giggled, watching a pinecone roll into a blueberry bush. His friend, Pip the Squirrel, chirped, 'Don't worry, Barnaby! Everyone starts somewhere.' Barnaby felt a little nervous that he would never learn, but he took a deep breath. He tried again, and this time, he caught one pinecone! Then he caught two! He was so excited that he accidentally bumped into a tree, causing a shower of colorful autumn leaves to fall on his head like confetti. 🎉 Barnaby realized that even when things didn't go perfectly, he was still having fun. He wasn't afraid of failing anymore; he was just learning how to juggle better! ✨",
+    "moral": "Trying and making mistakes is just a fun way to practice becoming an expert! You've got this! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Confetti",
+        "meaning": "Small, colorful pieces of paper or materials thrown during a celebration."
+      },
+      {
+        "word": "Expert",
+        "meaning": "Someone who is very good at doing something because they have practiced a lot."
+      },
+      {
+        "word": "Nervous",
+        "meaning": "Feeling a little worried or excited about something."
+      },
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens by mistake and you didn't mean for it to happen."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to type, a space bar for spaces, and an enter key, but you can't walk inside of it!"
+    }
   }
 ]
