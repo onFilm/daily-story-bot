@@ -734,5 +734,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to type, a space bar for spaces, and an enter key, but you can't walk inside of it!"
     }
+  },
+  {
+    "date": "2026-05-30T09:13:58.942Z",
+    "theme": "self-acceptance and body positivity",
+    "story": "Barnaby the Bear was not your average bear. While other bears spent their days fishing, Barnaby spent his time trying to be a cloud! ☁️ He would stand on his tiptoes, puff out his cheeks, and try to float. But instead of floating, he would just wobble and go 'plop' onto his soft, fuzzy bottom. 🐻 'Oh, fiddle-faddle!' Barnaby giggled. 'I am just too round and jiggly to be a cloud!' One day, Barnaby saw a beautiful, colorful butterfly with shiny wings. He tried to wiggle his ears like the butterfly wings. He flapped his arms, but he just ended up doing a funny bear-dance that made all the squirrels laugh. 🐿️ He felt a little silly, but then a wise old owl named Ollie landed nearby. 'Barnaby,' Ollie hooted, 'why try to be a cloud or a butterfly when you are the world’s best hugger? Your soft, round tummy is perfect for cozy naps!' Barnaby realized that being a bear was actually quite wonderful. He didn't need to float or fly; he was meant to be exactly who he was—a happy, cuddly, and very jiggly bear! He gave himself a big bear hug and felt absolutely magnificent. ✨",
+    "moral": "You are special just the way you are! Don't try to be like someone else when your own unique shape and personality are already perfect. 🌟",
+    "vocabulary": [
+      {
+        "word": "Magnificent",
+        "meaning": "Something that is very beautiful, impressive, or wonderful."
+      },
+      {
+        "word": "Fiddle-faddle",
+        "meaning": "A silly way to say 'nonsense' or that something is just a little bit frustrating."
+      },
+      {
+        "word": "Wobble",
+        "meaning": "To move unsteadily from side to side."
+      },
+      {
+        "word": "Unique",
+        "meaning": "Being the only one of its kind; special and different."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life, but I am not alive. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "A candle is long and tall when it is brand new, but as it burns down to give us light, it gets shorter and shorter!"
+    }
   }
 ]
