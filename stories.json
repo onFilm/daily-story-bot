@@ -766,5 +766,37 @@
       "answer": "A candle",
       "explanation": "A candle is long and tall when it is brand new, but as it burns down to give us light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-05-31T09:46:26.624Z",
+    "theme": "the importance of listening",
+    "story": "Barnaby the Bear had the biggest, floppiest ears in the whole forest! 🐻 But there was one problem: Barnaby was a terrible listener. When his mom said, 'Barnaby, please put your honey pot in the pantry,' Barnaby heard, 'Barnaby, please put your honey pot on your pantry... pantaloons!' So, he tried to balance his sticky honey jar on his pants. *Splat!* 🍯 Sticky honey everywhere! 🙈 One sunny morning, his friend Squeaky the Squirrel tried to warn him. 'Barnaby, look out for the—' but Barnaby was too busy singing, 'La-la-la, I'm a dancing bear!' He accidentally tripped over a sleeping log and landed right in a pile of fluffy marshmallows left out for a picnic. *Boing!* ☁️ He bounced around like a sugary ball! Squeaky giggled, 'Barnaby, I said look out for the marshmallows!' Barnaby realized that if he stopped singing and started listening, he would have a lot fewer sticky accidents and a lot more fun. From that day on, Barnaby used his giant ears to listen carefully, and he never wore his snacks again! 🐻✨",
+    "moral": "Listening helps us learn, keeps us safe, and saves us from silly, sticky mistakes! 👂✨",
+    "vocabulary": [
+      {
+        "word": "Pantry",
+        "meaning": "A small room or cupboard where food is kept."
+      },
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens by mistake or without meaning to."
+      },
+      {
+        "word": "Marshmallows",
+        "meaning": "Soft, sweet, squishy treats often found at campfires."
+      },
+      {
+        "word": "Carefully",
+        "meaning": "Doing something with focus to make sure nothing goes wrong."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys but no locks. I have a space but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys for typing, a space bar for gaps between words, and an Enter key, but it is not a room you can walk into!"
+    }
   }
 ]
