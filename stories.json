@@ -798,5 +798,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys for typing, a space bar for gaps between words, and an Enter key, but it is not a room you can walk into!"
     }
+  },
+  {
+    "date": "2026-06-01T12:35:39.563Z",
+    "theme": "discovering hidden talents",
+    "story": "Barnaby the Bear was a very talented at… tripping over his own toes! 🐻 He tried to paint, but he ended up wearing more blue paint than the canvas. He tried to bake, but his cookies turned into crunchy, circular bricks. Poor Barnaby felt like he had no special skills at all. One sunny afternoon, Barnaby was walking in the park when he heard a tiny 'Help!' 🌸 It was a little squirrel who had dropped his favorite shiny nut into a deep, narrow hole. Barnaby reached down with his long, fluffy arm. It was a perfect fit! He scooped it out easily. Then, he helped a bird reach a high branch and even used his 'clumsy' big feet to press down a wobbly stone in the path so no one else would trip. 🐾 Suddenly, he realized something amazing! Being big and slightly clumsy meant he was excellent at reaching things and fixing paths for his friends. Barnaby beamed a giant, fuzzy smile. He wasn't a painter or a chef, but he was a fantastic Helper Bear! 🌟",
+    "moral": "Everyone has a unique talent, even if it takes a little time and a few silly mistakes to find it! Keep being you! ✨",
+    "vocabulary": [
+      {
+        "word": "Clumsy",
+        "meaning": "Often bumping into things or dropping things by accident."
+      },
+      {
+        "word": "Canvas",
+        "meaning": "A piece of cloth used for painting pictures on."
+      },
+      {
+        "word": "Unique",
+        "meaning": "Special and unlike anything else."
+      },
+      {
+        "word": "Fantastic",
+        "meaning": "Very good, wonderful, or amazing."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a narrow top called a neck and a lid that we call a cap!"
+    }
   }
 ]
