@@ -862,5 +862,37 @@
       "answer": "A candle",
       "explanation": "A candle starts out long, but as it burns down to give us light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-06-03T11:55:39.318Z",
+    "theme": "empathy and kindness",
+    "story": "Barnaby the Bear had a big problem. He tried to bake a giant blueberry muffin for his friend, Pip the Squirrel, but he accidentally used salt instead of sugar! 🧁 When Pip took a bite, his face went all squiggly like a piece of overcooked spaghetti. 🍝 Barnaby felt terrible! He didn't want to laugh; he wanted to help. He quickly grabbed his chef hat and said, 'Oh no, Pip! Let's make a new batch together.' Barnaby felt a burst of empathy. He understood that mistakes can be embarrassing, so he decided to make a silly face to show that it was okay to be clumsy sometimes. 🐻 Pip giggled, and soon they were covered in flour, dancing in the kitchen while mixing the new batter. They realized that when you act with compassion, even a kitchen catastrophe turns into a fun memory! ✨ They ended the day sharing a perfectly sweet muffin under the big oak tree. 🌳",
+    "moral": "When someone else is having a tough moment, showing kindness and understanding makes everything better! 😊🌟",
+    "vocabulary": [
+      {
+        "word": "Empathy",
+        "meaning": "Trying to understand how someone else feels."
+      },
+      {
+        "word": "Compassion",
+        "meaning": "Caring about someone and wanting to help them."
+      },
+      {
+        "word": "Catastrophe",
+        "meaning": "A big, messy, or silly accident."
+      },
+      {
+        "word": "Clumsy",
+        "meaning": "Moving in a way that might cause a small accident, like dropping things."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A keyboard has keys for typing, a space bar for putting spaces between words, and an Enter key!"
+    }
   }
 ]
