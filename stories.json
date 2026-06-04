@@ -894,5 +894,37 @@
       "answer": "A keyboard",
       "explanation": "A keyboard has keys for typing, a space bar for putting spaces between words, and an Enter key!"
     }
+  },
+  {
+    "date": "2026-06-04T10:38:03.427Z",
+    "theme": "discovering hidden talents",
+    "story": "Barnaby the Bear was a very talented... sleeper! 😴 He could nap through a thunderstorm, a parade, and even a tickle fight. But Barnaby wanted to find a 'real' talent. He tried juggling pinecones, but they hit him on the nose. Boing! 🌲 He tried singing opera, but the squirrels asked him to please, please stop. Poor Barnaby felt like a clunky puddle of fur. One sunny morning, he saw a group of bees struggling to reach the sweet clover on a high branch. Barnaby walked over, stood on his tiptoes, and stretched his long, fluffy arm. 'Reach!' he giggled. He wasn't just reaching; he was actually quite graceful! He carefully plucked the clover and lowered it for the bees. The bees hummed a happy song of thanks! 🐝 Suddenly, Barnaby realized he had a talent for 'Gentle Gardening.' He spent the afternoon carefully arranging flowers and helping his forest friends reach things. He wasn't a singer or a juggler, but he was a fantastic helper! 🌸 Barnaby did a little happy dance, his tummy wiggling with joy. He was finally a star in his own way! ✨",
+    "moral": "You don't have to be good at everything to be special. Keep trying new things, and your unique talent will find you! 🌟",
+    "vocabulary": [
+      {
+        "word": "Graceful",
+        "meaning": "Moving in a smooth, elegant, or pretty way."
+      },
+      {
+        "word": "Clunky",
+        "meaning": "Heavy, awkward, or not very smooth."
+      },
+      {
+        "word": "Unique",
+        "meaning": "One of a kind; special and different from everyone else."
+      },
+      {
+        "word": "Struggle",
+        "meaning": "To try very hard to do something that is difficult."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a 'neck' where the top starts and a 'cap' that screws on to close it, just like a hat!"
+    }
   }
 ]
