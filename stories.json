@@ -926,5 +926,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a 'neck' where the top starts and a 'cap' that screws on to close it, just like a hat!"
     }
+  },
+  {
+    "date": "2026-06-05T10:45:15.306Z",
+    "theme": "the power of a positive attitude",
+    "story": "Barnaby the Bear woke up feeling extra bouncy! 🐻 Today was the day of the Great Forest Picnic. But oh no! As he carried his giant basket of honey-cakes, he tripped over a silly root and—SPLASH! 🍯 All his cakes landed in a puddle of blueberry jam. Poor Barnaby! Most bears would growl, but Barnaby took a deep breath and giggled. 'Well,' he said, 'now I have blueberry-honey cake soup!' 🫐 He scooped up the yummy mess and added some crunchy granola. When he arrived at the picnic, everyone thought it was the best invention ever! Barnaby realized that even when things go wrong, finding the bright side makes everything a party. He felt resilient and happy, and he even taught the squirrels how to do a silly dance while they ate their bowls of cake soup! 🐿️✨",
+    "moral": "A positive attitude can turn a little mistake into a big adventure! Stay sunny! ☀️😊",
+    "vocabulary": [
+      {
+        "word": "Resilient",
+        "meaning": "Able to bounce back and stay happy after something goes wrong."
+      },
+      {
+        "word": "Invention",
+        "meaning": "Something new that someone has created for the first time."
+      },
+      {
+        "word": "Puddle",
+        "meaning": "A small pool of liquid on the ground."
+      },
+      {
+        "word": "Crunchy",
+        "meaning": "Something that makes a loud sound when you bite into it."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What is full of holes but can still hold a lot of water?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A sponge",
+      "explanation": "A sponge is filled with tiny air holes, but it is excellent at soaking up and holding onto water!"
+    }
   }
 ]
