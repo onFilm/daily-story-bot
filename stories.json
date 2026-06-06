@@ -958,5 +958,37 @@
       "answer": "A sponge",
       "explanation": "A sponge is filled with tiny air holes, but it is excellent at soaking up and holding onto water!"
     }
+  },
+  {
+    "date": "2026-06-06T09:24:41.664Z",
+    "theme": "the power of a positive attitude",
+    "story": "Barnaby the Bear had a very big problem. He was trying to bake his famous honey-berry pie, but he accidentally used salt instead of sugar! 🍯🥧 When he took a bite, he made a face like he had just swallowed a lemon. Most bears would be grumpy, but Barnaby had a secret superpower: a positive attitude! Instead of throwing the pie away, he chuckled and said, 'Well, at least this is the world's first salty-sweet snack!' 🐻 He decided to add some extra honey and a splash of milk to balance the flavor. Suddenly, the kitchen smelled like a magical meadow! When his friend Pip the Squirrel came by, they shared the pie. 'It's different,' Pip giggled, 'but it’s actually delicious!' Barnaby beamed with joy. He learned that when things go a little wrong, a happy thought and a dash of creativity can make everything taste like a masterpiece. 🌟✨",
+    "moral": "Even when things don't go as planned, a positive attitude helps you turn a mistake into a fun adventure! 🌈😊",
+    "vocabulary": [
+      {
+        "word": "Superpower",
+        "meaning": "A special or extraordinary ability."
+      },
+      {
+        "word": "Creativity",
+        "meaning": "Using your imagination to come up with new or clever ideas."
+      },
+      {
+        "word": "Masterpiece",
+        "meaning": "A work of art or food made with great skill and care."
+      },
+      {
+        "word": "Balance",
+        "meaning": "Keeping things steady or making them just right by adding different parts."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has letter keys, a space bar for empty spaces, and an 'Enter' key, but you don't actually walk into it!"
+    }
   }
 ]
