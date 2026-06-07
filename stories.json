@@ -990,5 +990,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has letter keys, a space bar for empty spaces, and an 'Enter' key, but you don't actually walk into it!"
     }
+  },
+  {
+    "date": "2026-06-07T09:58:50.833Z",
+    "theme": "dealing with jealousy",
+    "story": "Barnaby the Bear was a very talented pancake flipper. 🥞 He could flip them so high they almost touched the clouds! But one day, his friend Pip the Penguin learned to juggle shiny blueberries. Suddenly, everyone at the forest picnic was watching Pip! Barnaby felt a little tickle of jealousy in his tummy. He thought, 'Why is everyone looking at berries instead of my golden pancakes?' 🐻 Barnaby tried to flip a pancake extra high to get attention, but it landed right on his own head like a fuzzy yellow hat! Splat! Everyone laughed—but in a kind, giggly way. Pip walked over and shared a juggling blueberry. 'You are amazing at flipping, Barnaby!' Pip said. 'I just wanted to try something new.' Barnaby realized that Pip being good at juggling didn't mean Barnaby was any less special. He started laughing, too, and soon, they were a team: The Pancake-Flipping, Blueberry-Juggling Superstars! 🌟 Life is much more fun when we celebrate our friends' talents instead of worrying about our own spotlight. ✨",
+    "moral": "Your friend's sparkle doesn't make your own light shine any less bright. Celebrate each other! 💖",
+    "vocabulary": [
+      {
+        "word": "Jealousy",
+        "meaning": "A feeling of wanting what someone else has."
+      },
+      {
+        "word": "Talented",
+        "meaning": "Having a natural skill or being very good at something."
+      },
+      {
+        "word": "Celebrate",
+        "meaning": "To show joy and happiness for someone else's success."
+      },
+      {
+        "word": "Spotlight",
+        "meaning": "When everyone is looking at you or paying attention to you."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. I am filled with something refreshing. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a long 'neck' at the top, a cap to close it, and it holds drinks to keep you hydrated!"
+    }
   }
 ]
