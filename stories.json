@@ -1054,5 +1054,37 @@
       "answer": "A comb",
       "explanation": "A comb has rows of thin parts that look like teeth, and we use it to untangle our hair to look neat!"
     }
+  },
+  {
+    "date": "2026-06-09T10:33:42.992Z",
+    "theme": "forgiving a friend",
+    "story": "Barnaby the Bear and Pip the Squirrel were best friends. They lived in a sunny forest. One day, they decided to bake a giant honey-blueberry muffin together! 🧁 Barnaby was in charge of the blueberries, but he got a little too excited and accidentally dropped the whole bowl of berries into his own tummy instead of the bowl! 'Oops!' Barnaby giggled. Pip was not happy. He had worked so hard to find those berries. Pip crossed his tiny arms and huffed. But then, Barnaby looked sad. 'I am truly sorry, Pip. I was just so hungry, I didn't think!' Barnaby pulled a secret stash of golden honey from his backpack to make the muffin even better. Pip saw Barnaby's honest face and felt his frustration evaporate like morning mist. ☀️ 'Okay, Barnaby,' Pip chirped. 'I forgive you! Let's bake!' They worked together, giggled a lot, and made the best muffin ever. It was sticky, messy, and delicious! They learned that being a good friend means choosing kindness over being upset. 🐻🐿️✨",
+    "moral": "True friendship grows stronger when we say sorry and choose to forgive with a big heart! ❤️🌈",
+    "vocabulary": [
+      {
+        "word": "Frustration",
+        "meaning": "The feeling you get when things don't go the way you want."
+      },
+      {
+        "word": "Evaporate",
+        "meaning": "To disappear or fade away like water turning into mist."
+      },
+      {
+        "word": "Honest",
+        "meaning": "Telling the truth and being fair."
+      },
+      {
+        "word": "Stash",
+        "meaning": "A secret store or supply of something."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys but open no locks. I have a space but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A computer keyboard",
+      "explanation": "It has 'keys' for typing, a 'space' bar, and an 'Enter' button, but it is just a machine!"
+    }
   }
 ]
