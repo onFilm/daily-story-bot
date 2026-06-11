@@ -1118,5 +1118,37 @@
       "answer": "A clock",
       "explanation": "A clock has a face with numbers, hands to show the time, and it 'runs' by ticking, but it stays hanging on the wall!"
     }
+  },
+  {
+    "date": "2026-06-11T11:21:42.036Z",
+    "theme": "discovering your passion",
+    "story": "Barnaby the Bear was a very busy fellow. One day, he decided he wanted to be an artist! He bought ten giant pots of bright blue paint. 🎨 He dipped his paws in and painted the kitchen walls, the ceiling, and even his own nose! But it looked a bit messy, and his mom thought the house looked like a giant blueberry. Barnaby sighed. Next, he tried baking. He made a cake that looked like a shoe! 🍰 It was squishy and silly, but it didn't taste very good. Barnaby felt a little sad. Then, he went outside to the garden. He saw his friend, Daisy the Squirrel, trying to fix a wobbly birdhouse. Barnaby used his big, strong paws to hold the wood steady while Daisy hammered. They laughed as they built a beautiful home for the birds together! 🏠✨ 'Wow!' said Barnaby. 'I love building things!' He realized he wasn't a painter or a baker, but he was a fantastic builder. He felt so proud and happy to use his strength to help his friends. From that day on, Barnaby was the happiest builder in the forest! 🐻🛠️",
+    "moral": "Trying new things is the best way to find out what you are truly great at! Keep exploring with a smile. 😊🌟",
+    "vocabulary": [
+      {
+        "word": "Artist",
+        "meaning": "A person who creates things like paintings or drawings."
+      },
+      {
+        "word": "Wobbly",
+        "meaning": "Something that is unsteady and moves from side to side."
+      },
+      {
+        "word": "Strength",
+        "meaning": "The quality of being physically strong or powerful."
+      },
+      {
+        "word": "Explore",
+        "meaning": "To look around or try new things to learn more about them."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but I cannot open any locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys for typing, a 'space' bar, and an 'enter' button, but it's just for writing, not for real rooms!"
+    }
   }
 ]
