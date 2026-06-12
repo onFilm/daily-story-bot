@@ -1150,5 +1150,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys for typing, a 'space' bar, and an 'enter' button, but it's just for writing, not for real rooms!"
     }
+  },
+  {
+    "date": "2026-06-12T11:00:03.316Z",
+    "theme": "standing up to bullies",
+    "story": "Barnaby the Bunny was not very big, but he had a very big heart! 🐰 One sunny morning, Barnaby went to the park to practice his hop-skipping. Suddenly, a big, goofy squirrel named Squeaky started acting silly. Squeaky would follow Barnaby around, making funny 'honk-honk' noises with his nose just to be bothersome. 🐿️ Barnaby felt a bit nervous, but he remembered what his mom told him. He stood up tall, wiggled his nose, and said in a very loud, clear voice, 'Squeaky, I like to play, but I do not like the honking. Please play nicely or give me some space!' 🌟 Squeaky stopped mid-honk, looking quite surprised! He realized he was being a bit silly and not a great friend. 'Oh, sorry Barnaby!' Squeaky giggled. 'I just wanted to be funny. Can we race instead?' Barnaby beamed with joy. They spent the rest of the afternoon racing and eating crunchy carrots together! 🥕✨",
+    "moral": "Using your voice to speak up kindly but firmly is the best way to turn a grumpy moment into a great friendship! 🌈",
+    "vocabulary": [
+      {
+        "word": "Bothersome",
+        "meaning": "Something that is a little annoying or keeps you from what you want to do."
+      },
+      {
+        "word": "Nervous",
+        "meaning": "Feeling a little bit worried or shaky inside."
+      },
+      {
+        "word": "Beamed",
+        "meaning": "To smile very brightly and happily."
+      },
+      {
+        "word": "Firmly",
+        "meaning": "Doing something in a way that shows you mean exactly what you say."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a narrow top part called a neck and a lid that we call a cap!"
+    }
   }
 ]
