@@ -1182,5 +1182,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a narrow top part called a neck and a lid that we call a cap!"
     }
+  },
+  {
+    "date": "2026-06-13T09:56:01.533Z",
+    "theme": "discovering your passion",
+    "story": "Barnaby the Bear was a very busy bear, but he had a funny problem. He didn't know what he was good at! 🐻 One day, he tried to paint, but he accidentally painted his own nose purple! 🎨 Then, he tried to bake a cake, but it turned into a giant, gooey pancake. 🥞 Barnaby felt a little bit silly, but he stayed determined. He tried juggling apples, but they rolled everywhere like bouncy balls! 🍎 Suddenly, he saw a group of bees dancing in the meadow. Barnaby started to wiggle his ears and hop to the beat. He wasn't just hopping; he was doing a 'Bear-tastic Boogie!' 💃 The other forest animals clapped and cheered. Barnaby realized that his true passion wasn't painting or baking—it was making everyone laugh with his silly dance moves! He felt absolutely jubilant as he spun in circles. ✨ Barnaby learned that if you keep trying new things, you will eventually find what makes your heart sing. 🎶",
+    "moral": "Never give up on trying new things! Your special talent is waiting for you to find it. 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Determined",
+        "meaning": "Not giving up, even when things are hard."
+      },
+      {
+        "word": "Jubilant",
+        "meaning": "Feeling very, very happy and excited."
+      },
+      {
+        "word": "Passion",
+        "meaning": "Something you love to do very much."
+      },
+      {
+        "word": "Meadow",
+        "meaning": "A field filled with grass and pretty flowers."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has to be broken before you can use it?"
+    },
+    "today_puzzle_answer": {
+      "answer": "An egg",
+      "explanation": "You have to crack or break the shell of an egg to cook it or eat what is inside!"
+    }
   }
 ]
