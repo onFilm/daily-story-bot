@@ -1214,5 +1214,37 @@
       "answer": "An egg",
       "explanation": "You have to crack or break the shell of an egg to cook it or eat what is inside!"
     }
+  },
+  {
+    "date": "2026-06-14T10:23:37.746Z",
+    "theme": "digital balance and outdoor adventures",
+    "story": "Barnaby the Bear had a very special tablet. He loved playing 'Honey Harvest' on it! One sunny morning, he was so busy tapping his screen that he didn't notice his friend, Sally the Squirrel, waving at him. 'Barnaby! Come see the giant sunflower!' she chirped. Barnaby kept tapping, 'Just one more minute, Sally!' 📱 Suddenly, the tablet screen turned black. 'Oh no!' cried Barnaby. 'My battery is exhausted!' 🔋 He felt a bit grumpy at first, but then he looked outside. The sun was shining, and the birds were singing a silly song. He went out to see the sunflower and realized it was taller than his house! They spent the whole afternoon playing hide-and-seek among the giant leaves. Barnaby realized that even though the digital world is fun, the real world is full of amazing, high-definition adventures! 🌻🌳",
+    "moral": "Life is much more colorful when you look up from your screen and play with your friends in the real world! 🌈✨",
+    "vocabulary": [
+      {
+        "word": "Exhausted",
+        "meaning": "When something has no energy left, like a battery or a tired person."
+      },
+      {
+        "word": "Digital",
+        "meaning": "Things related to computers, phones, or tablets."
+      },
+      {
+        "word": "Adventure",
+        "meaning": "An exciting and fun experience or journey."
+      },
+      {
+        "word": "High-definition",
+        "meaning": "Something that looks very clear and sharp."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys but no locks. I have a space but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "Keyboards have keys for letters, a space bar to make gaps between words, and an Enter key!"
+    }
   }
 ]
