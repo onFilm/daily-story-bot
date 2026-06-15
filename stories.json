@@ -1246,5 +1246,37 @@
       "answer": "A keyboard",
       "explanation": "Keyboards have keys for letters, a space bar to make gaps between words, and an Enter key!"
     }
+  },
+  {
+    "date": "2026-06-15T13:11:44.104Z",
+    "theme": "discovering hidden talents",
+    "story": "Barnaby the Bear was very good at napping, but he wanted a talent. He tried juggling pinecones, but they kept bonking him on the nose! 👃 He tried painting with honey, but the squirrels just ate his masterpiece! 🍯🐿️ 'I am not talented at all,' Barnaby sighed. One day, he saw a group of bees trying to reach a high flower. Barnaby climbed up, but he didn't squash the flowers. Instead, he used his long, fuzzy arm to gently bend the branch down so the bees could reach the nectar! 🐝 The bees hummed a happy song. Then, a lost butterfly landed on his nose, and Barnaby stayed perfectly still for an hour, acting like a giant, soft statue so she wouldn't be scared. 🦋 Barnaby realized his talent wasn't juggling; it was being a gentle helper to all his forest friends! Everyone started calling him 'Barnaby the Kind.' He felt magnificent! ✨",
+    "moral": "Your unique talent might be something small that makes a big difference to someone else! 🌟",
+    "vocabulary": [
+      {
+        "word": "Masterpiece",
+        "meaning": "A work of art that is done with great skill."
+      },
+      {
+        "word": "Nectar",
+        "meaning": "The sweet liquid inside flowers that bees love."
+      },
+      {
+        "word": "Magnificent",
+        "meaning": "Something that is very wonderful or impressive."
+      },
+      {
+        "word": "Gentle",
+        "meaning": "Being kind, soft, and careful with others."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a face but no eyes, and hands but no arms. I keep moving, but I never go anywhere. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A clock",
+      "explanation": "The numbers are its face, the pointers are its hands, and it ticks in place all day long!"
+    }
   }
 ]
