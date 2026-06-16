@@ -1278,5 +1278,37 @@
       "answer": "A clock",
       "explanation": "The numbers are its face, the pointers are its hands, and it ticks in place all day long!"
     }
+  },
+  {
+    "date": "2026-06-16T12:11:14.957Z",
+    "theme": "resilience after a setback",
+    "story": "Barnaby the Bear had a very big dream: he wanted to be the world’s best pancake flipper! 🥞 One sunny Saturday, he put on his favorite chef hat and grabbed his trusty spatula. He mixed the batter with a big splash of milk and a sprinkle of magic joy. 'Ready, set, flip!' he cheered. He tossed the pancake high into the air... but oh no! It did a somersault and landed right on top of his head instead of the pan! 🐻😂 Barnaby stood there looking like a fuzzy pancake-hat model. He felt a little silly, but then he giggled. 'Well, that’s a new fashion statement!' he laughed. Instead of giving up, he wiped the batter off his nose, took a deep breath, and tried again. This time, he practiced with a smaller pancake. Flip! It landed perfectly in the center. Barnaby learned that even if your first try is a bit wobbly, you can always pick up your spatula and keep flipping toward success! 🌟",
+    "moral": "If at first you don't succeed, have a good laugh, learn from your mistake, and try again with a smile! 😊✨",
+    "vocabulary": [
+      {
+        "word": "Resilience",
+        "meaning": "The ability to keep trying after something doesn't go your way."
+      },
+      {
+        "word": "Somersault",
+        "meaning": "A jump or roll where you flip your body completely over."
+      },
+      {
+        "word": "Trusty",
+        "meaning": "Something that is reliable and works well for you."
+      },
+      {
+        "word": "Success",
+        "meaning": "Reaching your goal or doing something well."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am full of holes, but I can still hold water. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A sponge",
+      "explanation": "A sponge has many tiny holes called pores that help it soak up and hold onto liquid!"
+    }
   }
 ]
