@@ -1310,5 +1310,37 @@
       "answer": "A sponge",
       "explanation": "A sponge has many tiny holes called pores that help it soak up and hold onto liquid!"
     }
+  },
+  {
+    "date": "2026-06-17T11:46:09.327Z",
+    "theme": "the importance of listening",
+    "story": "Barnaby the Bear had the biggest ears in the forest, but he rarely used them for listening! 🐻 One sunny morning, his friend Hazel the Squirrel tried to tell him, 'Barnaby, please don’t sit on the blue mushroom! It’s actually a bouncy jelly-trap!' Barnaby was too busy humming a song to himself. He sat down—BOING! 🍄 The mushroom launched him high into the air, and he landed right in a giant pile of fluffy, ticklish dandelion seeds! Everyone in the forest giggled as Barnaby sneezed, 'Achoo! Where did those come from?' Hazel laughed, 'If you had listened to me, you would have stayed on the grass!' Barnaby realized that his ears were for more than just looking cute. From that day on, he became the best listener in the woods, even catching the tiny whispers of the butterflies! 🦋✨",
+    "moral": "Listening carefully helps us avoid silly mistakes and keeps us safe and happy! 👂💖",
+    "vocabulary": [
+      {
+        "word": "Actually",
+        "meaning": "In real life or in fact."
+      },
+      {
+        "word": "Realized",
+        "meaning": "To suddenly understand something clearly."
+      },
+      {
+        "word": "Dandelion",
+        "meaning": "A yellow flower that turns into a fluffy white ball of seeds."
+      },
+      {
+        "word": "Whispers",
+        "meaning": "Very soft, quiet speaking."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys for typing, a space bar, and an Enter button, but it isn't a place you can walk into!"
+    }
   }
 ]
