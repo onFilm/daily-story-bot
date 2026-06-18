@@ -1342,5 +1342,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys for typing, a space bar, and an Enter button, but it isn't a place you can walk into!"
     }
+  },
+  {
+    "date": "2026-06-18T11:07:53.846Z",
+    "theme": "navigating middle school drama",
+    "story": "Barnaby the Bear was very nervous about his first day at Middle School. He worried about finding his locker and, even worse, what if he sat at the wrong lunch table? 🐻 When he arrived, he saw his friend Squeaky the Squirrel trying to balance five cafeteria trays on his head! 'Need a paw, Squeaky?' Barnaby laughed, helping him stack them properly. 🐿️ Suddenly, a loud *HONK* came from the hallway. It was just Leo the Lion trying to play his trombone for the school band audition, but he accidentally sat on it! Everyone giggled, and the tension in the room disappeared like bubbles in the wind. 🎺 Barnaby realized that even the coolest lions and the busiest squirrels get nervous too. By the time lunch arrived, Barnaby was sharing his honey-graham crackers and chatting with new friends. Middle school wasn't a scary jungle; it was just a big, silly playground waiting to be explored! 🌟✨",
+    "moral": "Everyone feels nervous sometimes, but being kind and sharing a laugh makes everything easier! 🎈😊",
+    "vocabulary": [
+      {
+        "word": "Nervous",
+        "meaning": "Feeling worried or jittery."
+      },
+      {
+        "word": "Audition",
+        "meaning": "A short performance to show your skills."
+      },
+      {
+        "word": "Tension",
+        "meaning": "Feeling tight or worried inside."
+      },
+      {
+        "word": "Explored",
+        "meaning": "Looking around to learn about a new place."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a narrow top called a neck and a lid that we call a cap!"
+    }
   }
 ]
