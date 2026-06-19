@@ -1374,5 +1374,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a narrow top called a neck and a lid that we call a cap!"
     }
+  },
+  {
+    "date": "2026-06-19T11:20:56.392Z",
+    "theme": "dealing with peer pressure",
+    "story": "Barnaby the Bear was a very talented artist, but he had a secret: he loved painting flowers in bright neon colors! 🎨 One day, all the other forest animals were painting in dull, dark brown because a grumpy old squirrel named Silas said, 'Real bears only paint mud-brown!' Barnaby felt a little nervous. His paws started to wobble. 🐻 Suddenly, a bright purple butterfly landed on his nose and tickled him! Barnaby giggled and thought, 'Why should I paint mud when I have sunshine yellow and happy purple?' He dipped his brush in neon pink and painted a giant, swirling flower right in the middle of his canvas. The other animals stopped and stared. At first, Silas looked confused, but then he saw how happy Barnaby looked. Soon, the whole forest was covered in rainbows! Barnaby realized that being himself was much more fun than just following the crowd. 🌈✨",
+    "moral": "It is always better to be your own colorful self than to try to fit into someone else's box! 🌟💖",
+    "vocabulary": [
+      {
+        "word": "Talented",
+        "meaning": "Having a natural skill or ability to do something well."
+      },
+      {
+        "word": "Nervous",
+        "meaning": "Feeling worried or uneasy about something."
+      },
+      {
+        "word": "Canvas",
+        "meaning": "A strong piece of cloth that artists paint on."
+      },
+      {
+        "word": "Realized",
+        "meaning": "To suddenly understand or become aware of something."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys, a space bar, and an 'Enter' key, but it's just a tool for typing!"
+    }
   }
 ]
