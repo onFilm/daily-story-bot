@@ -1406,5 +1406,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys, a space bar, and an 'Enter' key, but it's just a tool for typing!"
     }
+  },
+  {
+    "date": "2026-06-20T10:08:08.683Z",
+    "theme": "self-acceptance and body positivity",
+    "story": "Barnaby the Bear was not your average bear. While other bears had thick, brown fur, Barnaby had bright, fluffy, polka-dot fur! 🐻🔵 When he went to the stream, he would look at his reflection and sigh. 'Why am I not just plain brown?' he wondered, while accidentally popping a bubble with his nose. One sunny afternoon, Barnaby tried to hide his spots by rolling in brown mud. He marched into the forest feeling very 'normal.' But then, he tripped over a log and landed in a patch of sunflowers! 🌻 The yellow pollen stuck to his mud-caked fur, and suddenly, he looked like a giant, grumpy lemon. The forest animals didn't laugh at him; they cheered! 'You look so vibrant and happy!' chirped Pip the Squirrel. Barnaby realized that trying to be like everyone else was exhausting and quite silly. He washed off in the stream, revealing his beautiful polka dots again. He felt unique, special, and ready for a bear-sized snack! 🍯✨",
+    "moral": "You are like a piece of art; it is your unique colors that make you truly wonderful! 🎨🌟",
+    "vocabulary": [
+      {
+        "word": "Reflection",
+        "meaning": "The image you see when looking in a mirror or water."
+      },
+      {
+        "word": "Vibrant",
+        "meaning": "Bright, full of energy, and exciting to look at."
+      },
+      {
+        "word": "Unique",
+        "meaning": "One of a kind; unlike anyone or anything else."
+      },
+      {
+        "word": "Exhausting",
+        "meaning": "Making you feel very, very tired."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a narrow part called a neck and a lid that we call a cap, but it doesn't have a head or hair like a person!"
+    }
   }
 ]
