@@ -1438,5 +1438,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a narrow part called a neck and a lid that we call a cap, but it doesn't have a head or hair like a person!"
     }
+  },
+  {
+    "date": "2026-06-21T10:28:05.466Z",
+    "theme": "resilience after a setback",
+    "story": "Barnaby the Bear had a very big dream. He wanted to be the first bear in the forest to win the Great Pancake Flipping Contest! 🥞 Barnaby practiced for weeks. He used a rubber pancake so he wouldn't make a mess. On the day of the contest, Barnaby stepped up to the stove with confidence. He flipped his pancake high into the air—whoosh! But oh no! The pancake did a silly somersault and landed right on his fuzzy head instead of the pan! 🐻 The whole crowd giggled, and Barnaby felt a little embarrassed. But then, he remembered his goal. He pulled the pancake off his nose, took a deep breath, and started again with a big grin. He focused, flipped, and landed a perfect golden pancake! He didn't win the trophy, but he won the prize for the 'Most Persistent Baker.' Everyone cheered for Barnaby's bouncy attitude! 🌟",
+    "moral": "It is okay to make mistakes; what matters is that we keep trying with a smile! 😊✨",
+    "vocabulary": [
+      {
+        "word": "Confidence",
+        "meaning": "Believing in yourself and your abilities."
+      },
+      {
+        "word": "Persistent",
+        "meaning": "Continuing to do something even when it is hard."
+      },
+      {
+        "word": "Somersault",
+        "meaning": "A movement where you roll over completely, head over heels."
+      },
+      {
+        "word": "Embarrassed",
+        "meaning": "Feeling a little shy or silly when something goes wrong in front of others."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am full of holes, yet I can hold water. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A sponge",
+      "explanation": "A sponge is made with lots of tiny little holes (called pores) that soak up and hold onto liquid like magic!"
+    }
   }
 ]
