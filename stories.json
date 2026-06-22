@@ -1470,5 +1470,37 @@
       "answer": "A sponge",
       "explanation": "A sponge is made with lots of tiny little holes (called pores) that soak up and hold onto liquid like magic!"
     }
+  },
+  {
+    "date": "2026-06-22T12:49:02.586Z",
+    "theme": "empathy and kindness",
+    "story": "Barnaby the Bear had a big problem. He tried to bake a honey cake for his friends, but he accidentally used salt instead of sugar! 🍯🧂 When his friends, Pip the Rabbit and Hoot the Owl, took a bite, their faces turned into funny, squishy shapes. They started making silly 'pucker-up' noises like fish! 🐡 Instead of laughing at them, Barnaby felt very sad. He knew he had made a mistake. But then, Pip started giggling, and Hoot did a little happy dance. 'It tastes like a salty ocean adventure!' Pip cheered. Barnaby felt much better. He realized that his friends cared about his feelings more than the cake. The next day, Barnaby helped Pip gather berries and helped Hoot organize his library of shiny pebbles. By working together and sharing kindness, they turned a funny baking disaster into a wonderful day of friendship! 🐻✨",
+    "moral": "Kindness means understanding how others feel, even when things go a little bit wrong! 💖🌟",
+    "vocabulary": [
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens by mistake."
+      },
+      {
+        "word": "Pucker",
+        "meaning": "To tighten your lips into a small circle."
+      },
+      {
+        "word": "Disaster",
+        "meaning": "A big, messy, or funny mistake."
+      },
+      {
+        "word": "Organize",
+        "meaning": "To put things in neat, tidy places."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys like Enter and Space, but it isn't a place you can actually walk into!"
+    }
   }
 ]
