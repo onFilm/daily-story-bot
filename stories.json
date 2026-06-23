@@ -1502,5 +1502,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys like Enter and Space, but it isn't a place you can actually walk into!"
     }
+  },
+  {
+    "date": "2026-06-23T10:35:48.974Z",
+    "theme": "dealing with cyberbullying",
+    "story": "Barnaby the Bear loved to code games on his tablet! 🐻💻 One day, he made a game about space-traveling broccoli. It was super silly! But a grumpy digital squirrel named Squeaky started sending rude notes in the game chat, saying, 'Your broccoli is weird!' 🥦 Barnaby felt a little sad at first, but then he remembered what his teacher told him. Instead of being grumpy back, Barnaby sent a funny picture of his broccoli wearing sunglasses. 😎 He replied, 'Thanks for noticing! I think my broccoli looks cool, too!' Squeaky didn't know what to say! He realized Barnaby was having fun, so Squeaky stopped being grumpy and started sharing his own funny designs. Soon, they were friends, designing space-broccoli together! 🚀✨ Barnaby learned that when someone is being silly or unkind online, you can just shine your own bright light and stay happy. 🌟",
+    "moral": "Kindness and confidence are your best superpowers! Don't let unkind words dim your sparkle. Keep being your wonderful self! ✨😊",
+    "vocabulary": [
+      {
+        "word": "Digital",
+        "meaning": "Anything having to do with computers or tablets."
+      },
+      {
+        "word": "Confidence",
+        "meaning": "Feeling good about yourself and your abilities."
+      },
+      {
+        "word": "Unkind",
+        "meaning": "Not being nice or friendly to others."
+      },
+      {
+        "word": "Design",
+        "meaning": "To plan and create how something looks."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a screen, but I do not see. I have a glow, but I am not a lamp. I help you learn and play games, but I don't have hands. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A tablet",
+      "explanation": "A tablet has a screen and a light, it helps you play games, but it doesn't have body parts like eyes or hands!"
+    }
   }
 ]
