@@ -1534,5 +1534,37 @@
       "answer": "A tablet",
       "explanation": "A tablet has a screen and a light, it helps you play games, but it doesn't have body parts like eyes or hands!"
     }
+  },
+  {
+    "date": "2026-06-24T10:21:30.985Z",
+    "theme": "taking responsibility",
+    "story": "Barnaby the Bear had a big problem. He was supposed to bring the honey for the forest picnic, but he accidentally ate it all while daydreaming about bees! 🍯 Oops! Barnaby felt nervous. He could hide, or he could blame the squirrels, but he knew that wasn't the right thing to do. So, he put on his brave face and waddled to the picnic clearing. 'Everyone,' Barnaby announced, 'I am very sorry, but I ate the honey! I made a mistake.' His friends looked surprised, but because Barnaby was honest and took charge of his mistake, they didn't get mad. Instead, they laughed and decided to pick fresh berries together instead! Barnaby felt much lighter once he told the truth. He learned that being responsible means owning up to your actions, even when you make a silly blooper. From then on, Barnaby always carried the honey in a jar with a lid—and he promised to save it for the party! 🍓✨",
+    "moral": "Taking responsibility means being brave enough to admit your mistakes and making things right. Honesty makes everything better! 🌟🐻",
+    "vocabulary": [
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens without you planning for it to happen."
+      },
+      {
+        "word": "Announced",
+        "meaning": "To tell something to a group of people in a clear way."
+      },
+      {
+        "word": "Responsible",
+        "meaning": "Taking care of your duties and being honest about your choices."
+      },
+      {
+        "word": "Mistake",
+        "meaning": "Something you do wrong that you didn't mean to do."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. I am full of water, but I cannot swim. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A water bottle",
+      "explanation": "The top part is called the neck, the lid is the cap, and it holds water to keep you hydrated!"
+    }
   }
 ]
