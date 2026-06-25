@@ -1566,5 +1566,37 @@
       "answer": "A water bottle",
       "explanation": "The top part is called the neck, the lid is the cap, and it holds water to keep you hydrated!"
     }
+  },
+  {
+    "date": "2026-06-25T10:14:40.449Z",
+    "theme": "taking responsibility",
+    "story": "Barnaby the Bear was very excited to bake a giant blueberry muffin for his friends. He found his mom's big mixing bowl and started dancing around the kitchen. 🐻✨ But, in his excitement, he accidentally knocked a bag of flour onto the floor! *Poof!* Everything was covered in white dust. Barnaby looked at his fuzzy paws and the messy floor. He felt a little nervous. Should he hide? No! Barnaby decided to be brave. He grabbed a broom and a dustpan. 'I made a mess, so I will clean it up!' he declared. 🧹 He hummed a happy tune while sweeping, even getting some flour on his nose, which made him look like a silly snowy bear! ❄️ When his mom walked in, she didn't get mad at all. She was proud that Barnaby took responsibility for his mistake. They ended up baking the best muffins ever, and Barnaby learned that cleaning up is just part of the fun adventure of cooking! 🧁🌟",
+    "moral": "Taking responsibility for our mistakes shows that we are growing up and helps us fix things with a smile! 😊✨",
+    "vocabulary": [
+      {
+        "word": "Responsible",
+        "meaning": "Doing what you are supposed to do and owning up to your actions."
+      },
+      {
+        "word": "Excitement",
+        "meaning": "A feeling of being very happy and enthusiastic about something."
+      },
+      {
+        "word": "Declare",
+        "meaning": "To say something clearly and firmly."
+      },
+      {
+        "word": "Adventure",
+        "meaning": "An exciting or unusual experience."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I follow you all day long, but when the sun goes down, I disappear. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A shadow",
+      "explanation": "Your shadow is created by light. When the sun goes down or you are in a dark room, there is no light to make your shadow appear!"
+    }
   }
 ]
