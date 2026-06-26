@@ -1598,5 +1598,37 @@
       "answer": "A shadow",
       "explanation": "Your shadow is created by light. When the sun goes down or you are in a dark room, there is no light to make your shadow appear!"
     }
+  },
+  {
+    "date": "2026-06-26T10:22:14.953Z",
+    "theme": "forgiving a friend",
+    "story": "Barnaby the Bear and Pip the Squirrel were best friends. They lived in the Sunny Side Woods. 🌳 One day, Barnaby was baking his famous 'Honey-Berry Muffins' for a picnic. 🧁 While he was busy decorating them with sprinkles, Pip came over, tripped over his own bushy tail, and—SPLAT!—he landed right in the middle of the tray! 🍓 All the muffins were squashed flat. Barnaby felt very grumpy and told Pip to go home. 🐻 Pip felt terrible, but he didn't mean to ruin the snacks. The next morning, Barnaby missed his friend. He realized that a silly muffin mishap wasn't worth losing his best buddy. 🌈 He went to Pip’s tree with a peace offering: a jar of golden honey. 'I'm sorry I was grumpy,' said Barnaby. 'I forgive you!' Pip beamed a giant smile and shared his stash of walnuts. They decided to make a new batch together—but this time, they kept the floor clear of tails! 🐿️",
+    "moral": "True friends are more important than mistakes, and forgiveness makes our hearts feel light and happy! ✨💖",
+    "vocabulary": [
+      {
+        "word": "Mishap",
+        "meaning": "A small, accidental mistake or bit of bad luck."
+      },
+      {
+        "word": "Forgive",
+        "meaning": "To stop feeling angry at someone for a mistake."
+      },
+      {
+        "word": "Grumpy",
+        "meaning": "Feeling a bit cranky or in a bad mood."
+      },
+      {
+        "word": "Offering",
+        "meaning": "Something you give to someone to show you are kind."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has 'keys', a 'space' bar, and an 'enter' button, but it isn't a place you can actually walk into!"
+    }
   }
 ]
