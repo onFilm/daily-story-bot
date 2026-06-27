@@ -1630,5 +1630,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has 'keys', a 'space' bar, and an 'enter' button, but it isn't a place you can actually walk into!"
     }
+  },
+  {
+    "date": "2026-06-27T09:27:09.476Z",
+    "theme": "navigating middle school drama",
+    "story": "Barnaby the Bear was very nervous about his first day at Middle School. He worried his fur was too fluffy and his backpack was too big! 🎒 When he walked into the cafeteria, he saw his friend, Mia the Monkey, trying to balance a banana on her nose. It fell and bopped Barnaby right on the head! Instead of being upset, Barnaby giggled. Soon, everyone was laughing and sharing funny stories about their own clumsy moments. 🍌 Barnaby realized that even though middle school felt like a big, confusing maze, everyone was just trying to find their way. He learned that being yourself and having a sense of humor makes everything better! 🐻✨",
+    "moral": "Laughing at your mistakes and being kind to others makes every challenge easier to handle! 😊🌟",
+    "vocabulary": [
+      {
+        "word": "Nervous",
+        "meaning": "Feeling worried or uneasy about something."
+      },
+      {
+        "word": "Clumsy",
+        "meaning": "Moving in a way that is not graceful; sometimes dropping things."
+      },
+      {
+        "word": "Cafeteria",
+        "meaning": "A place in a school where students go to eat lunch."
+      },
+      {
+        "word": "Maze",
+        "meaning": "A complicated set of paths that is hard to find your way through."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a face and two hands, but I have no arms and no legs. I keep moving, but I never go anywhere. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A clock",
+      "explanation": "A clock has a face with numbers, and two hands that point to the time. It ticks and moves, but stays right on the wall!"
+    }
   }
 ]
