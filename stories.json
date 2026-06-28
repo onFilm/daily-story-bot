@@ -1662,5 +1662,37 @@
       "answer": "A clock",
       "explanation": "A clock has a face with numbers, and two hands that point to the time. It ticks and moves, but stays right on the wall!"
     }
+  },
+  {
+    "date": "2026-06-28T09:56:30.861Z",
+    "theme": "discovering hidden talents",
+    "story": "Barnaby the Bear was a very talented fellow, or so he thought! He tried to juggle pinecones, but they always bopped him on the nose. 🌲 He tried to tap dance, but he just ended up tripping over his own fuzzy feet. 'Oh dear,' Barnaby sighed, feeling a bit gloomy. 'Maybe I have no talents at all!' Just then, his friend Pip the Squirrel scurried over. 'Barnaby! Look at your cave!' Barnaby turned around and gasped. While he had been busy tripping and bopping his nose, he had accidentally arranged his collection of colorful river rocks into a beautiful, perfect smiley face on the floor. He had also stacked his honey jars into a towering, artistic pyramid without even noticing! 'Wow!' laughed Pip. 'You aren't a juggler, Barnaby. You are a Master Artist!' Barnaby beamed with pride. He realized that while he wasn't great at dancing, he had a marvelous eye for design and balance. 🎨 From that day on, Barnaby spent his afternoons creating masterpieces. He even taught the other forest animals how to build rock art. Being yourself is the best way to let your true talent shine bright! ✨",
+    "moral": "You don't have to be good at everything to be special. Keep trying new things, and you will discover your own unique magic! 🌟",
+    "vocabulary": [
+      {
+        "word": "Talent",
+        "meaning": "A natural skill or something you are very good at doing."
+      },
+      {
+        "word": "Gloomy",
+        "meaning": "Feeling a little sad or unhappy."
+      },
+      {
+        "word": "Artistic",
+        "meaning": "Having a creative skill for making beautiful things."
+      },
+      {
+        "word": "Marvelous",
+        "meaning": "Something that is wonderful or very impressive."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys for typing, a 'space' bar, and an 'enter' key, but you don't actually go inside it!"
+    }
   }
 ]
