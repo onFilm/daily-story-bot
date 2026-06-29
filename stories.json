@@ -1694,5 +1694,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys for typing, a 'space' bar, and an 'enter' key, but you don't actually go inside it!"
     }
+  },
+  {
+    "date": "2026-06-29T11:57:43.858Z",
+    "theme": "discovering hidden talents",
+    "story": "Barnaby the Bear was a very talented dreamer, but he was not very good at being a bear. While other bears were great at catching fish, Barnaby kept accidentally catching old boots with his fishing net! 🥾 One afternoon, while trying to catch a fish, he tripped over a hollow log and landed in a patch of wild daisies. He started to laugh, and his laugh sounded so musical that a group of bluebirds flew down to listen. Barnaby realized he wasn't meant for fishing; he was meant for whistling! 🎶 He started whistling bouncy tunes that made the forest squirrels dance and the sleepy hedgehogs wake up for a little jig. Barnaby felt marvelous! He discovered that his hidden talent was being the forest’s very own happy musician. From that day on, whenever a forest friend felt sad, they would shout, 'Barnaby, please whistle!' and the whole woods would fill with joy. 🐻✨",
+    "moral": "Everyone has a special talent hidden inside them, even if it takes a little silly mistake to find it! Keep trying new things! 🌟",
+    "vocabulary": [
+      {
+        "word": "Musical",
+        "meaning": "Having a pleasant or sweet sound like music."
+      },
+      {
+        "word": "Marvelous",
+        "meaning": "Something wonderful or very good."
+      },
+      {
+        "word": "Discover",
+        "meaning": "To find something you didn't know about before."
+      },
+      {
+        "word": "Talent",
+        "meaning": "A special skill you are naturally good at."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life, but I am not alive. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "A candle is long and tall when it is brand new, but as it burns down to give us light, it gets shorter and shorter until it disappears!"
+    }
   }
 ]
