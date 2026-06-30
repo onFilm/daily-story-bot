@@ -1726,5 +1726,37 @@
       "answer": "A candle",
       "explanation": "A candle is long and tall when it is brand new, but as it burns down to give us light, it gets shorter and shorter until it disappears!"
     }
+  },
+  {
+    "date": "2026-06-30T10:30:24.337Z",
+    "theme": "overcoming fear of failure",
+    "story": "Barnaby the Bear had a very big dream: he wanted to be the first bear to bake a perfect blueberry pancake! 🥞 But Barnaby was worried. 'What if I burn it? What if it sticks to the pan and looks like a sad, squishy blob?' he wondered, wiggling his fluffy ears. 🐻 When he finally started, he flipped the pancake a little too hard. Whoosh! It flew into the air and landed right on top of his head like a hat! 🎩 Barnaby felt silly, but then he started to giggle. The pancake didn't taste bad at all—it was actually quite yummy! He realized that even if his pancake wasn't perfect, it was still a fun snack. He kept trying, flipping and laughing until he made the best pancake in the forest. 🫐✨",
+    "moral": "It is okay to make mistakes! Trying your best is the most important part of learning something new. 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Perfect",
+        "meaning": "The very best it can be, without any mistakes."
+      },
+      {
+        "word": "Gigle",
+        "meaning": "To laugh in a happy, bubbly way."
+      },
+      {
+        "word": "Realized",
+        "meaning": "To suddenly understand something clearly."
+      },
+      {
+        "word": "Attempt",
+        "meaning": "To try to do something."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has buttons called 'keys', a 'space' bar, and an 'enter' key, but you don't actually go inside it!"
+    }
   }
 ]
