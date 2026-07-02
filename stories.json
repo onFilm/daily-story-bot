@@ -1790,5 +1790,37 @@
       "answer": "A candle",
       "explanation": "As a candle burns down, it gets shorter and shorter, but it gives us bright light while it works!"
     }
+  },
+  {
+    "date": "2026-07-02T10:09:23.812Z",
+    "theme": "forgiving a friend",
+    "story": "Barnaby the Bear and Pip the Squirrel were best friends. They loved to play hide-and-seek in the Sunny Meadow. ☀️ One day, Barnaby found a delicious, giant honey-glazed muffin. He left it on a stump for just a second to go find Pip. But when he came back, the muffin was GONE! 😱 Pip was sitting nearby with crumbs all over his tiny whiskers. Barnaby felt very upset. 'Pip! You ate my surprise snack!' he grumbled. Pip looked down, feeling bashful. 'I am so sorry, Barnaby. It smelled so good, and I had a tiny nibble, then another, then it just vanished!' Barnaby took a deep breath. He saw his friend looking very sad and truly sorry. He realized a muffin wasn't worth losing his best buddy. 'It is okay, Pip,' Barnaby said with a giggle. 'Next time, let's share it together!' They high-fived and spent the rest of the day picking sweet berries instead. 🍓✨",
+    "moral": "True friendship is much sweeter than any snack. Forgiving our friends helps our hearts stay happy! 😊🤝",
+    "vocabulary": [
+      {
+        "word": "Bashful",
+        "meaning": "Feeling shy or a little embarrassed."
+      },
+      {
+        "word": "Vanished",
+        "meaning": "Disappeared suddenly."
+      },
+      {
+        "word": "Grumble",
+        "meaning": "To make a low, grumpy sound when you are unhappy."
+      },
+      {
+        "word": "Forgiving",
+        "meaning": "Deciding not to be angry with someone anymore."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A keyboard has keys for typing, a 'space' bar for putting gaps between words, and an 'enter' key for starting a new line!"
+    }
   }
 ]
