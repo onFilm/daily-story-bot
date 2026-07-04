@@ -1854,5 +1854,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a narrow top called a neck and a lid that we call a cap!"
     }
+  },
+  {
+    "date": "2026-07-04T09:21:13.026Z",
+    "theme": "dealing with jealousy",
+    "story": "Barnaby the Bear was very good at juggling shiny red apples 🍎. He could juggle three, four, even five at once! Everyone in the forest clapped for him. But then, Squeaky the Squirrel learned how to juggle acorns while riding a tiny unicycle 🚲! Suddenly, all the animals watched Squeaky instead. Barnaby felt a strange, tickly feeling in his tummy. He felt a bit jealous. He frowned and tried to juggle a pineapple, but it went 'SPLAT' on his head! 🍍 Barnaby realized that feeling grumpy didn't make him a better juggler. He decided to walk over to Squeaky. 'That is a spectacular trick!' Barnaby cheered. Squeaky beamed, 'Thanks, Barnaby! Want to learn how to ride the unicycle?' By the end of the day, Barnaby learned to ride, and Squeaky learned to juggle apples. They were a circus team! 🎪✨",
+    "moral": "When you feel jealous, turn that energy into kindness! Celebrating others makes life much more fun for everyone! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Spectacular",
+        "meaning": "Something very beautiful, exciting, or amazing to watch."
+      },
+      {
+        "word": "Jealous",
+        "meaning": "When you wish you had something that someone else has."
+      },
+      {
+        "word": "Beamed",
+        "meaning": "To smile very happily and brightly."
+      },
+      {
+        "word": "Circus",
+        "meaning": "A show with performers like jugglers and acrobats."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has to be broken before you can use it?"
+    },
+    "today_puzzle_answer": {
+      "answer": "An egg",
+      "explanation": "You have to crack the shell to cook or eat the yummy part inside!"
+    }
   }
 ]
