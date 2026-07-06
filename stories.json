@@ -1918,5 +1918,37 @@
       "answer": "A keyboard",
       "explanation": "Computer keyboards have keys and a space bar, and you can 'enter' data, but it's just a tool for typing!"
     }
+  },
+  {
+    "date": "2026-07-06T11:26:08.907Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a big secret. 🐻 He accidentally knocked over the prize-winning blueberry pie that his friend, Mayor Paws, had left on the windowsill! Barnaby was so nervous. He thought, 'If I tell the truth, everyone will think I am a clumsy bear!' 🥧 He tried to hide the crumbs with a large fern, but he felt very uneasy. His tummy did a little flip-flop. Barnaby decided to be brave. He walked to the Mayor's office and said, 'Mayor Paws, I am so sorry! I accidentally tipped over your delicious pie.' The Mayor looked surprised, then he smiled wide! 'Thank you for your honesty, Barnaby! A pie can be baked again, but a friend's trust is much more important.' The Mayor and Barnaby spent the rest of the afternoon baking a brand new pie together. It was extra yummy because they made it as a team! 🥧✨",
+    "moral": "Telling the truth always makes your heart feel lighter and keeps your friendships strong! 💖🌟",
+    "vocabulary": [
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens without you planning it."
+      },
+      {
+        "word": "Uneasy",
+        "meaning": "Feeling a little bit worried or uncomfortable."
+      },
+      {
+        "word": "Honesty",
+        "meaning": "Telling the truth and being fair."
+      },
+      {
+        "word": "Trust",
+        "meaning": "Believing that someone is good and tells the truth."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a face, but no eyes. I have two hands, but no arms. I keep moving, but I stay in one place. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A clock",
+      "explanation": "A clock has a face, hands to point at the numbers, and it stays on the wall while it ticks!"
+    }
   }
 ]
