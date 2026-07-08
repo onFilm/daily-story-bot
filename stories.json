@@ -1982,5 +1982,37 @@
       "answer": "A sponge",
       "explanation": "A sponge is filled with tiny air holes, but because of the material it is made of, it soaks up and holds onto water until you squeeze it!"
     }
+  },
+  {
+    "date": "2026-07-08T09:24:31.283Z",
+    "theme": "the power of a positive attitude",
+    "story": "Barnaby the Bear woke up feeling extra bouncy! Today was the day of the Great Forest Picnic. 🧺 Barnaby wanted to bake his famous honey-berry muffins, but disaster struck—he spilled the flour everywhere! It looked like a snowstorm had happened inside his kitchen! ❄️ Instead of getting grumpy, Barnaby decided to pretend he was a baker in a silly flour-castle. He put on his favorite polka-dot apron, did a little wiggle-dance, and started giggling. 'If I can't make muffins, I will make a flour-angel!' he laughed. His friend, Pip the Squirrel, popped his head in and started laughing too. Because Barnaby stayed positive, they turned the messy kitchen into a game! They ended up making yummy pancakes instead, which tasted even better. Barnaby learned that when things go wrong, a smile makes everything right! 🥞✨🐻",
+    "moral": "When life gets messy, keep a smile on your face and a giggle in your heart—a positive attitude turns every mistake into a fun adventure! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Disaster",
+        "meaning": "Something that goes very wrong or causes a big mess."
+      },
+      {
+        "word": "Grumpy",
+        "meaning": "Feeling unhappy or in a bad mood."
+      },
+      {
+        "word": "Positive",
+        "meaning": "Thinking about the good things in a situation."
+      },
+      {
+        "word": "Adventure",
+        "meaning": "An exciting or unusual experience."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has to be broken before you can use it?"
+    },
+    "today_puzzle_answer": {
+      "answer": "An egg",
+      "explanation": "You have to crack the shell to cook or eat the egg inside!"
+    }
   }
 ]
