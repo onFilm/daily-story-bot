@@ -2014,5 +2014,37 @@
       "answer": "An egg",
       "explanation": "You have to crack the shell to cook or eat the egg inside!"
     }
+  },
+  {
+    "date": "2026-07-09T10:28:18.259Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a very big secret. He accidentally bumped into the Great Honey Pot in the kitchen and tipped it over! Oh no! The honey was everywhere—on his fur, on the floor, and even on the cat’s whiskers. 🍯 Barnaby felt very nervous. He quickly grabbed a mop and tried to hide the sticky mess. When his mom walked in, she looked at the puddle. Barnaby felt a little bit of anxiety. He could have blamed the wind or the cat, but he took a deep breath. 'Mom, I am so sorry,' he said, standing tall. 'I was clumsy and tipped the honey over. I will help clean it up!' To his surprise, his mom didn't get angry. She smiled warmly and gave him a hug. 'Thank you for your honesty, Barnaby,' she said. 'It is much easier to fix a mess when we are truthful about it!' Barnaby felt like a weight had been lifted off his shoulders. He felt sincere joy as they cleaned the floor together, giggling as the cat chased a sticky bee-shaped toy. 🐻✨",
+    "moral": "Being honest makes you feel light and happy, and it helps everyone solve problems together! 🌟",
+    "vocabulary": [
+      {
+        "word": "Anxiety",
+        "meaning": "A feeling of being worried or nervous about something."
+      },
+      {
+        "word": "Clumsy",
+        "meaning": "Moving in a way that is not graceful and causes things to tip or fall."
+      },
+      {
+        "word": "Sincere",
+        "meaning": "Being honest and truly meaning what you say."
+      },
+      {
+        "word": "Truthful",
+        "meaning": "Telling the exact facts instead of making things up."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys for typing, a 'space' bar, and an 'enter' button, but it is not a building you can walk into!"
+    }
   }
 ]
