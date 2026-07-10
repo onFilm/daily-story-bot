@@ -2046,5 +2046,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys for typing, a 'space' bar, and an 'enter' button, but it is not a building you can walk into!"
     }
+  },
+  {
+    "date": "2026-07-10T10:22:15.474Z",
+    "theme": "empathy and kindness",
+    "story": "Barnaby the Bear was a very kind fellow, but he had one big problem: his giant, fluffy paws made everything he touched go 'pop' or 'squish'! 🐻 One sunny morning, he tried to help his friend Pip the Squirrel build a nut tower. *Squish!* He accidentally flattened a perfect acorn. Then, he tried to help Miss Hoot the Owl organize her library, but *bump!* he knocked over a stack of books with his wiggling bottom. Barnaby felt sad and thought, 'Maybe I should just stay in my cave.' But then, he saw Timmy the Turtle struggling to turn over a heavy log to find tasty berries. Instead of trying to pick it up with his clumsy paws, Barnaby realized he could use his big, soft tummy to nudge it gently. *Boop!* The log rolled over perfectly! Pip and Miss Hoot cheered. Barnaby learned that being helpful isn't about having small, tidy hands; it’s about using what you have to make someone else's day a little brighter! 🌟 Everyone celebrated with a picnic, and Barnaby made sure to use his gentle paws to hold the tiny juice boxes. He was the happiest bear in the forest! 🎉",
+    "moral": "True kindness is using your own special talents to help others feel happy and included! 💖",
+    "vocabulary": [
+      {
+        "word": "Clumsy",
+        "meaning": "Moving in a way that is not graceful or careful."
+      },
+      {
+        "word": "Organize",
+        "meaning": "To put things in a neat and tidy order."
+      },
+      {
+        "word": "Struggle",
+        "meaning": "To try very hard to do something that is difficult."
+      },
+      {
+        "word": "Gently",
+        "meaning": "Doing something in a soft and careful way."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has to be broken before you can use it?"
+    },
+    "today_puzzle_answer": {
+      "answer": "An egg",
+      "explanation": "You have to crack the shell to cook or eat the egg inside!"
+    }
   }
 ]
