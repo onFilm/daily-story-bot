@@ -2110,5 +2110,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys for typing, a space bar, and an 'Enter' key, but you cannot walk inside it!"
     }
+  },
+  {
+    "date": "2026-07-12T09:02:17.077Z",
+    "theme": "forgiving a friend",
+    "story": "Barnaby the Bear and Pip the Squirrel were best friends. One sunny afternoon, they decided to bake a 'Super-Duper Berry Cake' together. 🍓 While Barnaby was stirring the batter, he accidentally sneezed a giant 'A-CHOO!' that sent flour flying everywhere! The kitchen looked like it had been hit by a snowstorm. ❄️ Pip was covered in white dust from his nose to his tail. He felt a bit frustrated and grumpy. But then, Barnaby looked so silly with a flour mustache that Pip couldn't help but giggle. Barnaby apologized sincerely, saying he didn't mean to make such a big mess. Pip realized that being angry wouldn't clean the kitchen or bake the cake. So, they started cleaning together, turning the chore into a tickle fight! By the time they were done, they were laughing so hard they forgot all about the mess. They realized that their friendship was much more important than a little bit of spilled flour. 🍰✨",
+    "moral": "True friendship means choosing to laugh and forgive when mistakes happen! 💖🌟",
+    "vocabulary": [
+      {
+        "word": "Apologize",
+        "meaning": "To say sorry for something you did wrong."
+      },
+      {
+        "word": "Frustrated",
+        "meaning": "Feeling annoyed because things are not going the way you want."
+      },
+      {
+        "word": "Sincerely",
+        "meaning": "When you really mean what you are saying."
+      },
+      {
+        "word": "Important",
+        "meaning": "Something that matters a lot."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has to be broken before you can use it?"
+    },
+    "today_puzzle_answer": {
+      "answer": "An egg",
+      "explanation": "You have to crack the shell to cook or eat the egg inside!"
+    }
   }
 ]
