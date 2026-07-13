@@ -2142,5 +2142,37 @@
       "answer": "An egg",
       "explanation": "You have to crack the shell to cook or eat the egg inside!"
     }
+  },
+  {
+    "date": "2026-07-13T10:23:49.170Z",
+    "theme": "overcoming fear of failure",
+    "story": "Barnaby the Bear had a very big dream. He wanted to be the first bear to juggle giant, squishy marshmallows! 🐻🍡 But Barnaby was worried. 'What if I drop them?' he asked his friend, Squeaky the Squirrel. 'Then you just pick them up and eat them!' Squeaky squeaked with a giggle. Barnaby tried his first toss. *Boing!* The marshmallow hit his nose and bounced off! Barnaby felt silly, but then he looked at the marshmallow. It was still perfectly soft and delicious. He tried again. He dropped a few more, but every time he failed, he realized the world didn't end. He just got better at catching! By sunset, Barnaby was juggling three marshmallows like a pro. He realized that making mistakes was just a way to practice his marshmallow-tossing skills! 🎉✨",
+    "moral": "Don't be afraid to make mistakes! Every time you try and miss, you are actually learning how to get closer to success. Keep practicing and keep smiling! 😊🌟",
+    "vocabulary": [
+      {
+        "word": "Juggling",
+        "meaning": "Keeping many objects in the air at the same time by throwing and catching them."
+      },
+      {
+        "word": "Failure",
+        "meaning": "Not succeeding at something the first time you try."
+      },
+      {
+        "word": "Persistence",
+        "meaning": "Continuing to try even when something is a little bit difficult."
+      },
+      {
+        "word": "Skill",
+        "meaning": "Something you are good at because you practiced a lot."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has letter keys, a space bar, and an Enter key, but you don't actually walk through it like a door!"
+    }
   }
 ]
