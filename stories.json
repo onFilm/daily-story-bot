@@ -2206,5 +2206,37 @@
       "answer": "A candle",
       "explanation": "A candle starts out long and tall, but as it burns down to give us light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-07-15T09:07:45.106Z",
+    "theme": "overcoming fear of failure",
+    "story": "Barnaby the Bear wanted to bake a giant blueberry pie for the Forest Picnic! 🥧 He had his apron, his bowl, and a big spoon. But then, Barnaby felt a little nervous. 'What if I spill the flour? What if the crust is too crunchy?' he worried. 🐻 He stood still as a statue, feeling scared to start. Suddenly, his friend Pipsqueak the Mouse scampered by. 'Barnaby! If you don't start, you’ll never taste the pie!' Pipsqueak squeaked. Barnaby took a deep breath and started to stir. *Plop!* A bit of flour landed on his nose. He sneezed, and Pipsqueak giggled. Barnaby started laughing too! 🌟 Even when he accidentally used salt instead of sugar, they just laughed and started again. In the end, the pie was a bit lopsided, but it tasted like victory and sunshine! ☀️ Barnaby realized that making mistakes was just part of the delicious adventure.",
+    "moral": "Don't be afraid to try! Making mistakes is how we learn, grow, and have the most fun. 🌈✨",
+    "vocabulary": [
+      {
+        "word": "Statue",
+        "meaning": "A figure made of stone or metal that stays perfectly still."
+      },
+      {
+        "word": "Scampered",
+        "meaning": "To run or move quickly with light steps."
+      },
+      {
+        "word": "Lopsided",
+        "meaning": "When something is heavier or lower on one side than the other."
+      },
+      {
+        "word": "Victory",
+        "meaning": "The feeling of success after finishing a hard task."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A computer keyboard",
+      "explanation": "It has keys for typing, a space bar for spaces, and an 'Enter' key, but you can't actually walk inside it!"
+    }
   }
 ]
