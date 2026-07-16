@@ -2238,5 +2238,37 @@
       "answer": "A computer keyboard",
       "explanation": "It has keys for typing, a space bar for spaces, and an 'Enter' key, but you can't actually walk inside it!"
     }
+  },
+  {
+    "date": "2026-07-16T09:11:57.011Z",
+    "theme": "navigating middle school drama",
+    "story": "Barnaby the Badger was starting middle school, and he was as nervous as a squirrel in a nut factory! 🐿️ On his first day, he decided to wear his favorite sparkly green bowtie to look extra sharp. But when he walked into the cafeteria, he tripped over his own shoelaces and accidentally launched his tuna sandwich into the air! 🥪 It landed perfectly on top of Principal Paws' head. Barnaby felt his cheeks turn bright red. He thought, 'Oh no, everyone will think I am the silliest badger ever!' But then, Principal Paws wiped the tuna off his hat, looked at the sandwich, and started to chuckle. He said, 'Nice aim, Barnaby! That’s the most exciting lunch I’ve had all year!' 🐾 The whole cafeteria started to giggle, and soon Barnaby was laughing too. He realized that middle school drama wasn't about being perfect; it was about being yourself and having a sense of humor. By the end of the day, he had made three new friends who all wanted to learn how to throw sandwiches (though they decided to practice with napkins instead!). ✨",
+    "moral": "Mistakes are just funny chapters in your story, so don't be afraid to laugh at yourself and keep moving forward with a smile! 😊🌟",
+    "vocabulary": [
+      {
+        "word": "Nervous",
+        "meaning": "Feeling worried or jittery."
+      },
+      {
+        "word": "Accidentally",
+        "meaning": "Doing something by mistake without planning to."
+      },
+      {
+        "word": "Exciting",
+        "meaning": "Something that makes you feel happy and full of energy."
+      },
+      {
+        "word": "Sense of humor",
+        "meaning": "The ability to see the funny side of things."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life, but wind is my enemy. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "When a candle is new, it is long, but as it burns down to give light, it gets shorter and shorter."
+    }
   }
 ]
