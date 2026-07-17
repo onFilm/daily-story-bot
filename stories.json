@@ -2270,5 +2270,37 @@
       "answer": "A candle",
       "explanation": "When a candle is new, it is long, but as it burns down to give light, it gets shorter and shorter."
     }
+  },
+  {
+    "date": "2026-07-17T09:07:13.106Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a big secret. 🐻 While playing near the forest bakery, he accidentally bumped into a cooling rack of blueberry muffins. *Boing!* Five muffins went rolling into the grass! 🧁 Barnaby quickly hid them under a giant leaf and ran away, feeling his tummy do a nervous wiggle. All day long, he felt like he had a grumpy cloud following him. When he saw Mr. Beaver, the baker, looking sad about his missing muffins, Barnaby decided to be brave. He walked up, his paws shaking just a little, and said, 'Mr. Beaver, I am the one who bumped the muffins!' He showed Mr. Beaver the hidden treats. Instead of getting mad, Mr. Beaver smiled. 'Thank you for your integrity, Barnaby! Accidents happen, but telling the truth is very courageous.' They spent the afternoon baking a fresh batch together, and Barnaby felt much lighter than a fluffy cloud! ☁️✨",
+    "moral": "Being honest always makes you feel better inside and helps you build trust with your friends! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Integrity",
+        "meaning": "Doing the right thing even when no one is watching."
+      },
+      {
+        "word": "Courageous",
+        "meaning": "Being brave when you do something hard."
+      },
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens by mistake."
+      },
+      {
+        "word": "Fresh",
+        "meaning": "New and just made."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A computer keyboard",
+      "explanation": "Keyboards have 'keys' to type letters, a 'space' bar, and an 'Enter' key!"
+    }
   }
 ]
