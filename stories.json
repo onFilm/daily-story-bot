@@ -2302,5 +2302,37 @@
       "answer": "A computer keyboard",
       "explanation": "Keyboards have 'keys' to type letters, a 'space' bar, and an 'Enter' key!"
     }
+  },
+  {
+    "date": "2026-07-18T08:47:18.014Z",
+    "theme": "handling changing friendships",
+    "story": "Barnaby the Bear and Pip the Penguin were the best of friends. They did everything together! They played tag in the snow, ate honey-covered ice cream, and even practiced their tap dancing in the woods. 🐻🐧 But one day, Pip decided to join the Flying Club to learn how to soar. Barnaby felt a little bit lonely. 'Is our friendship drifting away like a melting snowflake?' he worried. Barnaby tried to join the club, but he was a bit too heavy to fly! 🎈 Barnaby sat on a stump and felt sad. Suddenly, he saw a bright blue butterfly land on his nose. 'Maybe I can do something else,' he thought. Barnaby joined the Forest Gardening Club instead. He grew the biggest, juiciest blueberries ever! 🫐 When Pip came back from flying, he was tired and hungry. He saw Barnaby’s garden and cheered, 'Wow, Barnaby! These berries are amazing!' Now, they still hang out every day—Pip tells stories about the clouds, and Barnaby shares his delicious snacks. They realized that even if they have different hobbies, their friendship is strong enough to grow in new directions! 🌟",
+    "moral": "True friends support each other's new interests, and friendship can grow even when we try different things! 🌻✨",
+    "vocabulary": [
+      {
+        "word": "Soar",
+        "meaning": "To fly high in the air."
+      },
+      {
+        "word": "Drifting",
+        "meaning": "Moving slowly or floating along."
+      },
+      {
+        "word": "Hobbies",
+        "meaning": "Things you like to do for fun in your free time."
+      },
+      {
+        "word": "Directions",
+        "meaning": "The paths or ways in which something develops."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. I am full of water, but I cannot swim. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A water bottle",
+      "explanation": "A bottle has a top part called a neck, a lid that acts as a cap, and it holds water, but it doesn't have a head or hair!"
+    }
   }
 ]
