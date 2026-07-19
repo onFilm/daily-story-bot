@@ -2334,5 +2334,37 @@
       "answer": "A water bottle",
       "explanation": "A bottle has a top part called a neck, a lid that acts as a cap, and it holds water, but it doesn't have a head or hair!"
     }
+  },
+  {
+    "date": "2026-07-19T09:03:48.685Z",
+    "theme": "dealing with cyberbullying",
+    "story": "Barnaby the Bear loved to paint digital portraits of his friends on his tablet. One day, he posted a picture of his best friend, Pip the Penguin, wearing a polka-dot bow tie. 🐧🎨 Suddenly, a grumpy squirrel named Nutty commented, 'That tie is silly!' Barnaby felt a little 'puzzled' at first. Then, someone else wrote, 'Why paint that?' Barnaby felt a bit 'flustered' by these grumpy words. But instead of feeling 'melancholy,' Barnaby had a bright idea! 💡 He decided to turn the negative comments into a game of 'Kindness Bingo.' He ignored the grumpiness and instead replied to his friends with super-silly jokes and colorful heart emojis. ❤️ Soon, everyone was laughing and sharing their own silly drawings! Nutty the Squirrel realized he was just having a bad day, so he apologized and painted a picture of a giant nut with a crown. 🥜👑 Barnaby felt 'resilient' because he didn't let the grumpy words stop his fun. He showed everyone that kindness is the strongest superpower of all! 🌟",
+    "moral": "If someone is being grumpy or unkind online, don't let it dim your sparkle! Stay kind, be yourself, and keep spreading joy. Kindness is always the best response! ✨😊",
+    "vocabulary": [
+      {
+        "word": "Puzzled",
+        "meaning": "Feeling confused or not understanding something."
+      },
+      {
+        "word": "Flustered",
+        "meaning": "Feeling a little nervous or upset."
+      },
+      {
+        "word": "Melancholy",
+        "meaning": "Feeling a little bit sad."
+      },
+      {
+        "word": "Resilient",
+        "meaning": "Being able to bounce back and stay strong after something happens."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A computer keyboard",
+      "explanation": "Keyboards have 'keys' for typing, a 'space' bar to add gaps between words, and an 'enter' key to start a new line!"
+    }
   }
 ]
