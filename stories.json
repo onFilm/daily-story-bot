@@ -2366,5 +2366,37 @@
       "answer": "A computer keyboard",
       "explanation": "Keyboards have 'keys' for typing, a 'space' bar to add gaps between words, and an 'enter' key to start a new line!"
     }
+  },
+  {
+    "date": "2026-07-20T09:58:39.702Z",
+    "theme": "embracing your uniqueness",
+    "story": "Barnaby was not a normal bear. While other bears spent their days fishing for salmon, Barnaby loved to bake glittery cupcakes! 🧁 He wore a bright polka-dot apron and had a collection of sparkly spatulas. One day, the Forest Talent Show was announced. Barnaby felt a little anxious. 'What if they want a bear who roars instead of a bear who bakes?' he wondered. 🐻 During the show, a lion juggled logs, and a rabbit did backflips. When it was Barnaby’s turn, he felt nervous. But then, he whipped out his neon-pink frosting and decorated a cupcake that looked like a smiling sun. The audience gasped and then cheered! 🌟 A little squirrel shouted, 'That is the most magnificent thing I have ever seen!' Barnaby realized that being his unique self made everyone happy. He was the only bear in the woods who could turn a snack into a masterpiece. 🎨 He beamed with joy, knowing his glittery, baking-loving self was exactly who he was meant to be. 🌈",
+    "moral": "Being yourself is your greatest superpower! Don't hide your special talents; share them with the world and watch how you make everyone smile! ✨💖",
+    "vocabulary": [
+      {
+        "word": "Anxious",
+        "meaning": "Feeling worried or nervous about something."
+      },
+      {
+        "word": "Magnificent",
+        "meaning": "Very beautiful, impressive, or wonderful."
+      },
+      {
+        "word": "Masterpiece",
+        "meaning": "A work of art or a creation that is done perfectly."
+      },
+      {
+        "word": "Unique",
+        "meaning": "One of a kind; special and different from everyone else."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. I am filled with something refreshing. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a narrow part called a neck, it is covered by a lid or a 'cap', and it holds water or juice for you to drink!"
+    }
   }
 ]
