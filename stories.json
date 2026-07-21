@@ -2398,5 +2398,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a narrow part called a neck, it is covered by a lid or a 'cap', and it holds water or juice for you to drink!"
     }
+  },
+  {
+    "date": "2026-07-21T09:26:02.230Z",
+    "theme": "dealing with cyberbullying",
+    "story": "Barnaby the Bear loved to play his online space-adventure game, 'Galactic Giggles.' He was the best at collecting space-bananas! 🍌 But one day, a grumpy character named 'GrumblyGus' sent Barnaby a silly message saying, 'Your space-ship is too yellow!' 🟡 Barnaby laughed because yellow is his favorite color! Then Gus sent another, 'You are too slow at flying!' 🚀 Barnaby just giggled and ate a honey snack. 🍯 He remembered that words are just wind, and his happiness belonged to him. He didn't reply to GrumblyGus at all. Instead, he invited his friend Zippy the Zebra to play and they had so much fun that GrumblyGus got bored and left the game to go eat some broccoli. Barnaby realized that being kind to himself and playing with real friends is way better than listening to a grumpy stranger! ✨",
+    "moral": "Your happiness is like a superpower; don't let anyone else turn the volume down on your joy! 🌟 Keep being your wonderful self! 😊",
+    "vocabulary": [
+      {
+        "word": "Galactic",
+        "meaning": "Having to do with the big space and stars."
+      },
+      {
+        "word": "Stranger",
+        "meaning": "Someone you do not know."
+      },
+      {
+        "word": "Happiness",
+        "meaning": "The feeling of being glad or joyful."
+      },
+      {
+        "word": "Stranger",
+        "meaning": "A person who you have not met before."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to type with, a 'space' bar to make gaps between words, and an 'Enter' key, but you can't walk inside it!"
+    }
   }
 ]
