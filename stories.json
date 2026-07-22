@@ -2430,5 +2430,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to type with, a 'space' bar to make gaps between words, and an 'Enter' key, but you can't walk inside it!"
     }
+  },
+  {
+    "date": "2026-07-22T09:24:48.008Z",
+    "theme": "the importance of listening",
+    "story": "Barnaby the Bear had the biggest ears in the forest, but he rarely used them for listening! 🐻 Barnaby loved to talk. One sunny Tuesday, he decided to bake a 'Super-Duper Berry Cake' for his friend, Pip the Squirrel. Pip tried to tell him, 'Barnaby, please don't use salt instead of sugar!' but Barnaby was too busy singing a song about honey to notice. 🎶 He accidentally dumped a whole cup of salty sea-salt into the batter! When they finally sat down for a snack, Barnaby took a giant bite. PUCK! His face turned into a silly, squished lemon shape! 🍋 Pip giggled, 'I tried to warn you, silly bear!' Barnaby laughed until his tummy wiggled. He realized that if he had just stopped to listen, he would have had a sweet cake instead of a salty surprise. From that day on, Barnaby became the best listener in the woods! 🌳✨",
+    "moral": "Listening is a superpower that helps us learn and prevents silly mistakes! 👂💛",
+    "vocabulary": [
+      {
+        "word": "Super-Duper",
+        "meaning": "Something that is very great or extra special."
+      },
+      {
+        "word": "Batter",
+        "meaning": "A mixture of flour, eggs, and milk used for baking cakes."
+      },
+      {
+        "word": "Surprise",
+        "meaning": "Something unexpected that happens to you."
+      },
+      {
+        "word": "Realized",
+        "meaning": "To suddenly understand or become aware of something."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a 'neck' where the top is narrow and a 'cap' to keep it closed, but it doesn't have a head or hair like a person!"
+    }
   }
 ]
