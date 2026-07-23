@@ -2462,5 +2462,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a 'neck' where the top is narrow and a 'cap' to keep it closed, but it doesn't have a head or hair like a person!"
     }
+  },
+  {
+    "date": "2026-07-23T09:23:11.916Z",
+    "theme": "the power of a positive attitude",
+    "story": "Barnaby the Bear woke up feeling super excited for the Great Forest Picnic! 🧺 He spent all morning baking his favorite honey-blueberry muffins. But, oh no! When he tried to pack them, he tripped over his own fuzzy feet and the basket tipped over. Muffins went rolling everywhere! One landed in a puddle, and another bounced into a bush. 🧁 Barnaby sat down and let out a big sigh. He could have been sad, but then he remembered his secret weapon: a positive attitude! Instead of frowning, he started to giggle. 'Well,' he chuckled, 'now the forest floor is having a snack party too!' 🌳 Just then, his friend Squirrel scurried by. 'Why are you laughing, Barnaby?' she asked. Barnaby explained the muffin mishap. Squirrel thought it was so funny that she started giggling too! They spent the afternoon gathering wildflowers to decorate the 'muffin-covered' clearing, and they had the best picnic ever eating the leftover muffins on the grass. Barnaby learned that when things go wrong, a smile can turn a messy day into a magical one! ☀️✨",
+    "moral": "Even when things don't go as planned, a positive attitude can turn a bumpy day into a happy adventure! 🌈😊",
+    "vocabulary": [
+      {
+        "word": "Mishap",
+        "meaning": "A small, unlucky accident or mistake."
+      },
+      {
+        "word": "Positive",
+        "meaning": "Thinking about the good side of things."
+      },
+      {
+        "word": "Decorate",
+        "meaning": "To make something look more beautiful by adding things to it."
+      },
+      {
+        "word": "Scurried",
+        "meaning": "To move quickly with short, light steps."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to type with, a space bar, and an 'Enter' key, but you don't actually walk into it!"
+    }
   }
 ]
