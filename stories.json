@@ -2494,5 +2494,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to type with, a space bar, and an 'Enter' key, but you don't actually walk into it!"
     }
+  },
+  {
+    "date": "2026-07-24T09:20:06.752Z",
+    "theme": "empathy and kindness",
+    "story": "Barnaby the Bear had a big problem. He tried to bake a blueberry pie, but he accidentally used salt instead of sugar! 🫐🧂 When his friend Pip the Squirrel came over for a treat, Barnaby felt embarrassed. He hid the pie behind his back. But Pip saw his sad face and remembered how it felt to drop his favorite acorn. Instead of laughing, Pip said, 'I bet this pie is perfect for a science experiment!' They both giggled and decided to turn the salty pie into a 'Play-Dough Sculpture' for the forest art show. Barnaby felt much better because Pip understood his feelings without him even saying a word. 🐻🐿️ They spent the afternoon making silly salty sculptures of bunnies and trees! Being kind meant Pip looked at the heart of the situation, not just the mistake. 🎨✨",
+    "moral": "True kindness is understanding how someone else feels and helping them turn a mistake into a fun adventure! 🌟❤️",
+    "vocabulary": [
+      {
+        "word": "Embarrassed",
+        "meaning": "Feeling shy or silly because of a mistake."
+      },
+      {
+        "word": "Experiment",
+        "meaning": "A fun test to see what happens when you try something new."
+      },
+      {
+        "word": "Sculpture",
+        "meaning": "A piece of art made by shaping something like clay or dough."
+      },
+      {
+        "word": "Understand",
+        "meaning": "To know how someone feels or why they did something."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. I am always full of refreshing things. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a narrow top called a neck, it has a cap to keep things inside, and it holds drinks to keep you hydrated!"
+    }
   }
 ]
