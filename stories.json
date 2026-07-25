@@ -2526,5 +2526,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a narrow top called a neck, it has a cap to keep things inside, and it holds drinks to keep you hydrated!"
     }
+  },
+  {
+    "date": "2026-07-25T08:59:27.540Z",
+    "theme": "overcoming fear of failure",
+    "story": "Barnaby the Bear had a very big dream. He wanted to be the first bear in history to ride a unicycle while juggling honey jars! 🍯🚲 One sunny morning, he stepped onto his shiny, one-wheeled bike. He wobbled left, he wobbled right, and—WHOOSH!—he landed softly in a pile of fluffy daisies. *Plop!* Barnaby giggled. He wasn't hurt, but he felt a little silly. 'I failed!' he sighed. His friend, Pip the Squirrel, chirped, 'You didn't fail, Barnaby! You just discovered a way that doesn't work yet!' 🐿️ Barnaby thought about that. He climbed back on. This time, he wobbled, grabbed a honey jar, and—PLOP!—back into the flowers he went. But he was laughing even harder now! He kept trying. Each time he fell, he learned how to balance just a tiny bit better. By sunset, he was pedaling and juggling like a pro! Everyone cheered, even the butterflies. 🦋✨ Barnaby realized that falling down was just the first step toward standing tall on his unicycle.",
+    "moral": "Every mistake is just a sneaky way of learning how to get it right next time! Keep trying with a smile! 😊🌟",
+    "vocabulary": [
+      {
+        "word": "Unicycle",
+        "meaning": "A bike that has only one wheel instead of two."
+      },
+      {
+        "word": "Wobbled",
+        "meaning": "To move unsteadily from side to side."
+      },
+      {
+        "word": "Discover",
+        "meaning": "To find or learn something new."
+      },
+      {
+        "word": "Balance",
+        "meaning": "The ability to stay steady without falling over."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has to be broken before you can use it?"
+    },
+    "today_puzzle_answer": {
+      "answer": "An egg",
+      "explanation": "You have to crack or break the shell of an egg to cook it or eat the inside!"
+    }
   }
 ]
