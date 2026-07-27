@@ -2590,5 +2590,37 @@
       "answer": "A candle",
       "explanation": "As a candle burns, it melts away and gets shorter and shorter over time."
     }
+  },
+  {
+    "date": "2026-07-27T10:40:32.819Z",
+    "theme": "the power of a positive attitude",
+    "story": "Barnaby the Bear woke up feeling extra bouncy today! 🐻 He had big plans to bake his famous honey-nut muffins for the forest picnic. But oh no! When he went to the kitchen, he realized he was all out of honey. He looked in the cupboard, under the rug, and even inside his favorite hat, but no honey! 🍯 Barnaby didn't frown. Instead, he decided to be resilient. 'Maybe this is a chance to make Berry-Blast muffins instead!' he chirped. He went outside to pick fresh blueberries, but he tripped and tumbled right into a giant pile of soft, fluffy leaves. *Whoosh!* Instead of feeling grumpy, Barnaby giggled. He realized the leaves were perfect for a comfy nap! 🍂 After his nap, he felt even more optimistic. He noticed a bee friend named Buzz flying by. 'Hello, Buzz!' Barnaby shouted. 'Do you know where the best berries grow?' Buzz the bee was so happy to see Barnaby smiling that he took him to a hidden garden filled with the sweetest, juiciest berries ever. 🍓 Barnaby made the best muffins the forest had ever tasted, all because he chose to keep his spirits high. He turned a missing jar of honey into a grand adventure!",
+    "moral": "Choosing a positive attitude helps you turn every little stumble into a fun new adventure! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Resilient",
+        "meaning": "Being able to bounce back and stay happy after things go wrong."
+      },
+      {
+        "word": "Optimistic",
+        "meaning": "Looking on the bright side of things and expecting good stuff to happen."
+      },
+      {
+        "word": "Adventure",
+        "meaning": "An exciting or unusual experience."
+      },
+      {
+        "word": "Hidden",
+        "meaning": "Kept out of sight or tucked away."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A computer keyboard",
+      "explanation": "A keyboard has keys for typing, a 'space' bar for gaps, and an 'Enter' key, but you don't actually walk into it!"
+    }
   }
 ]
