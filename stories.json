@@ -2622,5 +2622,37 @@
       "answer": "A computer keyboard",
       "explanation": "A keyboard has keys for typing, a 'space' bar for gaps, and an 'Enter' key, but you don't actually walk into it!"
     }
+  },
+  {
+    "date": "2026-07-28T09:35:28.045Z",
+    "theme": "overcoming fear of failure",
+    "story": "Barnaby the Bear was a brilliant baker, but he had a secret: he was terrified of making messy pancakes! 🥞 One sunny morning, Barnaby decided to flip his very first flapjack. He stood in his kitchen wearing his favorite polka-dot apron, feeling a bit nervous. 'What if it lands on the floor?' he worried. His friend, Pip the Squirrel, cheered, 'Go for it, Barnaby! A mess is just a practice pancake!' Barnaby took a deep breath, gave the pan a giant flick, and—WHOOSH! 🤸‍♂️ The pancake did a silly somersault, hit the ceiling, and landed right on top of Barnaby’s fuzzy head! It was a total catastrophe, but then, Barnaby started to giggle. Pip started to laugh so hard he fell over! 🐿️ Instead of being upset, Barnaby realized the pancake tasted delicious even from his head. He learned that making a mistake was actually the funniest part of learning something new. From that day on, Barnaby became the 'Flying Pancake Champion,' and he never worried about silly mistakes again! 🎉",
+    "moral": "Making a mistake is just a funny step on the road to becoming great at something! Keep trying and keep smiling! ✨",
+    "vocabulary": [
+      {
+        "word": "Catastrophe",
+        "meaning": "A big, messy accident or a sudden disaster."
+      },
+      {
+        "word": "Somersault",
+        "meaning": "A jump or movement where you roll over completely."
+      },
+      {
+        "word": "Terrified",
+        "meaning": "Feeling very, very scared."
+      },
+      {
+        "word": "Brilliant",
+        "meaning": "Very smart or very good at something."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have many holes, yet I can hold water. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A sponge",
+      "explanation": "A sponge is full of tiny holes that soak up water, even though it looks like it shouldn't be able to hold it!"
+    }
   }
 ]
