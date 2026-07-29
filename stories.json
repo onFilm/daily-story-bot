@@ -2654,5 +2654,37 @@
       "answer": "A sponge",
       "explanation": "A sponge is full of tiny holes that soak up water, even though it looks like it shouldn't be able to hold it!"
     }
+  },
+  {
+    "date": "2026-07-29T09:35:27.395Z",
+    "theme": "dealing with cyberbullying",
+    "story": "Barnaby the Bear loved to share funny pictures of his sourdough bread on the Forest Web. 🐻🍞 One day, a grumpy squirrel named Nutty posted a silly comment saying Barnaby's bread looked like a lumpy rock! 🐿️ Instead of feeling sad, Barnaby laughed. He knew his bread was delicious! He decided to use his imagination. He drew googly eyes on his bread in the next photo and wrote, 'You are right, Nutty! It is a Rock-Bread pet!' 🪨👀 All the other forest friends started posting pictures of their own 'Rock-Pets.' Nutty saw everyone having so much fun and realized being silly was way better than being grumpy. He sent an emoji of a heart, and Barnaby sent back a picture of a bread-muffin. 🧁 They became digital pen pals who shared jokes every single day! 🌟",
+    "moral": "When someone is grumpy online, kindness and humor are your best superpowers! Stay sunny and don't let a bad comment dim your glow. ☀️💖",
+    "vocabulary": [
+      {
+        "word": "Sourdough",
+        "meaning": "A type of bread made with a special dough that has a yummy, tangy taste."
+      },
+      {
+        "word": "Imagine",
+        "meaning": "To make a picture or story in your mind."
+      },
+      {
+        "word": "Digital",
+        "meaning": "Things you see and do using computers, tablets, or phones."
+      },
+      {
+        "word": "Superpower",
+        "meaning": "A special talent or skill that makes you feel strong and confident."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to type with, a space bar, and an Enter button, but it isn't a building you walk into!"
+    }
   }
 ]
