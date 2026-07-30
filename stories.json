@@ -2686,5 +2686,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to type with, a space bar, and an Enter button, but it isn't a building you walk into!"
     }
+  },
+  {
+    "date": "2026-07-30T09:28:45.646Z",
+    "theme": "dealing with peer pressure",
+    "story": "Barnaby the Bear was a very talented dancer. He loved to do the 'Wiggle-Waggle' in the forest! 🐻💃 One day, all the cool squirrels decided they were only going to walk backward because they thought it looked 'super mysterious.' They pressured Barnaby to walk backward too. 'Come on, Barnaby! Don't be a square! Walk backward like us!' they chirped. Barnaby tried, but he tripped over his own big fuzzy paws and bumped into a bush! BONK! 🌳 He felt silly, but he realized that walking backward made him dizzy and unhappy. He stood up, dusted off his fur, and said, 'I think I prefer wiggling forward!' He did a happy dance and hopped away. Soon, the squirrels saw how much fun he was having and realized that being yourself is much cooler than just copying others. They all started wiggling too! 🐿️✨",
+    "moral": "True happiness comes from being yourself, even when everyone else is doing something different! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Mysterious",
+        "meaning": "Something that is hard to explain or secret."
+      },
+      {
+        "word": "Pressure",
+        "meaning": "When someone tries to make you do something you might not want to do."
+      },
+      {
+        "word": "Talented",
+        "meaning": "Being naturally very good at doing something."
+      },
+      {
+        "word": "Realized",
+        "meaning": "To suddenly understand something clearly."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life but have no breath. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "A candle starts out long, but as it burns down to give light, it gets shorter and shorter until it disappears!"
+    }
   }
 ]
