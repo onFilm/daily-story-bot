@@ -2846,5 +2846,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a 'neck' part at the top, and the lid that covers it is called a 'cap'."
     }
+  },
+  {
+    "date": "2026-08-04T09:37:47.816Z",
+    "theme": "resilience after a setback",
+    "story": "Barnaby the Bear had one dream: to become the world’s greatest pancake flipper! 🥞 One sunny Saturday, he gathered his apron and a giant bowl of batter. He tossed his first pancake high into the air, but oh no! It did a double-flip and landed right on his fuzzy head like a hat. Splat! 🐻 Barnaby blinked as syrup dripped down his nose. His friends started giggling, but Barnaby just laughed too. 'I guess I have a sticky hat today!' he cheered. 🍯 Instead of giving up, he practiced flipping tiny circles of toast first. He was determined to master the art of the perfect pancake. After many giggles and a few more accidental 'hats,' he finally flipped a golden pancake that landed perfectly in the center of his plate. Ta-da! 🎉 His pancake was fluffy, delicious, and most importantly, not on his head!",
+    "moral": "When things go wrong, just giggle, learn from your mistake, and try again! 🌟 Resilience turns 'oops' into 'ta-da!'",
+    "vocabulary": [
+      {
+        "word": "Resilience",
+        "meaning": "The ability to keep trying even after things don't go as planned."
+      },
+      {
+        "word": "Determined",
+        "meaning": "When you decide you are going to do something and you don't give up."
+      },
+      {
+        "word": "Accidental",
+        "meaning": "Something that happens by mistake without being planned."
+      },
+      {
+        "word": "Master",
+        "meaning": "To become very good at doing a skill."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am full of holes, yet I can hold water. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A sponge",
+      "explanation": "A sponge is made of soft material with lots of little gaps, which makes it great for soaking up water!"
+    }
   }
 ]
