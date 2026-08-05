@@ -2878,5 +2878,37 @@
       "answer": "A sponge",
       "explanation": "A sponge is made of soft material with lots of little gaps, which makes it great for soaking up water!"
     }
+  },
+  {
+    "date": "2026-08-05T09:35:14.919Z",
+    "theme": "forgiving a friend",
+    "story": "Barnaby the Bear and Pip the Squirrel were best friends. One sunny afternoon, they decided to bake a 'Super-Duper Berry Pie' together! 🥧 Barnaby was in charge of adding the giant blueberries, but he got a little too excited. He tossed the berries so high that they bounced off the ceiling and landed right in Pip’s fur! Pip looked like a giant, fuzzy purple polka-dot. 🟣 Pip felt a bit grumpy and stomped his little feet. 'My fur is sticky!' he squeaked. Barnaby felt terrible. He apologized immediately and offered to help Pip clean up with a bubbly, warm bath of strawberry-scented soap. 🛁 Once they were clean, they shared a big laugh about the 'Berry-Rainstorm.' Pip realized that Barnaby didn't mean to make a mess, so he decided to forgive him. They spent the rest of the day sharing a different pie, carefully eating it one bite at a time! 🐻🐿️",
+    "moral": "Forgiving a friend helps keep our hearts light and our friendships strong! 🌟 Being kind matters more than being perfect. ❤️",
+    "vocabulary": [
+      {
+        "word": "Apologized",
+        "meaning": "Said you are sorry for something you did."
+      },
+      {
+        "word": "Forgive",
+        "meaning": "To stop feeling angry at someone who made a mistake."
+      },
+      {
+        "word": "Immediately",
+        "meaning": "Right away, without waiting."
+      },
+      {
+        "word": "Perfect",
+        "meaning": "Exactly right, with no mistakes at all."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to type with, a space bar for spaces, and an 'Enter' key, but you don't actually walk into it!"
+    }
   }
 ]
