@@ -3070,5 +3070,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to type, a space bar for spaces, and an 'Enter' key, but you can't walk inside it!"
     }
+  },
+  {
+    "date": "2026-08-11T08:08:18.062Z",
+    "theme": "standing up to bullies",
+    "story": "Barnaby the Bunny was not your average rabbit. While others hopped, Barnaby practiced his 'Super Polite Stand' 🐰. One sunny afternoon, a big, clumsy badger named Boris kept trying to hop in front of everyone in the carrot-patch line. He would nudge people with his soft, fuzzy nose and act like he owned the garden! 🥕\n\nBarnaby decided it was time to be brave. When Boris nudged him, Barnaby didn't run away or cry. He stood tall, put his paws on his hips, and said in a very friendly but firm voice, 'Excuse me, Boris! We are all waiting our turn. It is much more fun to play fairly!' 🌟\n\nBoris stopped. He looked surprised! He didn't know he was being unkind. He blushed a deep shade of pink and said, 'Oh! I am so sorry, Barnaby. I was just excited about the crunchy carrots.' From that day on, Boris became the best line-waiter in the forest! Standing up for himself and his friends with kindness made the whole patch a happier place. 🥕✨",
+    "moral": "Using a kind but firm voice can help people understand how to treat others better! You have the power to make things right. 🌈💖",
+    "vocabulary": [
+      {
+        "word": "Clumsy",
+        "meaning": "Moving in a way that is not graceful or careful."
+      },
+      {
+        "word": "Firm",
+        "meaning": "Being strong and confident in what you say."
+      },
+      {
+        "word": "Surprised",
+        "meaning": "Feeling a sudden wonder when something unexpected happens."
+      },
+      {
+        "word": "Excited",
+        "meaning": "Feeling very happy and full of energy."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck, but I have no head. I wear a cap, but I have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a 'neck' where it gets narrow, and the lid on top is often called a 'cap'!"
+    }
   }
 ]
