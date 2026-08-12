@@ -3102,5 +3102,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a 'neck' where it gets narrow, and the lid on top is often called a 'cap'!"
     }
+  },
+  {
+    "date": "2026-08-12T08:15:05.671Z",
+    "theme": "empathy and kindness",
+    "story": "Barnaby the Bear was very proud of his giant collection of shiny pebbles. He spent all day polishing them until they sparkled like little stars! 🌟 One afternoon, he saw Pip the Squirrel sitting under an oak tree, looking very sad because she had lost her favorite acorn stash. Barnaby wanted to keep polishing his rocks, but he saw a big, lonely tear roll down Pip’s fuzzy cheek. 🐿️ Barnaby realized that even a shiny rock wasn't as important as a friend's happiness. He waddled over, sat next to her, and offered her one of his favorite 'lucky' pebbles to keep her company while they searched for her acorns. Together, they looked under every leaf until—pop!—they found the stash hidden behind a mushroom. 🍄 Pip was so happy she did a little joyful dance, and Barnaby felt a warm, fuzzy glow in his tummy that was much better than any shiny rock! 🐻✨",
+    "moral": "True happiness is found when we choose to care for others and share our kindness! 🌈💖",
+    "vocabulary": [
+      {
+        "word": "Collection",
+        "meaning": "A group of things that someone has gathered together."
+      },
+      {
+        "word": "Sparkled",
+        "meaning": "Shined with bright, tiny flashes of light."
+      },
+      {
+        "word": "Realized",
+        "meaning": "To suddenly understand or become aware of something."
+      },
+      {
+        "word": "Joyful",
+        "meaning": "Feeling or causing great happiness."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has 'keys' to type with, a 'space' bar for empty gaps, and an 'enter' key to finish a line!"
+    }
   }
 ]
