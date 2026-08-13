@@ -3134,5 +3134,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has 'keys' to type with, a 'space' bar for empty gaps, and an 'enter' key to finish a line!"
     }
+  },
+  {
+    "date": "2026-08-13T08:18:47.622Z",
+    "theme": "taking responsibility",
+    "story": "Barnaby the Bear loved his job as the Forest Snack Inspector. One sunny morning, he decided to bake a giant honey cake for his friends. But wait! 🐻 He forgot to set the timer on the oven! When he opened the door, his cake was as flat as a pancake and very, very burnt. Oh no! 🥞 Barnaby could have blamed the oven, or maybe the whisk, but instead, he looked at his paws and sighed. 'I forgot to check the time,' he told his friends honestly. 'I am responsible for this burnt cake.' To fix his mistake, he didn't hide. He apologized and invited everyone to a 'Crunchy Honey Toast' party using the toasted pieces instead! Everyone cheered because Barnaby was so brave to tell the truth. He learned that being responsible feels much better than trying to make excuses! 🍯✨",
+    "moral": "Taking responsibility means owning your mistakes and making things right. It shows you have a big, kind heart! ❤️🌟",
+    "vocabulary": [
+      {
+        "word": "Responsible",
+        "meaning": "Being in charge of your own actions and what happens because of them."
+      },
+      {
+        "word": "Apologized",
+        "meaning": "Said you are sorry for something you did wrong."
+      },
+      {
+        "word": "Inspector",
+        "meaning": "Someone whose job is to check things to make sure they are correct or safe."
+      },
+      {
+        "word": "Honest",
+        "meaning": "Telling the truth and not hiding the facts."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a face but no eyes, and hands but no arms. I keep moving, but I never go anywhere. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A clock",
+      "explanation": "A clock has a 'face' (the numbers) and 'hands' that spin to tell the time, but it stays hung on the wall!"
+    }
   }
 ]
