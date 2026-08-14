@@ -3166,5 +3166,37 @@
       "answer": "A clock",
       "explanation": "A clock has a 'face' (the numbers) and 'hands' that spin to tell the time, but it stays hung on the wall!"
     }
+  },
+  {
+    "date": "2026-08-14T08:13:43.108Z",
+    "theme": "handling changing friendships",
+    "story": "Barnaby the Bear was famous for his blueberry muffins, and his best friend, Pip the Squirrel, loved them! 🧁 They did everything together, like climbing tall trees and chasing butterflies. But one sunny Tuesday, Pip found a new hobby: extreme unicycle riding! 🚲 Pip spent all his time practicing his balance on the sidewalk, leaving poor Barnaby alone with his muffins. Barnaby felt a bit lonely and thought, 'Oh no, is our friendship melting like butter on a hot muffin?' 🧈 He decided to be brave and go visit Pip. When he arrived, he saw Pip wobbling and spinning in circles! Barnaby laughed so hard he almost dropped his tray. 'I'm terrible at this,' Pip giggled. Barnaby realized that friends can change hobbies and interests, but the bond of friendship stays strong. Now, they go unicycle riding together, and Barnaby even tries to balance a muffin on his nose while he rolls! 🐻🐿️ They learned that friends can grow in different directions and still be the best of pals.",
+    "moral": "Friends may change what they like to do, but true friendship always finds a new way to have fun together! 🌟💖",
+    "vocabulary": [
+      {
+        "word": "Famous",
+        "meaning": "When many people know who you are or what you do."
+      },
+      {
+        "word": "Hobby",
+        "meaning": "Something you enjoy doing for fun in your spare time."
+      },
+      {
+        "word": "Balance",
+        "meaning": "Keeping your body steady so you don't fall over."
+      },
+      {
+        "word": "Bond",
+        "meaning": "A special connection or friendship between two people."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am full of holes, yet I can hold water. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A sponge",
+      "explanation": "A sponge has many tiny holes in it, which helps it soak up and hold water when you are cleaning!"
+    }
   }
 ]
