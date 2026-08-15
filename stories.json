@@ -3198,5 +3198,37 @@
       "answer": "A sponge",
       "explanation": "A sponge has many tiny holes in it, which helps it soak up and hold water when you are cleaning!"
     }
+  },
+  {
+    "date": "2026-08-15T07:28:04.379Z",
+    "theme": "taking responsibility",
+    "story": "Barnaby the Bear had one big job: keeping the honey jars safe in the pantry! 🍯 But one sunny morning, Barnaby saw a beautiful blue butterfly. He chased it right into the kitchen, accidentally bumping the table with his fluffy bottom! *Crash!* Two jars of honey tipped over, and sticky golden syrup began to ooze across the floor like a slow, sweet river. 🍯🏃‍♂️ Barnaby felt his tummy do a nervous flip. He could hide, or he could pretend the cat did it! But then, he remembered that he was a grown-up bear now. Barnaby took a deep breath, grabbed his giant mop, and whistled a happy tune while he scrubbed. By the time Mama Bear walked in, the floor was sparkling clean and smelled like clover flowers. She gave him a big hug for being so diligent. Barnaby realized that fixing a mistake feels much better than trying to hide it! 🐻✨",
+    "moral": "Taking responsibility means owning your mistakes and making things right! You are brave when you fix what you accidentally break. 🌟💪",
+    "vocabulary": [
+      {
+        "word": "Diligent",
+        "meaning": "Working hard and being careful to do a good job."
+      },
+      {
+        "word": "Ooze",
+        "meaning": "To flow out very slowly, like syrup or honey."
+      },
+      {
+        "word": "Pantry",
+        "meaning": "A small room or cupboard used to store food."
+      },
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens without you planning it."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys like 'Enter' and a 'Space bar,' but it's not a real house with doors!"
+    }
   }
 ]
