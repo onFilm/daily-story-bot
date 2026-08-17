@@ -3262,5 +3262,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a narrow top part called a neck, a lid that acts like a cap, and it holds drinks like water or juice!"
     }
+  },
+  {
+    "date": "2026-08-17T07:51:08.068Z",
+    "theme": "dealing with cyberbullying",
+    "story": "Barnaby the Bear loved to share his digital paintings of honey pots on his favorite app, 'CubChat.' One day, a grumpy squirrel named Nutty posted a silly comment: 'Your honey pots look like globs of yellow glue!' 🍯 Barnaby felt a little sad at first, but then he remembered his friend, Oliver Owl. Oliver told him, 'Barnaby, some people have grumpy days, and they try to spread that grumpiness to others. That is not your problem, it is theirs!' 🦉 Barnaby decided to be extra kind. He didn't reply to the mean comment. Instead, he posted an even brighter painting of a giant, sparkly honey pot with a smile on it. He added the caption: 'Thank you for your feedback! I hope your day is as sweet as honey!' 🌟 Nutty the Squirrel felt quite silly for being mean. He actually messaged Barnaby later to say, 'I was just having a bad morning. Your art is actually quite nice!' Barnaby smiled, saved the kind message, and went back to his painting. He learned that staying cool and kind is the best way to handle digital grumpiness! 🎨✨",
+    "moral": "When someone is unkind online, stay calm and kind. Don't let someone else's grumpiness change your happy heart! 💖😊",
+    "vocabulary": [
+      {
+        "word": "Digital",
+        "meaning": "Anything related to computers, tablets, or the internet."
+      },
+      {
+        "word": "Feedback",
+        "meaning": "Sharing your thoughts or opinions about something someone did."
+      },
+      {
+        "word": "Grumpiness",
+        "meaning": "Being in a bad mood or feeling irritable."
+      },
+      {
+        "word": "Caption",
+        "meaning": "A short sentence or title written under a picture."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am full of holes, but I can still hold a lot of water. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A sponge",
+      "explanation": "A sponge has many tiny holes all over it, which is exactly why it is so good at soaking up and holding water!"
+    }
   }
 ]
