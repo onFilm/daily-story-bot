@@ -3294,5 +3294,37 @@
       "answer": "A sponge",
       "explanation": "A sponge has many tiny holes all over it, which is exactly why it is so good at soaking up and holding water!"
     }
+  },
+  {
+    "date": "2026-08-18T07:35:49.894Z",
+    "theme": "empathy and kindness",
+    "story": "Barnaby the Bear had a big problem: his favorite polka-dot bowtie was missing! 🎀 He searched under his bed, behind his honey jars, and even inside his giant rain boots. He felt quite melancholy. Suddenly, he heard a tiny 'Achoo!' coming from the garden. Barnaby peeked over a sunflower and saw Pip the Squirrel. Poor Pip was wearing the bowtie like a headband, but it was tied way too tight! 🐿️ Barnaby didn't get mad. Instead, he remembered how it felt to have a headache. He gently approached Pip and said, 'Oh dear, that looks a bit snug! Let me help you.' With a giggle, Barnaby loosened the bow. Pip sighed with relief and felt so grateful that he shared his stash of yummy sunflower seeds with Barnaby. They spent the whole afternoon playing hide-and-seek, and Barnaby realized that being kind turned a grumpy day into a glorious one! 🌻✨",
+    "moral": "When we stop to understand how someone else is feeling, we can turn a difficult moment into a beautiful friendship! 💖🌟",
+    "vocabulary": [
+      {
+        "word": "Melancholy",
+        "meaning": "Feeling a little bit sad."
+      },
+      {
+        "word": "Snug",
+        "meaning": "Very tight or close-fitting."
+      },
+      {
+        "word": "Grateful",
+        "meaning": "Feeling happy and thankful for something."
+      },
+      {
+        "word": "Glorious",
+        "meaning": "Something that is wonderful or excellent."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has 'keys' for typing, a 'space' bar, and an 'enter' button, but it isn't a place you can actually walk into!"
+    }
   }
 ]
