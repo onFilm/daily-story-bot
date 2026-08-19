@@ -3326,5 +3326,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has 'keys' for typing, a 'space' bar, and an 'enter' button, but it isn't a place you can actually walk into!"
     }
+  },
+  {
+    "date": "2026-08-19T07:35:27.547Z",
+    "theme": "dealing with peer pressure",
+    "story": "Barnaby the Bear was a very talented artist, but he had a funny secret: he loved painting pictures of broccoli wearing sunglasses! 🥦😎 One day, all his friends in the forest decided they wanted to paint only pinecones. 'Come on, Barnaby!' chirped Pip the Squirrel. 'Everyone is painting pinecones today. Don't be a weirdo, just paint a pinecone!' Barnaby looked at his colorful broccoli sketch. He felt a little nervous, but he knew what he loved. 'I think I will stick with my broccoli,' Barnaby said with a giggle. Pip looked at the broccoli, then at the pinecone, and then back at the broccoli. 'Wait, that is actually hilarious!' Pip laughed. Soon, all the animals were painting vegetables in silly outfits! Barnaby realized that being himself was much more fun than trying to do what everyone else was doing. 🎨✨",
+    "moral": "It is always brave and cool to be yourself, even if you are the only one doing something different! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Talented",
+        "meaning": "Having a natural ability to do something well."
+      },
+      {
+        "word": "Nervous",
+        "meaning": "Feeling a little worried or shy."
+      },
+      {
+        "word": "Realized",
+        "meaning": "To understand something clearly for the first time."
+      },
+      {
+        "word": "Different",
+        "meaning": "Not the same as the others."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life, but I have no breath. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "When a candle is new, it is tall, but as it burns down to give light, it gets shorter and shorter!"
+    }
   }
 ]
