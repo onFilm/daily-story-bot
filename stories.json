@@ -3358,5 +3358,37 @@
       "answer": "A candle",
       "explanation": "When a candle is new, it is tall, but as it burns down to give light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-08-20T07:38:52.624Z",
+    "theme": "dealing with jealousy",
+    "story": "Barnaby the Bear was a very talented baker. He made the fluffiest blueberry muffins in the whole forest! 🐻🧁 But one day, his friend Pip the Squirrel started painting beautiful pictures of the trees. Everyone gathered around Pip to look at his art, saying, 'Wow, that is amazing!' Barnaby felt a little prickly feeling in his tummy. He thought, 'Hey! I am the popular one who makes the muffins!' He even tried to bake a muffin that looked like a tree, but it just looked like a brown, soggy blob. 🌳🤦‍♂️ Barnaby realized that feeling sad because Pip was good at art was silly. He brought a tray of his best muffins over to Pip. 'You paint like a master, Pip! And these muffins are for you to enjoy while you work,' Barnaby said with a big smile. Pip cheered, 'And you are the muffin king, Barnaby! Thank you!' Barnaby felt so much lighter. He learned that being happy for a friend makes your own heart grow bigger! 🌟✨",
+    "moral": "When we celebrate our friends' talents instead of feeling jealous, we discover that there is plenty of sunshine for everyone to shine! ☀️💖",
+    "vocabulary": [
+      {
+        "word": "Talented",
+        "meaning": "Being very good at doing something special."
+      },
+      {
+        "word": "Prickly",
+        "meaning": "Feeling uncomfortable or itchy, like when you feel a bit jealous."
+      },
+      {
+        "word": "Popular",
+        "meaning": "When many people like or admire you."
+      },
+      {
+        "word": "Celebrate",
+        "meaning": "To show happiness for someone else's success."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to type with, a space bar, and an 'Enter' key, but you can't walk inside it!"
+    }
   }
 ]
