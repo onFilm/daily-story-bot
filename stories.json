@@ -3390,5 +3390,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to type with, a space bar, and an 'Enter' key, but you can't walk inside it!"
     }
+  },
+  {
+    "date": "2026-08-21T07:40:01.590Z",
+    "theme": "dealing with peer pressure",
+    "story": "Barnaby the Bear was a very talented baker in the forest. He could bake blueberry muffins that tasted like a sunshine hug! 🧁 One sunny morning, his friends, a group of squirrels, decided they wanted to bake 'Mud-and-Twig' pies. 'Come on, Barnaby!' they squeaked. 'Everyone is doing it! It is the new trend!' 🐿️ Barnaby looked at the mud pies. They looked… well, like mud. He really wanted to make his fluffy muffins instead. The squirrels kept nudging him, saying, 'Don't be a boring bear, Barnaby! Everyone loves mud pies!' Barnaby felt a little flutter in his tummy, but he remembered that he loved his muffins more than anything. 'I think I will stick to my muffins,' Barnaby said with a cheerful smile. 'But I can share them with you!' When the squirrels smelled the sweet, warm berries, they dropped their mud pies faster than a falling leaf! They all agreed that muffins were way better than mud. Barnaby was happy he stayed true to his own delicious idea! 🐻✨",
+    "moral": "It is always brave and wonderful to be yourself, even when everyone else is doing something different! 🌟",
+    "vocabulary": [
+      {
+        "word": "Trend",
+        "meaning": "Something that is popular or very fashionable for a short time."
+      },
+      {
+        "word": "Nudging",
+        "meaning": "Giving someone a gentle push with your elbow or hand to get their attention."
+      },
+      {
+        "word": "Flutter",
+        "meaning": "A light, shaky feeling, often in your tummy when you are nervous or excited."
+      },
+      {
+        "word": "Delicious",
+        "meaning": "Something that tastes really, really good."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. I am full of liquid, but I cannot drink. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a 'neck' (the top part), a 'cap' (the lid), and can hold drinks like water or juice inside!"
+    }
   }
 ]
