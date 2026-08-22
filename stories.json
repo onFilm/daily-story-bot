@@ -3422,5 +3422,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a 'neck' (the top part), a 'cap' (the lid), and can hold drinks like water or juice inside!"
     }
+  },
+  {
+    "date": "2026-08-22T07:29:14.294Z",
+    "theme": "dealing with cyberbullying",
+    "story": "Barnaby the Bear loved to share his digital drawings of honey pots on the Forest Web. 🍯 One day, a grumpy Squirrel named Squeaky left a comment saying, 'Your drawing looks like a blob of mud!' 🐿️ Barnaby felt sad for a second, but then he remembered his Mom's advice: 'If someone is being a silly goose online, don't let their grumpy words tickle your heart.' Barnaby imagined Squeaky trying to draw while wearing giant oven mitts! 🧤 He giggled at the thought and replied, 'Thanks for the feedback, Squeaky! I hope your day is as sweet as honey!' 🐻 Squeaky was so surprised by the kindness that he apologized and asked for drawing tips instead. Barnaby realized that when people are unkind online, they are often just having a bad day, and being super nice is the best way to turn a frown into a smile! 🌟",
+    "moral": "Kindness is a superpower that can turn a grumpy moment into a friendly one! 🌈✨",
+    "vocabulary": [
+      {
+        "word": "Digital",
+        "meaning": "Anything used on a computer, phone, or tablet."
+      },
+      {
+        "word": "Feedback",
+        "meaning": "Giving advice or opinions to help someone improve."
+      },
+      {
+        "word": "Imagined",
+        "meaning": "Creating a picture or idea in your mind."
+      },
+      {
+        "word": "Apologized",
+        "meaning": "Saying sorry for something you did."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life, but I have no heart. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "A candle starts out long and tall, but as it burns and melts away, it gets shorter and shorter!"
+    }
   }
 ]
