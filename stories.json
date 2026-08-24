@@ -3486,5 +3486,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to press, a space bar, and an 'Enter' button, but it is not a building you can walk into!"
     }
+  },
+  {
+    "date": "2026-08-24T07:56:12.179Z",
+    "theme": "overcoming fear of failure",
+    "story": "Barnaby the Bear had a very big dream: he wanted to be the first bear to bake a perfect blueberry pancake! 🥞 But Barnaby was worried. 'What if I burn it?' he thought. 'What if it looks like a blob instead of a circle?' Barnaby decided to try anyway. He put on his favorite polka-dot apron and started mixing. 🥣 SPLAT! A glob of batter flew onto his nose! Barnaby giggled. He tried again. The first pancake looked like a squiggly star, and the second one was a bit crispy on the edges. 🌟 His friend, Henrietta the Hedgehog, popped by. 'It's not perfect,' she said, 'but it smells like a masterpiece!' They sat together and ate the wobbly pancakes with extra syrup. They were the most delicious pancakes ever! Barnaby realized that even though he didn't make a perfect circle, he made a wonderful breakfast. He wasn't afraid of a little mess anymore! 🐻✨",
+    "moral": "Trying your best is better than being perfect! Every mistake is just a funny step toward learning something new. 🌈",
+    "vocabulary": [
+      {
+        "word": "Masterpiece",
+        "meaning": "Something made with great skill and care."
+      },
+      {
+        "word": "Batter",
+        "meaning": "A mix of flour, eggs, and milk used to cook pancakes."
+      },
+      {
+        "word": "Crispy",
+        "meaning": "Firm, dry, and crunchy on the outside."
+      },
+      {
+        "word": "Wobbly",
+        "meaning": "Moving unsteadily from side to side."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. I am full of water, but I cannot swim. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A water bottle",
+      "explanation": "The top part of the bottle is called the 'neck,' the lid is a 'cap,' and it holds water, but it doesn't have a head or hair!"
+    }
   }
 ]
