@@ -3582,5 +3582,37 @@
       "answer": "A water bottle",
       "explanation": "It has a 'neck' where the cap screws on, and it holds your water for you!"
     }
+  },
+  {
+    "date": "2026-08-27T18:05:08.694Z",
+    "theme": "self-acceptance and body positivity",
+    "story": "Barnaby the Bear had a big problem. He looked in the mirror and sighed. 'My ears are too round, my tummy is too wiggly, and my fur is the color of oatmeal!' 🐻 He wanted to be a cool, sleek penguin. So, Barnaby tried to waddle like a penguin. Waddle, waddle, splash! He fell right into the pond. 💦 Then he tried to be a bright parrot. He stuck colorful leaves all over his fur. But when he tried to fly, he just looked like a giant, grumpy salad! 🥗 Suddenly, his friend Bella the Butterfly landed on his nose. 'Barnaby,' she giggled, 'you aren't a penguin or a parrot. You are a cozy, huggable bear! Your round ears help you hear bees, your wiggly tummy is perfect for belly laughs, and your oatmeal fur is the softest in the forest.' Barnaby looked in the mirror again and did a happy dance. He realized his body was made exactly right for being a bear! 🌟",
+    "moral": "You are special just the way you are, and that is your superpower! ✨",
+    "vocabulary": [
+      {
+        "word": "Sleek",
+        "meaning": "Smooth, shiny, or elegant."
+      },
+      {
+        "word": "Waddle",
+        "meaning": "To walk with short steps, swaying from side to side."
+      },
+      {
+        "word": "Huggable",
+        "meaning": "Something that is soft and cozy and makes you want to hug it."
+      },
+      {
+        "word": "Realized",
+        "meaning": "To understand something clearly."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have many keys but cannot open a single door. I have a space but no room. You can play with me, but I am not a toy. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A piano",
+      "explanation": "A piano has keys to play music, and it also has a 'space' bar on a keyboard or just empty space between the notes, but it doesn't open doors!"
+    }
   }
 ]
