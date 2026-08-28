@@ -3614,5 +3614,37 @@
       "answer": "A piano",
       "explanation": "A piano has keys to play music, and it also has a 'space' bar on a keyboard or just empty space between the notes, but it doesn't open doors!"
     }
+  },
+  {
+    "date": "2026-08-28T19:14:41.187Z",
+    "theme": "empathy and kindness",
+    "story": "Barnaby the Bear had a big problem. He wanted to bake a honey cake for his friend, Pip the Squirrel, but he accidentally used salt instead of sugar! 🍯 When Pip took a bite, his face turned into a silly, squished lemon shape! Barnaby felt terrible and worried his friend would be upset. But instead of crying, Barnaby imagined how Pip felt. He realized he would be disappointed too! So, Barnaby quickly gathered some sweet berries and whipped up a delicious berry smoothie to make things better. 🍓 Pip laughed, his face went back to normal, and they spent the whole afternoon sharing jokes and snacks. Barnaby learned that pausing to think about someone else's feelings turns a 'salty' day into a sweet one! 🐻✨",
+    "moral": "Empathy is like a secret superpower; when we understand how others feel, we can help turn their day around with kindness! 🌟❤️",
+    "vocabulary": [
+      {
+        "word": "Empathy",
+        "meaning": "Being able to understand and share how someone else feels."
+      },
+      {
+        "word": "Disappointed",
+        "meaning": "Feeling sad because something did not turn out the way you wanted."
+      },
+      {
+        "word": "Imagined",
+        "meaning": "Thinking about something that is not happening right now."
+      },
+      {
+        "word": "Delicious",
+        "meaning": "Something that tastes very good."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. I am always full of water, but I cannot drink. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A water bottle",
+      "explanation": "The top of the bottle is called the neck, the lid is called a cap, and it holds water for you to drink!"
+    }
   }
 ]
