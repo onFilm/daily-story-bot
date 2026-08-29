@@ -3646,5 +3646,37 @@
       "answer": "A water bottle",
       "explanation": "The top of the bottle is called the neck, the lid is called a cap, and it holds water for you to drink!"
     }
+  },
+  {
+    "date": "2026-08-29T12:57:29.396Z",
+    "theme": "empathy and kindness",
+    "story": "Barnaby the Bear had a big problem. He tried to bake a blueberry pie, but he accidentally used salt instead of sugar! 🧂🫐 When his friend Pippa the Penguin arrived for a snack, she took one bite and her beak went wobbly. Instead of laughing, Barnaby felt sad because he saw Pippa’s disappointed face. He realized he had been so busy humming his favorite song that he hadn't checked the jar label! Barnaby quickly fetched a jar of honey and a bowl of fresh berries. 'I’m so sorry, Pippa!' he chirped. 'Let’s make a super-sweet fruit salad together instead!' 🍯 Pippa smiled wide. She knew that Barnaby felt bad, and she felt happy that he cared about her tummy. They spent the whole afternoon giggling and eating the best fruit salad ever. Barnaby learned that being a good friend means paying attention to how others feel. 🐻🐧✨",
+    "moral": "True kindness is noticing how your friends feel and always trying to make things right when you make a mistake! 🌟❤️",
+    "vocabulary": [
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens by mistake and you didn't mean for it to happen."
+      },
+      {
+        "word": "Disappointed",
+        "meaning": "Feeling a little bit sad because something didn't turn out the way you wanted."
+      },
+      {
+        "word": "Realized",
+        "meaning": "To suddenly understand or become aware of something."
+      },
+      {
+        "word": "Label",
+        "meaning": "A small piece of paper or sticker that tells you what is inside a jar or box."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys for typing, a 'space' bar, and an 'enter' key, but it isn't a room you can walk into!"
+    }
   }
 ]
