@@ -3678,5 +3678,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys for typing, a 'space' bar, and an 'enter' key, but it isn't a room you can walk into!"
     }
+  },
+  {
+    "date": "2026-08-30T12:35:46.040Z",
+    "theme": "dealing with jealousy",
+    "story": "Barnaby the Bear was very happy until his best friend, Pip the Penguin, got a pair of shiny, light-up sneakers! 👟 Whenever Pip walked, his shoes blinked bright blue. Barnaby felt a little tickle in his tummy that felt like sour grapes. 'I wish my paws could light up too,' Barnaby sighed, looking at his fuzzy, brown toes. He started to feel a bit grumpy. He even tried to paint his paws with glow-in-the-dark paint, but he just ended up looking like a walking disco ball! 🎨 Suddenly, Pip stopped and saw Barnaby looking sad. 'Barnaby, these shoes make my feet hurt, but your fuzzy paws are perfect for snuggling!' Pip said with a big smile. Barnaby realized that being jealous of someone else's cool thing made him forget how awesome he already was. He hugged Pip, and they spent the afternoon playing tag in the forest. Barnaby was a much faster runner, and Pip was a much better dancer. They were a perfect team! 🌟✨",
+    "moral": "When you focus on what you have instead of what others have, you will find you have everything you need to be happy! 😊🌈",
+    "vocabulary": [
+      {
+        "word": "Jealousy",
+        "meaning": "Feeling unhappy or sad because someone else has something you want."
+      },
+      {
+        "word": "Sour",
+        "meaning": "A sharp or unpleasant taste; often used to describe a bad mood."
+      },
+      {
+        "word": "Perfect",
+        "meaning": "Exactly right; something that does not need any changes."
+      },
+      {
+        "word": "Awesome",
+        "meaning": "Something that is very impressive or great."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life, but wind is my enemy. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "When a candle is new, it is tall, but as it burns down to give light, it gets shorter and shorter."
+    }
   }
 ]
