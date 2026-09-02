@@ -3774,5 +3774,37 @@
       "answer": "A bottle",
       "explanation": "A bottle has a narrow top called a neck, and it is sealed with a lid or a 'cap'."
     }
+  },
+  {
+    "date": "2026-09-02T11:56:59.988Z",
+    "theme": "overcoming fear of failure",
+    "story": "Barnaby the Bear was a very talented baker, but he had a big secret: he was terrified of making messy mistakes! 🐻 One afternoon, he decided to bake his famous 'Super-Duper Berry Blast Cake.' He put on his favorite polka-dot apron and grabbed his mixing spoon. But oh no! As he reached for the flour, he accidentally tipped the whole bag over. POOF! ☁️ Barnaby was covered in white dust from his nose to his fuzzy toes. He looked like a powdered donut! 🍩 At first, Barnaby wanted to hide under his bed. But then, he heard his friend Pippa the Squirrel giggling outside. 'Barnaby! You look like a snow-bear!' she cheered. Barnaby looked in the mirror and started to giggle too. 'You know what?' he laughed, wiping his nose, 'If I hadn't made this mess, I wouldn't have found out that white fluff makes a great beard!' 🎅 He decided that if a cake wasn't perfect, it was still delicious. He finished baking, and even though the cake was a little lopsided, it tasted like sunshine and joy! 🍰✨",
+    "moral": "Making a mistake is just a funny way to learn something new! Don't let the fear of being 'perfect' stop you from having a blast. 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Talented",
+        "meaning": "Being very good at doing something."
+      },
+      {
+        "word": "Terrified",
+        "meaning": "Feeling very, very scared."
+      },
+      {
+        "word": "Lopsided",
+        "meaning": "When one side is lower or heavier than the other; not perfectly straight."
+      },
+      {
+        "word": "Perfect",
+        "meaning": "Having no mistakes at all."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to type with, a space bar, and an 'Enter' key, but you can't walk inside it!"
+    }
   }
 ]
