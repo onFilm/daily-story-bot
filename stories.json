@@ -3870,5 +3870,37 @@
       "answer": "A computer keyboard",
       "explanation": "A keyboard has keys to type, a space bar for spaces, and an 'Enter' key to start a new line!"
     }
+  },
+  {
+    "date": "2026-09-05T11:07:38.900Z",
+    "theme": "dealing with cyberbullying",
+    "story": "Barnaby the Bear loved to share his digital paintings of honey pots on the Forest Feed. 🎨 One day, a grumpy squirrel named Nutty posted a comment saying, 'Your painting looks like a blob of sticky mud!' 🐿️ Barnaby felt a little sad at first, but then his friend Pip the Owl flew by. 'Barnaby,' hooted Pip, 'Don't let a prickly comment turn you into a grumpy bear! Just block the grump and keep painting.' Barnaby realized that Nutty was just having a bad day and trying to spread his silliness to others. Barnaby laughed, hit the 'Mute' button on the comment, and painted an even bigger, brighter pot of honey! 🍯 Soon, all the forest friends sent heart emojis, and Barnaby felt super confident again. He learned that his sparkle belongs to him, and he gets to decide who gets to see it! ✨",
+    "moral": "Your happiness is a special treasure! If someone is unkind online, don't let them take your joy. Just ignore the grumpiness, tell a trusted adult, and keep shining your bright light! 🌟",
+    "vocabulary": [
+      {
+        "word": "Digital",
+        "meaning": "Something that exists on a computer, phone, or tablet."
+      },
+      {
+        "word": "Prickly",
+        "meaning": "Feeling annoyed, grumpy, or easily upset."
+      },
+      {
+        "word": "Confident",
+        "meaning": "Believing in yourself and knowing you are doing a good job."
+      },
+      {
+        "word": "Mute",
+        "meaning": "To turn off or silence something so you don't hear or see it."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a screen but no face. I have many friends but no heart. You can share stories with me, but I never speak. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A tablet or a smartphone",
+      "explanation": "These devices have screens and connect us to friends through apps, but they are machines that rely on you to provide the stories!"
+    }
   }
 ]
