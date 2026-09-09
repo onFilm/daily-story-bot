@@ -3998,5 +3998,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to press, a space bar for gaps between words, and an Enter key!"
     }
+  },
+  {
+    "date": "2026-09-09T12:08:36.037Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a big secret! 🐻 One sunny morning, he accidentally knocked over his grandma’s favorite jar of glittery blueberry jam while practicing his disco dance moves. Oh no! 🫐 The purple jam splattered everywhere—on the floor, the curtains, and even on Barnaby’s fuzzy nose! He quickly cleaned the floor, but he couldn't get the jam off the ceiling. When Grandma came home, Barnaby felt his tummy do a nervous flip-flop. 'Who spilled the jam?' Grandma asked with a curious look. Barnaby thought about blaming the wind, or maybe a very hungry, invisible squirrel. But then he remembered how good it felt to be truthful. He took a deep breath and said, 'Grandma, it was me! I was dancing and it was a clumsy accident. I am so sorry!' 💃 To his surprise, Grandma didn't get mad. She laughed a jolly laugh and said, 'Thank you for your honesty, Barnaby! Accidents happen to the best of us, but telling the truth makes my heart very happy.' They spent the rest of the afternoon cleaning up together and making a brand new batch of jam. 🍓✨",
+    "moral": "Being honest is the bravest and best way to be, because it keeps your heart light and your friendships strong! 💖🌟",
+    "vocabulary": [
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens by mistake without you planning it."
+      },
+      {
+        "word": "Clumsy",
+        "meaning": "Moving in a way that is not very steady or careful."
+      },
+      {
+        "word": "Honesty",
+        "meaning": "Always telling the truth and being fair."
+      },
+      {
+        "word": "Invisible",
+        "meaning": "Something that cannot be seen by the eyes."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a face but no eyes, and hands but no arms. I keep moving, but I never go anywhere. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A clock",
+      "explanation": "A clock has a face with numbers, and two hands that move to tell the time, but it stays hanging on the wall!"
+    }
   }
 ]
