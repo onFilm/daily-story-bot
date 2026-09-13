@@ -4126,5 +4126,37 @@
       "answer": "A keyboard",
       "explanation": "A keyboard has letter 'keys', a long 'space' bar, and an 'Enter' key, but it's just for typing, not for walking into a room!"
     }
+  },
+  {
+    "date": "2026-09-13T12:32:09.272Z",
+    "theme": "dealing with jealousy",
+    "story": "Barnaby the Bear was a very talented baker. He could make blueberry muffins that tasted like sunshine! ☀️ But one day, his friend Pip the Penguin brought a plate of bright green, glowing lime cupcakes to the forest picnic. Everyone crowded around Pip, cheering, 'Wow! These are amazing!' Barnaby felt a little pinch in his tummy. It wasn't hunger—it was jealousy. He looked at his own plain muffins and felt grumpy. 🐻 His tail drooped. Suddenly, Barnaby had an idea! He walked over to Pip and asked, 'Could you teach me how to make those?' Pip beamed and handed him a lime. Together, they made 'Blue-Lime Surprise' muffins! Everyone agreed they were the best treat ever. Barnaby realized that instead of wishing he had what Pip had, he could just be friends and learn something new! 🧁✨ Friendship tastes much sweeter than being grumpy ever could!",
+    "moral": "When you feel jealous, try being curious instead! Learning from others turns a grumpy moment into a fun adventure. 🌟",
+    "vocabulary": [
+      {
+        "word": "Jealousy",
+        "meaning": "Feeling unhappy because someone else has something you want."
+      },
+      {
+        "word": "Talented",
+        "meaning": "Being naturally very good at doing something."
+      },
+      {
+        "word": "Curious",
+        "meaning": "Wanting to learn or know more about something."
+      },
+      {
+        "word": "Surprise",
+        "meaning": "Something unexpected that happens."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have many needles but I cannot sew. I am tall and green and grow outside. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A pine tree",
+      "explanation": "Pine trees have sharp, needle-like leaves, but they aren't used for sewing clothes!"
+    }
   }
 ]
