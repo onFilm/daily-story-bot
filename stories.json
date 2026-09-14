@@ -4158,5 +4158,37 @@
       "answer": "A pine tree",
       "explanation": "Pine trees have sharp, needle-like leaves, but they aren't used for sewing clothes!"
     }
+  },
+  {
+    "date": "2026-09-14T13:38:10.248Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a big secret. He accidentally bumped into the Great Honey Pot in the kitchen and knocked it over! 🍯 Honey went everywhere—on the floor, on the table, and even on his fuzzy nose! Barnaby was worried. He thought, 'If I hide the pot, maybe no one will know it was me.' He quickly grabbed a mop, but he kept slipping on the sticky floor! 🐻 Boing! He slid across the room like a furry penguin. Suddenly, his mom walked in. Barnaby felt his tummy do a nervous flip-flop. He looked at his sticky paws and decided to be brave. 'Mom,' he said, 'I had an accident with the honey pot. I am so sorry!' His mom smiled kindly. She helped him clean up the mess, and they made a fresh batch of honey toast together. Barnaby felt so much lighter inside! Being honest was much better than sliding around in sticky honey all day! ✨",
+    "moral": "Being honest keeps your heart light and helps you solve problems with a smile! 😊🌟",
+    "vocabulary": [
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens without you planning it."
+      },
+      {
+        "word": "Brave",
+        "meaning": "Showing courage even when you are a little bit nervous."
+      },
+      {
+        "word": "Honest",
+        "meaning": "Telling the truth and being fair."
+      },
+      {
+        "word": "Sticky",
+        "meaning": "Something that clings to your fingers, like honey or glue."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to press, a space bar, and an Enter key, but it is not a building you can walk into!"
+    }
   }
 ]
