@@ -4350,5 +4350,37 @@
       "answer": "A candle",
       "explanation": "A candle starts out as a tall stick of wax, but as it burns down to give light, it gets shorter and shorter until it disappears!"
     }
+  },
+  {
+    "date": "2026-09-21T13:36:52.177Z",
+    "theme": "dealing with peer pressure",
+    "story": "Barnaby the Bear was very excited for the Forest Talent Show! 🐻 He practiced his juggling for weeks, but he only had one trick: juggling bouncy rubber ducks. 🐥 One day, his friends, the Squirrel Squad, told him, 'Barnaby, everyone is going to wear silly hats. You must wear a giant, wobbly purple bucket on your head!' Barnaby looked at the bucket. It was heavy, it smelled like old pickles, and it made him wobble like a bowl of jelly. 🍮 He didn't want to wear it, but he wanted his friends to think he was cool. When he put it on, he bumped into a tree! BONK! 🌳 He tried to juggle his ducks, but the bucket tipped over his eyes and he accidentally juggled his sandwich instead! 🥪 Everyone laughed, but not in a mean way—they were just confused! Barnaby took off the bucket, took a deep breath, and showed everyone his awesome rubber duck juggling. Everyone cheered! He felt much better being himself. 🎉",
+    "moral": "It is always better to be yourself than to do something silly just because your friends are doing it! Shine your own light! ✨",
+    "vocabulary": [
+      {
+        "word": "Inspirational",
+        "meaning": "Something that makes you feel excited to do something good or creative."
+      },
+      {
+        "word": "Confused",
+        "meaning": "When you don't understand what is happening."
+      },
+      {
+        "word": "Accidentally",
+        "meaning": "Doing something without meaning to."
+      },
+      {
+        "word": "Wobbly",
+        "meaning": "Moving from side to side in an unsteady way."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has 'keys', a 'space bar', and an 'enter' button, even though it's not a real door!"
+    }
   }
 ]
