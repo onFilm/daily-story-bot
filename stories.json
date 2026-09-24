@@ -4446,5 +4446,37 @@
       "answer": "A sponge",
       "explanation": "A sponge has many tiny little gaps called holes, but it is excellent at soaking up and holding onto water!"
     }
+  },
+  {
+    "date": "2026-09-24T12:32:13.230Z",
+    "theme": "dealing with cyberbullying",
+    "story": "Barnaby the Bear loved to play his digital drum game online! 🥁 He was very good at it, but one day, a grumpy squirrel named Nutty started sending silly, mean comments under his videos like 'Your beats are bumpy!' and 'You play like a sleepy turtle!' 🐢 Barnaby felt a bit sad at first. He thought about stopping his music. But then, his friend Bella the Bunny hopped over. 'Barnaby,' she said, 'Nutty is just being a keyboard grump! Don't let his pixels turn your smile upside down.' Barnaby realized that Nutty was just trying to be a distraction. Instead of replying with anger, Barnaby posted a video of himself wearing a funny clown wig and playing his best solo ever! 🤡 The whole forest cheered for him, and Nutty stopped being grumpy because he realized Barnaby was too busy having fun to care about silly comments. Barnaby stayed positive and kept drumming to the beat of his own drum! 🌟",
+    "moral": "When someone is being unkind online, don't let their words change who you are. Stay kind, be yourself, and keep shining your bright light! ✨",
+    "vocabulary": [
+      {
+        "word": "Digital",
+        "meaning": "Anything having to do with computers, tablets, or the internet."
+      },
+      {
+        "word": "Distraction",
+        "meaning": "Something that takes your attention away from what you are doing."
+      },
+      {
+        "word": "Pixels",
+        "meaning": "The tiny little dots that make up the pictures on a computer screen."
+      },
+      {
+        "word": "Positive",
+        "meaning": "Having a happy, hopeful, or good attitude."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to press, a space bar to make spaces, and an 'Enter' key to start a new line!"
+    }
   }
 ]
