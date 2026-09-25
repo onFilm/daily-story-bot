@@ -4478,5 +4478,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to press, a space bar to make spaces, and an 'Enter' key to start a new line!"
     }
+  },
+  {
+    "date": "2026-09-25T12:33:37.992Z",
+    "theme": "the power of a positive attitude",
+    "story": "Barnaby the Bear woke up feeling extra bouncy, but disaster struck! 🐻 He tried to bake his famous blueberry pancakes, but he accidentally used salt instead of sugar. When he took a bite, his face turned into a giant, squishy prune! 😖 Instead of getting grumpy, Barnaby laughed so hard his tummy wiggled. 'Well,' he giggled, 'at least I don't need to brush my teeth now because my mouth is already seasoned!' 🧂 He decided to turn the salty pancakes into 'Salty Surprise Art' by using them as coasters for his flower vases. Then, he whipped up a batch of super-sweet pancakes that tasted like sunshine. Barnaby realized that even when things go topsy-turvy, a happy attitude makes everything better. He spent the rest of the day painting his coasters and sharing treats with his friends, feeling absolutely radiant! ☀️🎨",
+    "moral": "A positive attitude is like a magic wand—it turns a grumpy 'oops' into a silly 'hooray!' 🪄✨",
+    "vocabulary": [
+      {
+        "word": "Seasoned",
+        "meaning": "Added flavor like salt or spices to food."
+      },
+      {
+        "word": "Topsy-turvy",
+        "meaning": "When things are upside down or in a bit of a mess."
+      },
+      {
+        "word": "Radiant",
+        "meaning": "Feeling very happy and bright, shining like the sun."
+      },
+      {
+        "word": "Disaster",
+        "meaning": "A sudden event that causes a big mess or problem."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a narrow part called a 'neck' and a lid that we call a 'cap'!"
+    }
   }
 ]
