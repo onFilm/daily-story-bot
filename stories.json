@@ -4574,5 +4574,37 @@
       "answer": "A candle",
       "explanation": "A candle is long when it's new, but as it burns down to give light, it gets shorter and shorter until it disappears!"
     }
+  },
+  {
+    "date": "2026-09-28T14:56:35.714Z",
+    "theme": "the importance of listening",
+    "story": "Barnaby the Bear was a very kind bear, but he had one funny problem. He was a 'Professional Ear-Wiggler' who loved to listen to the birds so much that he often stopped listening to his friends! One sunny Tuesday, his friend Pippa the Rabbit said, 'Barnaby, please bring a bucket for the strawberry picnic!' Barnaby was busy watching a butterfly and only heard, '...bring a bucket...' He thought, 'A bucket? For a picnic? Maybe she wants me to wear it as a hat!' So, Barnaby arrived at the park wearing a big, blue plastic bucket on his head like a silly helmet. 🪣 Pippa started giggling, 'Barnaby! I said bring a bucket for the strawberries, not to wear it!' Barnaby took the bucket off, turned bright red, and laughed until his tummy wobbled. He realized that if he had truly listened, he would have brought the strawberries in the bucket instead of wearing it like a fashion accessory! From then on, Barnaby made sure to listen carefully to every word before he started his next big adventure. 🐻🍓✨",
+    "moral": "When we listen carefully, we save time, stay out of silly trouble, and understand our friends much better! 👂💖",
+    "vocabulary": [
+      {
+        "word": "Professional",
+        "meaning": "Someone who is very good at doing something or does it as their main job."
+      },
+      {
+        "word": "Accessory",
+        "meaning": "Something extra you wear or carry to look nice or for a special use."
+      },
+      {
+        "word": "Wobbled",
+        "meaning": "To move from side to side unsteadily, like jelly."
+      },
+      {
+        "word": "Adventure",
+        "meaning": "An exciting or unusual experience."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A computer keyboard",
+      "explanation": "A keyboard has keys to type with, a 'space' bar to add gaps between words, and an 'Enter' key, but you don't actually walk into it!"
+    }
   }
 ]
