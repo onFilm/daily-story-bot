@@ -4606,5 +4606,37 @@
       "answer": "A computer keyboard",
       "explanation": "A keyboard has keys to type with, a 'space' bar to add gaps between words, and an 'Enter' key, but you don't actually walk into it!"
     }
+  },
+  {
+    "date": "2026-09-29T13:43:53.113Z",
+    "theme": "discovering hidden talents",
+    "story": "Barnaby the Bear was very good at one thing: napping! 💤 He could snore like a fuzzy chainsaw. But Barnaby wanted to be special like his friends. Squirrel was an expert climber, and Rabbit was a champion hopper. One sunny afternoon, Barnaby tried to climb a tree, but he got stuck halfway up like a furry ornament! 🐻 Then, he tried to hop, but he just wobbled and fell over like a bowl of jelly. 🍮 Suddenly, a butterfly landed on his nose. Barnaby didn't move. He held his breath. Then, another butterfly landed on his ear! Soon, he was covered in colorful butterflies. Everyone gathered around to see the 'Bear Butterfly Statue.' Barnaby realized he had a hidden talent: he was the best at staying perfectly still! He felt marvelous because he provided a beautiful home for his new tiny friends. 🦋✨",
+    "moral": "Everyone has a unique talent, sometimes you just need to be patient to find yours! 🌟",
+    "vocabulary": [
+      {
+        "word": "Expert",
+        "meaning": "Someone who is very, very good at doing something."
+      },
+      {
+        "word": "Ornament",
+        "meaning": "A small decoration used to make something look pretty."
+      },
+      {
+        "word": "Wobbled",
+        "meaning": "To move unsteadily from side to side."
+      },
+      {
+        "word": "Marvelous",
+        "meaning": "Something that is wonderful or excellent."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "Bottles have a 'neck' (the skinny part at the top) and a 'cap' (the lid), but they don't have heads or hair!"
+    }
   }
 ]
