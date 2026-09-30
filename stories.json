@@ -4638,5 +4638,37 @@
       "answer": "A bottle",
       "explanation": "Bottles have a 'neck' (the skinny part at the top) and a 'cap' (the lid), but they don't have heads or hair!"
     }
+  },
+  {
+    "date": "2026-09-30T13:20:01.333Z",
+    "theme": "the importance of listening",
+    "story": "Barnaby the Bear had the biggest, floppiest ears in the whole forest! 🐻 But Barnaby had a silly problem: he was so busy practicing his dance moves that he never stopped to listen. One sunny morning, his friend Squeaky the Squirrel hopped by. 'Barnaby! Don't go to the river today! The beavers are building a new slide!' Squeaky squeaked. But Barnaby was busy bopping to a beat, so he just waved and shouted, 'I'm off to the river for a swim!' 🎶 Off he went, zoom! When he arrived, he didn't see the water. Instead, he landed with a giant 'SPLAT' right onto a bouncy, wooden slide! He slid down, did a loop-de-loop, and landed softly in a pile of fluffy moss. ☁️ Everyone cheered! Barnaby was so surprised. He realized that even though the slide was fun, Squeaky had tried to tell him something important. From that day on, Barnaby made sure to listen carefully before he started dancing. Now, he's the best listener in the forest, and he always knows exactly where the fun adventures are! 🌳✨",
+    "moral": "Listening helps us learn new things and keeps us on the right path! 👂🌟",
+    "vocabulary": [
+      {
+        "word": "Floppy",
+        "meaning": "Soft and hanging down loosely."
+      },
+      {
+        "word": "Bopping",
+        "meaning": "Moving or dancing to music."
+      },
+      {
+        "word": "Adventure",
+        "meaning": "An exciting and fun experience."
+      },
+      {
+        "word": "Surprised",
+        "meaning": "Feeling happy or shocked by something you didn't expect."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has letter keys, a space bar, and an Enter key, but it isn't a place you can walk into!"
+    }
   }
 ]
