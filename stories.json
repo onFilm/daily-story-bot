@@ -4734,5 +4734,37 @@
       "answer": "A clock",
       "explanation": "A clock has a face with numbers, and the hands point to the time as they move in a circle!"
     }
+  },
+  {
+    "date": "2026-10-03T12:13:49.016Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear was a very talented baker, but he was also a bit clumsy! 🐻 One sunny morning, he tried to bake his famous Honey-Blueberry Pie for the forest picnic. He accidentally knocked over a giant bag of flour, turning his cozy kitchen into a snowy winter wonderland! ❄️✨ Barnaby panicked. He thought, 'If I hide this mess, nobody will know I was playing catch with my spatula.' He quickly swept the flour under the rug and hid the empty bag. When his friend Pip the Squirrel came over, Pip tripped on the lumpy rug! 'Oh dear!' Pip laughed, 'Why is your floor so bumpy, Barnaby?' Barnaby felt his tummy do a nervous flip-flop. He realized that keeping a secret was much harder than just cleaning up. He took a deep breath, stood tall, and said, 'Pip, I made a giant mess while being silly. I am sorry for the lumpy floor!' Pip smiled kindly, and together they cleaned up the flour in record time. They even found a blueberry that had rolled under the fridge! 🫐 They laughed so hard they almost fell over. Barnaby learned that telling the truth makes everything feel light and happy again. 🌈",
+    "moral": "Honesty makes your heart feel light and keeps your friendships strong! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Talented",
+        "meaning": "Being very good at doing something special."
+      },
+      {
+        "word": "Panicked",
+        "meaning": "Feeling very worried or scared for a short moment."
+      },
+      {
+        "word": "Lumpy",
+        "meaning": "Having bumps or uneven parts."
+      },
+      {
+        "word": "Integrity",
+        "meaning": "Choosing to be honest and do the right thing, even when no one is looking."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am full of holes, but I can still hold water. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A sponge",
+      "explanation": "A sponge has lots of tiny holes in it, but it is great at soaking up and holding water!"
+    }
   }
 ]
