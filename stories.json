@@ -4798,5 +4798,37 @@
       "answer": "A keyboard",
       "explanation": "A keyboard has keys for typing, a 'space' bar, and an 'enter' key, but it isn't a place you can actually walk into!"
     }
+  },
+  {
+    "date": "2026-10-06T13:55:00.831Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear was a very talented baker, but he had a secret: he was terrible at keeping track of ingredients! 🐻 One sunny morning, he decided to bake his famous 'Giggly Grape Cupcakes.' He used a whole bag of flour, but oops! He accidentally dropped his favorite sparkly spoon into the mixing bowl. 🧁 As he stirred, he realized he didn't know if the spoon was still in the batter. He looked at the cupcakes and thought, 'If I serve these, someone might get a mouthful of metal!' Barnaby felt a little nervous. He really wanted to win the forest bake-off! But he knew he had to be honest. He called his friend, Penny the Penguin, and told her what happened. 'I made a mistake, and I don't want anyone to bite a spoon!' he confessed. Penny laughed and helped him sift through the batter. They found the spoon, and Barnaby felt much lighter! Because he was honest, the forest friends helped him finish the baking, and they ended up winning the 'Most Helpful Bakers' trophy together! 🏆✨",
+    "moral": "Being honest always makes you feel better, and it helps you solve problems with your friends! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Talented",
+        "meaning": "Very good at doing something special."
+      },
+      {
+        "word": "Ingredients",
+        "meaning": "The different foods you mix together to make a recipe."
+      },
+      {
+        "word": "Confessed",
+        "meaning": "Admitting that you did something wrong."
+      },
+      {
+        "word": "Sift",
+        "meaning": "To put something through a screen to separate things."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life in the dark, but wind makes me shiver and hide. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "A candle is long when you first light it, but as the wax melts away while it burns, it gets shorter and shorter!"
+    }
   }
 ]
