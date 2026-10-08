@@ -4862,5 +4862,37 @@
       "answer": "A computer keyboard",
       "explanation": "A keyboard has keys to type with, a 'Space' bar, and an 'Enter' key, but it isn't a room you can walk into!"
     }
+  },
+  {
+    "date": "2026-10-08T14:22:14.820Z",
+    "theme": "dealing with peer pressure",
+    "story": "Barnaby the Bear was a very talented artist, but he only liked painting pictures of sunshine and giggling sunflowers 🌻. One day, his friend Sammy the Squirrel decided that all the forest animals should paint pictures of scary, spiky, grey rocks instead. 'Come on, Barnaby!' Sammy squeaked, waving a giant grey paintbrush. 'Everyone is doing it! Be cool, be grey!' Barnaby felt a little nervous. He didn't like rocks; they were boring and not very sunny at all! But he wanted to fit in. He picked up the grey brush, but his paw started shaking. Just then, his friend Pip the Penguin walked by. Pip was wearing a bright neon scarf and holding a canvas full of rainbow polka-dot clouds 🌈. 'Hey Barnaby!' Pip chirped. 'That grey rock looks a bit grumpy. Why don't you paint a banana wearing sunglasses on it instead?' Barnaby started to giggle. He realized he didn't have to copy Sammy to be his friend. With a big smile, Barnaby painted a neon-yellow banana with cool shades right on top of the grey rock. The other animals stopped and stared. Then, one by one, they started adding flowers and glitter to their own paintings! 🎨 Barnaby learned that being himself made the whole forest much brighter.",
+    "moral": "It is always better to be a bright, happy version of yourself than a boring, grey version of someone else! Stay true to your own colors! 🌟",
+    "vocabulary": [
+      {
+        "word": "Talented",
+        "meaning": "Having a natural ability to do something very well."
+      },
+      {
+        "word": "Canvas",
+        "meaning": "The piece of cloth or paper that an artist paints on."
+      },
+      {
+        "word": "Neon",
+        "meaning": "A color that is very bright and glows like a light."
+      },
+      {
+        "word": "Persuade",
+        "meaning": "To try to get someone to do or think what you want."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a face but no eyes, and hands but no arms. I keep moving, but I never go anywhere. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A clock",
+      "explanation": "A clock has a face with numbers and hands that tick around, but it stays hanging on the wall!"
+    }
   }
 ]
