@@ -4894,5 +4894,37 @@
       "answer": "A clock",
       "explanation": "A clock has a face with numbers and hands that tick around, but it stays hanging on the wall!"
     }
+  },
+  {
+    "date": "2026-10-09T14:07:24.543Z",
+    "theme": "navigating middle school drama",
+    "story": "Barnaby the Bear was very excited for his first day at Oak Tree Middle School! 🐻 He wore his favorite yellow bowtie, but he was a bit nervous about all the 'big school' drama. During lunch, he accidentally sat on a whoopee cushion left by a silly squirrel named Squeaky. 'PFFFT!' went the chair! 💨 The whole cafeteria went quiet, and Barnaby turned bright red. He felt very flustered. But then, he remembered his mom’s advice: 'If something funny happens, just laugh with everyone!' Barnaby stood up, did a little wiggle, and said, 'I guess the chair had a lot to say!' 😆 Everyone started giggling, and soon the whole room was filled with laughter. By the end of the day, Barnaby realized that being yourself and keeping a positive attitude is the best way to make friends. He even helped Squeaky clean up his prank supplies, and they became best buds! 🌟",
+    "moral": "When things go wrong, just smile and laugh! It turns a silly mistake into a happy moment for everyone. 😊✨",
+    "vocabulary": [
+      {
+        "word": "Flustered",
+        "meaning": "Feeling a little bit nervous or confused."
+      },
+      {
+        "word": "Cafeteria",
+        "meaning": "A big room at school where everyone eats lunch."
+      },
+      {
+        "word": "Attitude",
+        "meaning": "The way you think or feel about something."
+      },
+      {
+        "word": "Prank",
+        "meaning": "A silly, harmless trick played on someone for fun."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has to be broken before you can use it?"
+    },
+    "today_puzzle_answer": {
+      "answer": "An egg",
+      "explanation": "You have to crack the shell to cook or eat the yummy part inside!"
+    }
   }
 ]
