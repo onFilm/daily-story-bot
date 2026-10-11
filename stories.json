@@ -4958,5 +4958,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to type with, a space bar for gaps between words, and an 'Enter' key!"
     }
+  },
+  {
+    "date": "2026-10-11T13:45:59.561Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a very big secret. He accidentally bumped into the Great Honey Pot of Bumble-Wood Forest! 🍯 It tipped over, and golden, sticky honey spilled all over the forest floor. Oh no! 🐻 Barnaby quickly covered the mess with some big green leaves. When the forest animals gathered, they asked, 'Who spilled the honey?' Barnaby felt his tummy do a nervous flip-flop. But then, he remembered his promise to always be truthful. He took a deep breath, stepped forward, and said, 'It was me! I am so sorry!' 🌟 To his surprise, the animals didn't get mad. Instead, they laughed because Barnaby had a little bit of sticky honey stuck to his nose! 👃 They all helped him clean up the mess, and they had a delicious picnic with the remaining honey. Being honest made Barnaby feel light as a feather! 🎈",
+    "moral": "Honesty is the best policy because it builds trust and helps us fix our mistakes together! ✨",
+    "vocabulary": [
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens by mistake and you didn't mean to do it."
+      },
+      {
+        "word": "Gathered",
+        "meaning": "When a group of people or animals come together in one place."
+      },
+      {
+        "word": "Truthful",
+        "meaning": "Always telling the real facts and not lying."
+      },
+      {
+        "word": "Remaining",
+        "meaning": "What is left over after some part has been used or taken away."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am tall when I am young, and I am short when I am old. I glow with life, but wind is my enemy. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A candle",
+      "explanation": "A candle is long when you first light it, but as the wax melts away to give you light, it gets shorter and shorter!"
+    }
   }
 ]
