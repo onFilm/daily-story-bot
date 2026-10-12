@@ -4990,5 +4990,37 @@
       "answer": "A candle",
       "explanation": "A candle is long when you first light it, but as the wax melts away to give you light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-10-12T16:29:29.434Z",
+    "theme": "forgiving a friend",
+    "story": "Barnaby the Bear and Pip the Squirrel were best friends. One sunny morning, Barnaby baked his famous Honey-Berry Pie. He set it on the porch to cool. 🥧 Suddenly, Pip came zooming by, tripped over a dandelion, and—SPLOT!—his paw landed right in the middle of the pie! Barnaby gasped. His beautiful pie was now a berry-flavored mess! 🐻 Pip felt so bad that his ears drooped. 'I am so sorry, Barnaby! I was just trying to practice my somersaults,' Pip squeaked. Barnaby felt a little grumpy at first, but then he looked at his friend’s sad face. He realized that a friendship is much more important than a snack. Barnaby giggled, scooped up a handful of gooey filling, and playfully booped Pip on the nose! 🍓 'It is okay, Pip! Now we just have a deconstructed pie!' they both laughed, sitting together and eating the pie with spoons. It was the messiest, tastiest lunch ever! ✨",
+    "moral": "True friendship means choosing kindness and forgiveness over being grumpy about mistakes. 💖",
+    "vocabulary": [
+      {
+        "word": "Deconstructed",
+        "meaning": "Taken apart to see the pieces."
+      },
+      {
+        "word": "Somersault",
+        "meaning": "A jump where you flip your body over."
+      },
+      {
+        "word": "Forgiveness",
+        "meaning": "Choosing not to be angry at someone after they make a mistake."
+      },
+      {
+        "word": "Gooey",
+        "meaning": "Soft, sticky, and messy."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys, a space bar, and an Enter key, but it is not a building you can walk into!"
+    }
   }
 ]
