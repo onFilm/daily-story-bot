@@ -5054,5 +5054,37 @@
       "answer": "A candle",
       "explanation": "A candle starts out long, but as the wax melts away while it burns, it gets shorter and shorter until it is all gone."
     }
+  },
+  {
+    "date": "2026-10-14T12:38:39.529Z",
+    "theme": "discovering your passion",
+    "story": "Barnaby the Bear was a very busy bear! 🐻 He tried everything to find his special talent. First, he tried painting, but he accidentally painted his own nose bright blue! 🎨 'Oopsie!' he giggled. Then, he tried playing the trumpet, but it sounded like a honking goose in a tutu! 🎺 Everyone laughed, and Barnaby laughed too. One afternoon, while sitting near the river, he saw a turtle trying to reach a juicy berry on a high branch. Barnaby stood up, held his paws out, and let the turtle climb on his shoulders. The turtle reached the berry and shared it with him! 🍓 Barnaby felt a warm glow inside. He realized that helping others and being a good friend was his true passion. He wasn't a master painter or a musical star, but he was the world's best helper bear! 🌟 Now, he spends his days assisting his forest friends, feeling proud and cheerful. 🐾",
+    "moral": "Your unique talent might be something as simple and wonderful as being a kind friend to others! 💖",
+    "vocabulary": [
+      {
+        "word": "Talent",
+        "meaning": "A special skill or something you are very good at doing."
+      },
+      {
+        "word": "Accidentally",
+        "meaning": "When something happens by mistake without you planning it."
+      },
+      {
+        "word": "Passion",
+        "meaning": "Something you love to do so much that it makes you feel happy."
+      },
+      {
+        "word": "Assisting",
+        "meaning": "Helping someone else do a task."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A computer keyboard",
+      "explanation": "It has 'keys' for typing, a 'space' bar, and an 'enter' button, but it's not a real house you can walk into!"
+    }
   }
 ]
