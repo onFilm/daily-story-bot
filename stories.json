@@ -5118,5 +5118,37 @@
       "answer": "A candle",
       "explanation": "A candle is long when it is brand new, but as it burns and melts down to give us light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-10-16T12:05:31.172Z",
+    "theme": "discovering hidden talents",
+    "story": "Barnaby the Bear was a very kind bear, but he was not very good at being a bear! 🐻 While other bears were great at catching fish, Barnaby only ever caught old rubber boots. When they tried to roar, Barnaby let out a sound like a squeaky toy! 'Oh dear,' he sighed. 'Maybe I just don't have a talent.' One sunny afternoon, Barnaby was sitting by the river feeling a bit blue. He saw a group of bees trying to reach some honey in a high tree, but they were tired. Barnaby had an idea! He stood on his tiptoes, stretched his long, fuzzy arms, and used his sticky paws to gently lower the honeycomb down for them. 🍯 The bees were so happy! Then, he saw a squirrel who lost his nuts. Barnaby used his nose, which was excellent at finding hidden things, to sniff out the stash under a big pile of leaves. 🐿️ Soon, all the animals realized that Barnaby wasn't meant to be a fishing bear; he was a 'Helping Bear!' He was excellent at cheering people up and solving little problems. Barnaby beamed with joy. He didn't need to be like the others to be special; he just had to be himself! ✨",
+    "moral": "Everyone has a unique talent, and you don't have to be like everyone else to be amazing! Just keep trying new things until you find what makes your heart sing. 🌟",
+    "vocabulary": [
+      {
+        "word": "Talent",
+        "meaning": "A natural skill or something you are very good at doing."
+      },
+      {
+        "word": "Unique",
+        "meaning": "Being the only one of its kind; special and different."
+      },
+      {
+        "word": "Honeycomb",
+        "meaning": "The wax structure made by bees to store their honey."
+      },
+      {
+        "word": "Stash",
+        "meaning": "A hidden supply or collection of something."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has letter 'keys', a 'space' bar, and an 'enter' key, but you don't actually walk into it!"
+    }
   }
 ]
