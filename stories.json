@@ -5150,5 +5150,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has letter 'keys', a 'space' bar, and an 'enter' key, but you don't actually walk into it!"
     }
+  },
+  {
+    "date": "2026-10-17T11:22:00.476Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a big secret. He accidentally knocked over Grandma Bear’s famous Blueberry Pie Tower while practicing his 'super-hero jump' in the kitchen! 🥧💥 The pie was now a purple puddle on the floor. Barnaby felt a little nervous, so he tried to hide the mess with a giant rug. When Grandma walked in, she looked puzzled. 'Where is my masterpiece?' she asked. Barnaby’s tummy did a silly somersault. He knew he had to be brave. 'Grandma,' he said, standing tall, 'I was being a silly super-hero and accidentally bumped the table.' Grandma didn't get mad! She laughed and gave him a big hug. 'Thank you for your honesty, Barnaby! Now, let’s make a new, even taller pie together!' 🐻✨ They spent the whole afternoon baking, and the new pie tasted even better because it was made with love and truth.",
+    "moral": "Being honest always helps us feel better inside, and it shows others that we are trustworthy! 🌟💖",
+    "vocabulary": [
+      {
+        "word": "Masterpiece",
+        "meaning": "A work of art or a creation made with great skill."
+      },
+      {
+        "word": "Somersault",
+        "meaning": "A movement where you roll over completely."
+      },
+      {
+        "word": "Honesty",
+        "meaning": "Being truthful and telling the facts."
+      },
+      {
+        "word": "Trustworthy",
+        "meaning": "Someone who is honest and reliable."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I follow you all day long, but when the sun goes down, I disappear. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "Your shadow",
+      "explanation": "Your shadow is made by light hitting your body, so when it is dark outside, the shadow goes away!"
+    }
   }
 ]
