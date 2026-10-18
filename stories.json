@@ -5182,5 +5182,37 @@
       "answer": "Your shadow",
       "explanation": "Your shadow is made by light hitting your body, so when it is dark outside, the shadow goes away!"
     }
+  },
+  {
+    "date": "2026-10-18T11:56:12.640Z",
+    "theme": "standing up to bullies",
+    "story": "Barnaby the Bunny was not very big, but he had the biggest ears in the meadow! 🐰 One sunny afternoon, Barnaby was trying to read his favorite book about space when Grumpy Gary the Goat stomped over. Gary liked to push his way to the front of the carrot line. He looked at Barnaby and said, 'Move over, big ears! I want to sit there!' Barnaby’s heart did a little thump-thump, but he remembered his grandma’s advice: 'Be brave and use your words!' Barnaby took a deep breath. He stood up tall, looked Gary in the eye, and said with a friendly but firm voice, 'Gary, we are all friends here. There is plenty of space for everyone, and it is not kind to push. Please wait your turn like the rest of us.' 🥕 Gary stopped. He blinked his goaty eyes. He had never had anyone speak up to him so nicely! Gary felt a bit silly for being pushy. 'Oh,' Gary said quietly, 'I’m sorry, Barnaby. I was just in a hurry because I love carrots.' Barnaby smiled and scooted over just a little bit. 'I love carrots too! Let’s share the snack table together.' From that day on, Gary stopped pushing, and they became the best of snack-time buddies! 🌟",
+    "moral": "Using a kind but firm voice is a superpower that helps everyone get along! 🌈✨",
+    "vocabulary": [
+      {
+        "word": "Meadow",
+        "meaning": "A field covered with grass and flowers."
+      },
+      {
+        "word": "Firm",
+        "meaning": "Being strong and clear so that people know you mean what you say."
+      },
+      {
+        "word": "Superpower",
+        "meaning": "A special, amazing ability that makes you unique."
+      },
+      {
+        "word": "Buddy",
+        "meaning": "A close friend or companion."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has letter keys, a space bar, and an Enter key, but it isn't a building you can walk into!"
+    }
   }
 ]
