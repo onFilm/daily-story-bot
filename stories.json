@@ -5246,5 +5246,37 @@
       "answer": "A candle",
       "explanation": "When a candle is new, it is tall. As it burns down to give us light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-10-21T12:42:46.819Z",
+    "theme": "dealing with peer pressure",
+    "story": "Barnaby the Bunny was famous in the meadow for his super-duper, extra-bouncy, neon-green sneakers. 👟 One sunny afternoon, Barnaby’s friends, the Squirrel Squad, decided they wanted to wear bright blue mud-boots instead. 'Hey Barnaby!' shouted Squeaky the Squirrel. 'Take off those sneakers! Everyone is wearing blue mud-boots today. It is the only way to be cool!' 🐿️ Barnaby looked at his lovely green sneakers. They felt comfy and fast! But he really wanted to be part of the cool crowd. He tried to squeeze his fluffy feet into a pair of heavy, soggy mud-boots. *Squish! Squash!* He wobbled and tripped over a dandelion. 🌼 He felt quite ridiculous! Barnaby realized he didn't need mud-boots to be a great bunny. He hopped back to his sneakers, did a happy dance, and felt much more like his true self. The Squirrel Squad laughed, but then they realized Barnaby was much better at tag when he wore his bouncy shoes! 🐰✨",
+    "moral": "It is always better to be yourself than to follow others just to fit in! Being you is the coolest thing you can be! 🌟",
+    "vocabulary": [
+      {
+        "word": "Ridiculous",
+        "meaning": "Something that is very silly or funny."
+      },
+      {
+        "word": "Soggy",
+        "meaning": "Very wet and soft."
+      },
+      {
+        "word": "True self",
+        "meaning": "Being who you really are on the inside."
+      },
+      {
+        "word": "Pressure",
+        "meaning": "When others try to make you do something you might not want to do."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys, a space bar, and an Enter key, but it is not a building you can walk into!"
+    }
   }
 ]
