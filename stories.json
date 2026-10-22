@@ -5278,5 +5278,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys, a space bar, and an Enter key, but it is not a building you can walk into!"
     }
+  },
+  {
+    "date": "2026-10-22T12:46:16.560Z",
+    "theme": "overcoming fear of failure",
+    "story": "Barnaby the Bear had a very big dream. He wanted to be a world-famous unicycle rider! 🐻🚲 He practiced every day in the forest clearing. But every time Barnaby tried to pedal, he would wiggle, wobble, and- WHOOPS- tumble right into a soft pile of blueberries! 'Oh no!' Barnaby sighed, his nose covered in blue juice. 'I am too clumsy. I will never be a star.' His friend, Pip the Squirrel, chirped, 'Barnaby, you are not failing, you are just collecting blueberry stains for your outfit!' 🐿️ Barnaby giggled. He realized that falling down was just a silly part of learning. He jumped back on, wobbled a little less, and actually made it five whole feet before his next berry-landing! He realized that even if he wasn't perfect yet, he was getting better every time he tried. By sunset, Barnaby was riding like a pro, wearing his blueberry-stained shirt with pride! 🌟",
+    "moral": "Mistakes are just stepping stones to success, so keep trying with a smile! 😊✨",
+    "vocabulary": [
+      {
+        "word": "Clumsy",
+        "meaning": "Moving in a way that is not graceful or careful."
+      },
+      {
+        "word": "Unicycle",
+        "meaning": "A bicycle that has only one wheel."
+      },
+      {
+        "word": "Success",
+        "meaning": "Achieving something that you worked hard to do."
+      },
+      {
+        "word": "Practice",
+        "meaning": "Doing something over and over to get better at it."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a face, but no eyes. I have two hands, but no arms. I keep moving, but I stay in the same place. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A clock",
+      "explanation": "A clock has a face with numbers, two hands to show the time, and it 'runs' all day without moving from the wall!"
+    }
   }
 ]
