@@ -5342,5 +5342,37 @@
       "answer": "A sponge",
       "explanation": "A sponge has tiny little holes all over it, but it is great at soaking up and holding water!"
     }
+  },
+  {
+    "date": "2026-10-25T12:20:13.309Z",
+    "theme": "handling changing friendships",
+    "story": "Barnaby the Bear and Pip the Penguin had been best friends since they were tiny cubs and chicks! 🐻🐧 They did everything together, from sliding on icy hills to eating yummy berry snacks. But one day, Barnaby decided he wanted to join the Forest Climbing Club, while Pip wanted to join the Ocean Swimming Team. Oh no! Would their friendship disappear? 😱 Barnaby felt a little anxious. He thought, 'If we do different things, will we still be buddies?' 🌲🌊 When they met at the park, they were both nervous. But then, Barnaby showed Pip his cool climbing socks, and Pip showed Barnaby his shiny goggles! They realized they had so much to talk about now. Barnaby told funny stories about climbing trees, and Pip shared splashes from his swim lessons. They were different, but their friendship was just changing shape, like a growing tree! 🌳 They remained the best of friends, just with more stories to share. ✨",
+    "moral": "Friends can grow in different ways and still stay close! True friendship is big enough for everyone to have their own adventures. 💖✨",
+    "vocabulary": [
+      {
+        "word": "Anxious",
+        "meaning": "Feeling nervous or worried about something."
+      },
+      {
+        "word": "Adventure",
+        "meaning": "An exciting or unusual experience."
+      },
+      {
+        "word": "Realized",
+        "meaning": "To understand something clearly."
+      },
+      {
+        "word": "Shape",
+        "meaning": "The way something looks or the form it takes."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A computer keyboard",
+      "explanation": "A keyboard has 'keys' for typing, a 'space' bar, and an 'enter' button, but it isn't a building you can walk into!"
+    }
   }
 ]
