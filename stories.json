@@ -5406,5 +5406,37 @@
       "answer": "A candle",
       "explanation": "A candle starts out long and tall, but as it burns down to give us light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-10-27T12:58:49.211Z",
+    "theme": "resilience after a setback",
+    "story": "Barnaby the Bear had one dream: to be the best berry-picker in the entire Bluebell Forest! 🐻🍓 One sunny morning, he spotted the biggest, juiciest, sparkliest blueberry high up on a branch. He climbed, he stretched, and he wiggled his toes. But, oh no! He slipped and landed 'PLOP' right into a pile of fluffy moss! ☁️ Barnaby felt a little embarrassed, but then he giggled. 'Well,' he said, 'the moss is very cozy!' Instead of giving up, he noticed a sturdy log nearby. He climbed the log, reached out his fuzzy paw, and… SNIP! He caught the blueberry! 🫐 Barnaby’s friends cheered as he did a happy dance. He learned that even if you wobble or fall, you just need a new plan to reach your goal. Being PERSISTENT and CREATIVE makes everything more fun! 🌟",
+    "moral": "If at first you don't succeed, take a deep breath, smile, and try a different way! You are stronger than any bump in the road! 🌈✨",
+    "vocabulary": [
+      {
+        "word": "Persistent",
+        "meaning": "Not giving up, even when things get a little tricky."
+      },
+      {
+        "word": "Creative",
+        "meaning": "Using your imagination to come up with new, clever ideas."
+      },
+      {
+        "word": "Embarrassed",
+        "meaning": "Feeling a little shy or silly when something unexpected happens."
+      },
+      {
+        "word": "Sturdy",
+        "meaning": "Strong and firm, like a good base for climbing."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but I cannot open any doors. I have a space, but I have no room. I allow you to enter, but you can never go inside. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has letter 'keys', a 'space' bar, and an 'Enter' key, but it is just a flat tool for typing!"
+    }
   }
 ]
