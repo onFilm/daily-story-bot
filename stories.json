@@ -5438,5 +5438,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has letter 'keys', a 'space' bar, and an 'Enter' key, but it is just a flat tool for typing!"
     }
+  },
+  {
+    "date": "2026-10-28T13:49:08.845Z",
+    "theme": "dealing with cyberbullying",
+    "story": "Barnaby the Bear loved to code silly games for his friends. 🐻💻 One day, he made a game where you help a squirrel find hidden acorns. He posted it on his digital neighborhood board! But then, a grumpy raccoon named Rocky left a message: 'Your game is silly and you are a bad coder!' 🦝 Barnaby felt a little bit flustered. But then he remembered his Grandma Bear’s advice: 'Don't let a grumpy cloud block your sunshine!' ☀️ Barnaby didn't reply to the mean words. Instead, he made an even funnier version of his game where the squirrel wears a tiny top hat! 🎩🐿️ All his friends loved the hat-wearing squirrel and cheered for Barnaby. Rocky saw how much fun everyone was having, realized being grumpy wasn't very exciting, and later apologized with a handful of fresh berries. Barnaby learned that he was resilient and that kindness always wins! 🍓✨",
+    "moral": "True strength is staying kind and confident, even when someone else is having a grumpy day! You are the boss of your own feelings. 😊🌟",
+    "vocabulary": [
+      {
+        "word": "Resilient",
+        "meaning": "Able to bounce back and stay positive after something goes wrong."
+      },
+      {
+        "word": "Flustered",
+        "meaning": "Feeling a little bit nervous or upset."
+      },
+      {
+        "word": "Digital",
+        "meaning": "Anything having to do with computers, phones, or the internet."
+      },
+      {
+        "word": "Apologized",
+        "meaning": "Saying you are sorry for something you did."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a face but no eyes, and I have hands but no arms. I keep moving, but I never go anywhere. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A clock",
+      "explanation": "A clock has a face with numbers, two hands to show the time, and it ticks along, but stays right on the wall!"
+    }
   }
 ]
