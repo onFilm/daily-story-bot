@@ -5470,5 +5470,37 @@
       "answer": "A clock",
       "explanation": "A clock has a face with numbers, two hands to show the time, and it ticks along, but stays right on the wall!"
     }
+  },
+  {
+    "date": "2026-10-29T13:55:51.815Z",
+    "theme": "the importance of listening",
+    "story": "Barnaby the Bear was a very kind fellow, but he had one big problem: he loved to talk more than he loved to listen! 🐻 One sunny morning, his best friend, Squeaky the Squirrel, tried to tell him, 'Barnaby, please don't step on the blue flowers! They are for the butterfly picnic!' But Barnaby was too busy singing a loud song about honey to notice. 🎶 'La la la! I love honey!' Barnaby boomed. *CRUNCH.* Oops! He stepped right on the flowers. Squeaky sighed, but then had another idea. 'Barnaby, wait! The bees are—' Before Squeaky could finish, Barnaby shouted, 'The bees are what? Making more honey? YUM!' He ran toward the beehive, not hearing Squeaky say, 'No, the bees are sleeping!' Barnaby bumped into the hive, and suddenly, thousands of bees buzzed out—but they were just grumpy sleepyheads looking for their pillows! 🐝 Everyone ended up in a silly pile of giggles because Barnaby had to help the bees find their lost hats and blankets. From that day on, Barnaby decided to keep his ears open and his mouth shut for just a little longer. He realized that listening is like finding a secret map to a much better adventure! 🗺️✨",
+    "moral": "When we stop talking and start listening, we learn amazing things and save ourselves from silly mistakes! 👂💛",
+    "vocabulary": [
+      {
+        "word": "Boomed",
+        "meaning": "To say something in a very loud, deep voice."
+      },
+      {
+        "word": "Grumpy",
+        "meaning": "Feeling a little bit annoyed or in a bad mood."
+      },
+      {
+        "word": "Adventure",
+        "meaning": "An exciting or unusual experience."
+      },
+      {
+        "word": "Notice",
+        "meaning": "To pay attention to something you see or hear."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I am full of holes, yet I can still hold water. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A sponge",
+      "explanation": "A sponge has lots of tiny little spaces called pores or holes, but it is great at soaking up and holding water!"
+    }
   }
 ]
