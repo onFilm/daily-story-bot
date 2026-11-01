@@ -5534,5 +5534,37 @@
       "answer": "A keyboard",
       "explanation": "A computer keyboard has keys to type with, a space bar for gaps, and an 'Enter' key, but you cannot physically walk inside it!"
     }
+  },
+  {
+    "date": "2026-11-01T14:01:57.146Z",
+    "theme": "resilience after a setback",
+    "story": "Barnaby the Bear had one big dream: to become the greatest unicycle rider in the forest! 🐻🚲 He practiced every day near the giant oak tree. Today was the big talent show. Barnaby hopped on his shiny unicycle, pedaled twice, and then—WOBBLE! SPLAT! 🍓 He landed right in a giant bowl of strawberry jelly that was meant for the judges! Barnaby looked like a giant, wobbly pink marshmallow. The crowd went quiet. Barnaby felt embarrassed, but then he saw a squirrel giggling. He started to laugh too! 'Well,' he said, wiping jelly off his nose, 'at least I am delicious!' 😋 He cleaned himself up, hopped back on his unicycle, and this time, he rode perfectly while juggling acorns! The crowd cheered loudly for his persistence. Barnaby learned that sometimes, a funny spill is just the start of a great show! 🌟✨",
+    "moral": "When things go wrong, just giggle, brush yourself off, and try again! 🌈💖",
+    "vocabulary": [
+      {
+        "word": "Unicycle",
+        "meaning": "A cycle that has only one wheel."
+      },
+      {
+        "word": "Persistence",
+        "meaning": "Continuing to try even when things are difficult."
+      },
+      {
+        "word": "Embarrassed",
+        "meaning": "Feeling a little shy or silly when something goes wrong in front of others."
+      },
+      {
+        "word": "Delicious",
+        "meaning": "Having a very pleasant taste."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "What has to be broken before you can use it?"
+    },
+    "today_puzzle_answer": {
+      "answer": "An egg",
+      "explanation": "You have to crack the shell to cook or eat the egg inside!"
+    }
   }
 ]
