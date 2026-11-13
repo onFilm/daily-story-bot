@@ -5822,5 +5822,37 @@
       "answer": "A candle",
       "explanation": "When a candle is new, it is long, but as it burns down to give light, it gets shorter and shorter!"
     }
+  },
+  {
+    "date": "2026-11-13T15:05:35.473Z",
+    "theme": "the power of a positive attitude",
+    "story": "Barnaby the Bear was not your average bear. While others spent their mornings fishing, Barnaby spent his time trying to teach his collection of pet rocks how to juggle. 🪨🐻 One Tuesday, Barnaby decided to bake a 'Super-Duper-Honey-Cake' for the forest picnic. Everything started perfectly, but then he accidentally used salt instead of sugar! The batter bubbled, burped, and smelled like a soggy sock. Instead of feeling grumpy, Barnaby giggled, 'Well, this is an unexpected experiment!' He added extra honey, a handful of blueberries, and called it a 'Zesty Forest Surprise.' When his friends arrived, they thought the cake was a fancy new snack! Barnaby realized that even when things go topsy-turvy, a happy heart can turn a silly mistake into a delicious treat. He spent the rest of the day laughing with his friends, feeling absolutely radiant. ✨🎂",
+    "moral": "A positive attitude is like magic—it can turn any oops into an opportunity for fun! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Radiant",
+        "meaning": "Feeling very happy and glowing with joy."
+      },
+      {
+        "word": "Experiment",
+        "meaning": "A test you do to see what happens when you try something new."
+      },
+      {
+        "word": "Unexpected",
+        "meaning": "Something that happens that you did not plan for."
+      },
+      {
+        "word": "Topsy-turvy",
+        "meaning": "When things are upside down or a bit messy and mixed up."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A computer keyboard",
+      "explanation": "It has 'keys' to type with, a 'space' bar, and an 'enter' button, but it isn't a place you can actually walk into!"
+    }
   }
 ]
