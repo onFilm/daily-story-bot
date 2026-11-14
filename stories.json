@@ -5854,5 +5854,37 @@
       "answer": "A computer keyboard",
       "explanation": "It has 'keys' to type with, a 'space' bar, and an 'enter' button, but it isn't a place you can actually walk into!"
     }
+  },
+  {
+    "date": "2026-11-14T13:56:35.906Z",
+    "theme": "empathy and kindness",
+    "story": "Barnaby the Bear had a big problem. He was trying to bake a 'Gigantic Honey Cake' for the forest picnic, but his paws were just too clumsy! 🐻 Every time he tried to stir the bowl, the spoon flew across the kitchen like a rocket ship! *Whoosh!* One spoon even landed in his fuzzy hat. 🎩 Suddenly, his friend Pip the Squirrel scampered in. Pip saw Barnaby looking sad with flour on his nose. Instead of laughing, Pip said, 'That looks like a tricky recipe, Barnaby! May I help?' Pip used his tiny, nimble paws to stir the batter perfectly while Barnaby carefully poured the honey. 🍯 They worked as a team, laughing every time the flour made them sneeze—*Achoo!* By the end, they had the most delicious cake in the whole forest. Barnaby realized that being kind and helping a friend is the best way to turn a clumsy day into a yummy one! 🍰✨",
+    "moral": "When we show empathy and help others, we make big tasks feel small and friendship grow strong! 🌟🤝",
+    "vocabulary": [
+      {
+        "word": "Clumsy",
+        "meaning": "Moving in a way that is not graceful; often dropping or bumping into things."
+      },
+      {
+        "word": "Nimble",
+        "meaning": "Moving quickly and lightly with great skill."
+      },
+      {
+        "word": "Empathy",
+        "meaning": "Understanding and sharing how someone else is feeling."
+      },
+      {
+        "word": "Gigantic",
+        "meaning": "Very, very big; huge!"
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. I am full of water, but I cannot drink. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A bottle",
+      "explanation": "A bottle has a narrow 'neck' at the top and a lid that acts like a 'cap', but it doesn't have a face or hair!"
+    }
   }
 ]
