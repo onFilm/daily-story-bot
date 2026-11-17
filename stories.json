@@ -5950,5 +5950,37 @@
       "answer": "A book",
       "explanation": "A book has paper pages that are called leaves, a spine that holds the pages together, and you read it to learn new stories!"
     }
+  },
+  {
+    "date": "2026-11-17T16:40:42.424Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a very big secret. He accidentally bumped into the Great Honey Pot of Blueberry Forest, and it tipped over! Oh no! 🍯 The delicious honey made a sticky puddle all over the forest path. Barnaby felt a little bit nervous. He quickly grabbed some big leaves to cover the sticky spot. When Mayor Owl came by, Barnaby pretended to be busy looking at clouds. 'Is everything okay here?' asked Mayor Owl. Barnaby felt his tummy do a somersault. He knew he should be honest. 'Actually, Mayor Owl, I had a little accident with the honey pot,' Barnaby whispered. He showed the Mayor the puddle. To his surprise, Mayor Owl smiled. 'Thank you for telling me the truth, Barnaby! Accidents happen to everyone, but being honest shows you are a truly brave bear.' Together, they cleaned the sticky mess, and the forest smelled like yummy blueberries all afternoon! 🫐✨",
+    "moral": "Being honest takes courage, but it is always the right thing to do! Your friends and family will respect you even more when you tell the truth. 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Accident",
+        "meaning": "Something that happens by mistake without being planned."
+      },
+      {
+        "word": "Honest",
+        "meaning": "Always telling the truth and not hiding facts."
+      },
+      {
+        "word": "Somersault",
+        "meaning": "A rolling movement or a flip, often used to describe a jumpy feeling in your tummy."
+      },
+      {
+        "word": "Respect",
+        "meaning": "Having a high opinion of someone because of their good character."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but no locks. I have a space, but no room. You can enter, but you can never leave. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A computer keyboard",
+      "explanation": "A keyboard has keys for typing, a 'space' bar for gaps, and an 'enter' button, but it isn't a place you can physically walk into!"
+    }
   }
 ]
