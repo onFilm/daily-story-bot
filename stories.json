@@ -6046,5 +6046,37 @@
       "answer": "A computer keyboard",
       "explanation": "A keyboard has keys to type letters and a 'space bar' to make spaces between words, but it doesn't open any doors!"
     }
+  },
+  {
+    "date": "2026-11-20T15:54:55.098Z",
+    "theme": "the importance of listening",
+    "story": "Barnaby the Bear had the biggest, floppiest ears in the whole Whispering Woods. 🐻 But there was a tiny problem: Barnaby was a terrible listener! One sunny morning, his friend Squeaky the Squirrel hopped over. 'Barnaby,' Squeaky chirped, 'the bees are moving their honey hive to the Big Oak tree today. Please, stay away from the flowers near the path!' Barnaby was busy daydreaming about giant blueberry muffins. 🧁 He just nodded and said, 'Uh-huh, sure thing, Squeaky!' Later, Barnaby saw a beautiful blue flower near the path. 'I’ll just take one sniff!' he thought. But because he wasn't listening, he didn't hear the buzzing of a thousand busy bees! 🐝 He tripped over his own big feet and landed right in a patch of ticklish daisies instead of the hive. He started giggling uncontrollably because the daisies tickled his nose! 🌼 Squeaky rushed over and helped him up. 'I told you the bees were moving!' Squeaky laughed. Barnaby wiped pollen off his nose and grinned. 'You were right, Squeaky! My ears are big, but I guess I need to turn on my brain when I use them!' From that day on, Barnaby made sure to listen carefully whenever his friends spoke. 👂✨",
+    "moral": "Listening carefully is a superpower that keeps us safe and helps us be better friends! 🌟😊",
+    "vocabulary": [
+      {
+        "word": "Floppy",
+        "meaning": "Soft and hanging down loosely."
+      },
+      {
+        "word": "Daydreaming",
+        "meaning": "Thinking about pleasant things while you are awake."
+      },
+      {
+        "word": "Uncontrollably",
+        "meaning": "When something happens and you cannot stop it from happening."
+      },
+      {
+        "word": "Pollen",
+        "meaning": "The yellow powder found in flowers."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have a neck but no head, and I wear a cap but have no hair. I am filled with something to help you grow. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A water bottle",
+      "explanation": "The top of a bottle is called the neck, the lid is called a cap, and it holds water to keep you healthy and hydrated!"
+    }
   }
 ]
