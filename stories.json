@@ -6078,5 +6078,37 @@
       "answer": "A water bottle",
       "explanation": "The top of a bottle is called the neck, the lid is called a cap, and it holds water to keep you healthy and hydrated!"
     }
+  },
+  {
+    "date": "2026-11-21T15:05:06.093Z",
+    "theme": "honesty and integrity",
+    "story": "Barnaby the Bear had a big secret. One afternoon, while practicing his juggling with giant blueberries, he accidentally bumped into the snack table. The delicious Honey-Glazed Cake took a flying leap and landed… SPLAT! Right inside the open window of the grumpy Badger’s library. 🍰😲 Barnaby panicked! He quickly pushed the rest of the cake into his mouth and stood there with blue stains on his paws. When the Badger walked out, he frowned, 'Who touched my cake?' Barnaby felt his tummy rumble. He wanted to blame the wind, but his conscience whispered that telling the truth was better. Barnaby gulped, held up his blueberry-stained paws, and said, 'It was me, Mr. Badger! I was juggling and I am very sorry.' To his surprise, the Badger didn't yell. He laughed! 'I saw you juggling, Barnaby! It was impressive, even if it ended in a mess.' The Badger even shared some extra honey with him for being so brave and honest. Barnaby learned that being truthful is much lighter on the heart than hiding a secret! 🐻✨",
+    "moral": "Being honest takes courage, but it always makes you feel better inside! 🌟",
+    "vocabulary": [
+      {
+        "word": "Conscience",
+        "meaning": "The little voice inside your head that tells you what is right or wrong."
+      },
+      {
+        "word": "Impressive",
+        "meaning": "Doing something so well that it makes people say 'Wow!'"
+      },
+      {
+        "word": "Panic",
+        "meaning": "To feel very nervous or worried suddenly."
+      },
+      {
+        "word": "Honest",
+        "meaning": "Always telling the truth and not hiding things."
+      }
+    ],
+    "today_puzzle": {
+      "type": "riddle",
+      "question": "I have keys, but I cannot open any locks. I have a space, but no room to move. You can use me to write, but I don't use a pen. What am I?"
+    },
+    "today_puzzle_answer": {
+      "answer": "A keyboard",
+      "explanation": "A computer keyboard has keys to type with, a space bar, and it helps you write words on a screen!"
+    }
   }
 ]
